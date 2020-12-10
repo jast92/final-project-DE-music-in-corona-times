@@ -1,0 +1,101 @@
+current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
+1,Samra & Capital Bra,Wieder Lila,Universal Domestic Urban,2,1,2019-05-31,2019-06-06,2019,5
+2,Juju feat. Henning May,Vermissen,Jinx Music,4,1,2019-05-31,2019-06-06,2019,5
+3,Lil Nas X,Old Town Road,SME - Columbia,9,1,2019-05-31,2019-06-06,2019,5
+4,Ed Sheeran & Justin Bieber,I Don't Care,Atlantic,3,3,2019-05-31,2019-06-06,2019,5
+5,Samra,Marlboro Rot,Universal Domestic Urban,1,5,2019-05-31,2019-06-06,2019,5
+6,RIN,Vintage,SME - Division,1,6,2019-05-31,2019-06-06,2019,5
+7,Billie Eilish,Bad Guy,Universal,9,4,2019-05-31,2019-06-06,2019,5
+8,Kontra K,Letzte Träne,BMG,2,6,2019-05-31,2019-06-06,2019,5
+9,Shindy,Nautilus,SME - Friends With Money,3,2,2019-05-31,2019-06-06,2019,5
+10,Daddy Yankee feat. Snow,Con calma,Universal,15,6,2019-05-31,2019-06-06,2019,5
+11,Avicii feat. Aloe Blacc,SOS,Universal,7,8,2019-05-31,2019-06-06,2019,5
+12,Rammstein,Deutschland,Rammstein,9,1,2019-05-31,2019-06-06,2019,5
+13,Mabel [UK],Don't Call Me Up,Polydor,15,10,2019-05-31,2019-06-06,2019,5
+14,Bausa,Mary,Warner Music Germany,9,8,2019-05-31,2019-06-06,2019,5
+15,Ufo361 feat. Luciano,Gib Gas,Stay High,2,7,2019-05-31,2019-06-06,2019,5
+16,Kontra K feat. Veysel,Blei,BMG,7,6,2019-05-31,2019-06-06,2019,5
+17,Olexesh,Barrio,Universal Domestic Urban,2,17,2019-05-31,2019-06-06,2019,5
+18,Lewis Capaldi,Someone You Loved,Universal Domestic Vertigo,17,18,2019-05-31,2019-06-06,2019,5
+19,Sido,Das Buch,Universal Domestic Urban,1,19,2019-05-31,2019-06-06,2019,5
+20,Capital Bra feat. Summer Cem & KC Rebell,Rolex,Universal Domestic Urban,7,2,2019-05-31,2019-06-06,2019,5
+21,Dardan,Coco Mama,Universal Domestic Urban,8,4,2019-05-31,2019-06-06,2019,5
+22,Jonas Brothers,Sucker,Jonas Brothers Recording,13,20,2019-05-31,2019-06-06,2019,5
+23,Ed Sheeran feat. Chance The Rapper & PnB Rock,Cross Me,Atlantic,1,23,2019-05-31,2019-06-06,2019,5
+24,Capital Bra,Cherry Lady,Universal Domestic Urban,10,1,2019-05-31,2019-06-06,2019,5
+25,Kontra K,Alles was sie will,BMG,1,25,2019-05-31,2019-06-06,2019,5
+26,Meduza feat. Goodboys,Piece Of Your Heart,Virgin Records,4,26,2019-05-31,2019-06-06,2019,5
+27,Shirin David,Fliegst Du mit,Shirin David Music,2,8,2019-05-31,2019-06-06,2019,5
+28,Sarah Connor,Vincent,Universal Domestic Polydor,8,28,2019-05-31,2019-06-06,2019,5
+29,Shawn Mendes,If I Can't Have You,Island,4,14,2019-05-31,2019-06-06,2019,5
+30,Imagine Dragons,Bad Liar,Interscope,28,16,2019-05-31,2019-06-06,2019,5
+31,Ardian Bujupi x Fero47,Wie im Traum,SME - Columbia Domestic,5,15,2019-05-31,2019-06-06,2019,5
+32,"Samra feat. Capital Bra, Brudi30 & Kalazh44",Ghetto,Universal Domestic Urban,4,9,2019-05-31,2019-06-06,2019,5
+33,Taylor Swift feat. Brendon Urie of Panic! At The Disco,Me!,Taylor Swift Productions,5,12,2019-05-31,2019-06-06,2019,5
+34,Bausa,Weiss noch nicht wie,Warner Music Germany,1,34,2019-05-31,2019-06-06,2019,5
+35,Ava Max,So Am I,Atlantic,12,21,2019-05-31,2019-06-06,2019,5
+36,Lena,Don't Lie To Me,Universal Domestic Polydor,10,36,2019-05-31,2019-06-06,2019,5
+37,Gallo Nero & RAF Camora,Hermès,SME - Andere Liga,1,37,2019-05-31,2019-06-06,2019,5
+38,Mero,Wolke 10,Groove Attack TraX,12,1,2019-05-31,2019-06-06,2019,5
+39,Ava Max,Sweet But Psycho,Atlantic,32,1,2019-05-31,2019-06-06,2019,5
+40,Michael Schulte,Back To The Start,Very Us Records,5,40,2019-05-31,2019-06-06,2019,5
+41,Samra,Harami,Universal Domestic Urban,8,1,2019-05-31,2019-06-06,2019,5
+42,Pietro Lombardi,Bella Donna,Universal Domestic Polydor,4,3,2019-05-31,2019-06-06,2019,5
+43,Shindy,Affalterbach,SME - Friends With Money,10,3,2019-05-31,2019-06-06,2019,5
+44,Moe Phoenix feat. Eno,3%,Life Is Pain,1,44,2019-05-31,2019-06-06,2019,5
+45,Rammstein,Ausländer,Rammstein,2,16,2019-05-31,2019-06-06,2019,5
+46,LX & Maxwell feat. Gzuz & Gallo Nero,Perdono,187 Strassenbande,3,6,2019-05-31,2019-06-06,2019,5
+47,Rammstein,Radio,Rammstein,5,4,2019-05-31,2019-06-06,2019,5
+48,Kontra K,Warnung,BMG,11,6,2019-05-31,2019-06-06,2019,5
+49,Dominic Fike,3 Nights,SME - Columbia,6,44,2019-05-31,2019-06-06,2019,5
+50,Capital Bra x Samra,Wir ticken,Universal Domestic Urban,11,1,2019-05-31,2019-06-06,2019,5
+51,Lady Gaga & Bradley Cooper,Shallow,Interscope,35,4,2019-05-31,2019-06-06,2019,5
+52,Ufo361 feat. RIN,Next,Stay High,5,3,2019-05-31,2019-06-06,2019,5
+53,Martin Garrix feat. Macklemore & Patrick Stump of Fall Out Boy,Summer Days,SME - Epic,4,53,2019-05-31,2019-06-06,2019,5
+54,Eno,Blackberry Sky,Alles Oder Nix Records,10,2,2019-05-31,2019-06-06,2019,5
+55,Rammstein,Zeig dich,Rammstein,2,13,2019-05-31,2019-06-06,2019,5
+56,Gaullin,Moonlight,SME - B1 Recordings,15,24,2019-05-31,2019-06-06,2019,5
+57,Capital Bra,Prinzessa,Universal Domestic Urban,18,1,2019-05-31,2019-06-06,2019,5
+58,The Prince Karma,Later Bitches,Kontor Records,15,36,2019-05-31,2019-06-06,2019,5
+59,C Arma,Yapma,C Arma,21,29,2019-05-31,2019-06-06,2019,5
+60,KC Rebell feat. Summer Cem & Capital Bra,DNA,Rebell Army,15,1,2019-05-31,2019-06-06,2019,5
+61,KC Rebell,Quarterback,Rebell Army,6,8,2019-05-31,2019-06-06,2019,5
+62,Matt Simons,Open Up,Pias,6,62,2019-05-31,2019-06-06,2019,5
+63,Dardan,Sorry,Universal Domestic Urban,2,29,2019-05-31,2019-06-06,2019,5
+64,Kontra K,Weine nicht,BMG,1,64,2019-05-31,2019-06-06,2019,5
+65,Post Malone,Wow.,Republic Records,22,16,2019-05-31,2019-06-06,2019,5
+66,Calvin Harris & Rag'n'Bone Man,Giant,SME - Columbia,20,6,2019-05-31,2019-06-06,2019,5
+67,Dynoro & Gigi D'Agostino,In My Mind,SME - B1 Recordings,51,1,2019-05-31,2019-06-06,2019,5
+68,Kontra K,Kampfgeist 4,BMG,5,11,2019-05-31,2019-06-06,2019,5
+69,Shirin David,Gib ihm,Shirin David Music,15,1,2019-05-31,2019-06-06,2019,5
+70,OneRepublic,Rescue Me,Interscope,2,70,2019-05-31,2019-06-06,2019,5
+71,Dennis Lloyd,Never Go Back,SME - Arista,8,71,2019-05-31,2019-06-06,2019,5
+72,Rammstein,Puppe,Rammstein,2,22,2019-05-31,2019-06-06,2019,5
+73,Alec Benjamin,Let Me Down Slowly,Atlantic,17,40,2019-05-31,2019-06-06,2019,5
+74,Sero el Mero,Ohne Sinn,Groove Attack TraX,4,10,2019-05-31,2019-06-06,2019,5
+75,Ellie Goulding,Sixteen,Polydor,1,75,2019-05-31,2019-06-06,2019,5
+76,Panic! At The Disco,High Hopes,Atlantic,43,5,2019-05-31,2019-06-06,2019,5
+77,Young Thug feat. J. Cole & Travis Scott,The London,300 Entertainment,1,77,2019-05-31,2019-06-06,2019,5
+78,Apache 207,Brot nach Hause,SME - Two Sides,3,49,2019-05-31,2019-06-06,2019,5
+79,Robin Schulz feat. Erika Sirola,Speechless,Warner Music Germany,28,7,2019-05-31,2019-06-06,2019,5
+80,Marshmello feat. Chvrches,Here With Me,Republic Records,11,49,2019-05-31,2019-06-06,2019,5
+81,Kygo and Rita Ora,Carry On,SME - RCA International,6,61,2019-05-31,2019-06-06,2019,5
+82,Samra,Shoote ma Shoote,Universal Domestic Urban,8,14,2019-05-31,2019-06-06,2019,5
+83,Bonez MC & RAF Camora,500 PS,Universal Domestic Vertigo,43,1,2019-05-31,2019-06-06,2019,5
+84,Kontra K,Farben,BMG,11,6,2019-05-31,2019-06-06,2019,5
+85,The BossHoss feat. Mimi & Josy,Little Help,Universal Domestic Island,4,32,2019-05-31,2019-06-06,2019,5
+86,Mahmood,Soldi,Universal,2,32,2019-05-31,2019-06-06,2019,5
+87,Kontra K,Benzin,BMG,1,87,2019-05-31,2019-06-06,2019,5
+88,Sido,Wie Papa,Universal Domestic Urban,3,17,2019-05-31,2019-06-06,2019,5
+89,Lauv & Troye Sivan,I'm So Tired...,Lauv,18,42,2019-05-31,2019-06-06,2019,5
+90,Mathea,2x,Earcandy Recordings,12,49,2019-05-31,2019-06-06,2019,5
+91,KC Rebell,Alleen,Rebell Army,11,4,2019-05-31,2019-06-06,2019,5
+92,Kontra K feat. Jah Khalib,Nur ein Grund,BMG,4,18,2019-05-31,2019-06-06,2019,5
+93,Johannes Oerding,An guten Tagen,SME - Columbia Domestic,3,45,2019-05-31,2019-06-06,2019,5
+94,Capital Bra feat. Nimo,Bye Bye,Universal Domestic Urban,7,7,2019-05-31,2019-06-06,2019,5
+95,Loud Luxury feat. Brando,Body,Kontor Records,53,7,2019-05-31,2019-06-06,2019,5
+96,Rammstein,Sex,Rammstein,2,27,2019-05-31,2019-06-06,2019,5
+97,Nico Santos,Unforgettable,Virgin Records,2,97,2019-05-31,2019-06-06,2019,5
+98,Capital Bra,Benzema,Universal Domestic Urban,23,1,2019-05-31,2019-06-06,2019,5
+99,Ariana Grande,7 Rings,Republic Records,19,4,2019-05-31,2019-06-06,2019,5
+100,Duncan Laurence,Arcade,Universal,2,26,2019-05-31,2019-06-06,2019,5

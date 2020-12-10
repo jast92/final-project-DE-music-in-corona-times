@@ -1,0 +1,101 @@
+current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
+1,Marshmello & Anne-Marie,Friends,Atlantic,6,1,2018-03-23,2018-03-29,2018,3
+2,Olexesh feat. Edin,Magisch,385ideal,5,1,2018-03-23,2018-03-29,2018,3
+3,"Rudimental feat. Jess Glynne, Macklemore & Dan Caplen",These Days,Atlantic,9,3,2018-03-23,2018-03-29,2018,3
+4,Drake,God's Plan,Motown,9,1,2018-03-23,2018-03-29,2018,3
+5,Azet feat. Zuna & Noizy,Kriminell,KMN Gang,1,5,2018-03-23,2018-03-29,2018,3
+6,The Chainsmokers,Sick Boy,Columbia,9,5,2018-03-23,2018-03-29,2018,3
+7,Ufo361 feat. Capital Bra,Power,Stay High,1,7,2018-03-23,2018-03-29,2018,3
+8,Tom Walker,Leave A Light On,Relentless Records,12,8,2018-03-23,2018-03-29,2018,3
+9,Luis Fonsi & Demi Lovato,Échame la culpa,Universal,18,6,2018-03-23,2018-03-29,2018,3
+10,Bausa,Was du Liebe nennst,Warner Music Germany,25,1,2018-03-23,2018-03-29,2018,3
+11,Justin Timberlake feat. Chris Stapleton,Say Something,RCA International,8,11,2018-03-23,2018-03-29,2018,3
+12,Eminem feat. Ed Sheeran,River,Interscope,14,2,2018-03-23,2018-03-29,2018,3
+13,Ed Sheeran,Perfect,Atlantic,34,1,2018-03-23,2018-03-29,2018,3
+14,Liam Payne & Rita Ora,For You (Fifty Shades Freed),Republic Records,11,1,2018-03-23,2018-03-29,2018,3
+15,Jax Jones feat. Ina Wroldsen,Breathe,Polydor,11,15,2018-03-23,2018-03-29,2018,3
+16,Dua Lipa,IDGAF,Universal Domestic Urban,9,15,2018-03-23,2018-03-29,2018,3
+17,Zedd / Maren Morris / Grey,The Middle,Interscope,8,17,2018-03-23,2018-03-29,2018,3
+18,Post Malone feat. Ty Dolla $ign,Psycho,Universal,4,6,2018-03-23,2018-03-29,2018,3
+19,Nico Santos,Rooftop,Virgin Records,19,5,2018-03-23,2018-03-29,2018,3
+20,Ramz,Barking,Polydor,4,20,2018-03-23,2018-03-29,2018,3
+21,Camila Cabello feat. Young Thug,Havana,Epic,31,2,2018-03-23,2018-03-29,2018,3
+22,Martin Garrix & David Guetta feat. Jamie Scott & Romy Dya,So Far Away,B1 Recordings,16,8,2018-03-23,2018-03-29,2018,3
+23,Lost Frequencies & Zonderling,Crazy,Kontor Records,13,13,2018-03-23,2018-03-29,2018,3
+24,Jason Derulo feat. French Montana,Tip Toe,Beluga Heights,19,11,2018-03-23,2018-03-29,2018,3
+25,Rooz x MoTrip,Immer wieder,Universal Domestic Urban,2,25,2018-03-23,2018-03-29,2018,3
+26,Bazzi,Mine,ZZZ Entertainment,6,25,2018-03-23,2018-03-29,2018,3
+27,Sean Paul + David Guetta feat. Becky G,Mad Love,Island,5,27,2018-03-23,2018-03-29,2018,3
+28,LEA,Leiser,Four Music,16,13,2018-03-23,2018-03-29,2018,3
+29,Post Malone feat. 21 Savage,Rockstar,Universal,27,2,2018-03-23,2018-03-29,2018,3
+30,G-Eazy & Halsey,Him & I,RCA International,16,6,2018-03-23,2018-03-29,2018,3
+31,David Guetta / Martin Garrix / Brooks,Like I Do,Parlophone Label Group,4,31,2018-03-23,2018-03-29,2018,3
+32,Nicky Jam x J Balvin,X,Sony Music,3,32,2018-03-23,2018-03-29,2018,3
+33,XXXTentacion,Sad!,Bad Vibes Forever,3,33,2018-03-23,2018-03-29,2018,3
+34,Robin Schulz & Marc Scibilia,Unforgettable,Warner Music Germany,5,34,2018-03-23,2018-03-29,2018,3
+35,Kendrick Lamar & SZA,All The Stars,Universal,11,27,2018-03-23,2018-03-29,2018,3
+36,Khalid x Normani,Love Lies,RCA International,5,36,2018-03-23,2018-03-29,2018,3
+37,Axwell Λ Ingrosso,Dreamer,Virgin Records,12,34,2018-03-23,2018-03-29,2018,3
+38,James Hype feat. Kelli-Leigh,More Than Friends,Warner Music International,17,23,2018-03-23,2018-03-29,2018,3
+39,The Weeknd & Kendrick Lamar,Pray For Me,Universal,7,24,2018-03-23,2018-03-29,2018,3
+40,Azet feat. RAF Camora,Qa bone,KMN Gang,13,12,2018-03-23,2018-03-29,2018,3
+41,Kygo feat. Miguel,Remind Me To Forget,Kygo,1,41,2018-03-23,2018-03-29,2018,3
+42,RAF Camora,Corleone,Indipendenza,4,13,2018-03-23,2018-03-29,2018,3
+43,Ofenbach vs. Nick Waterhouse,Katchi,Warner Music International,21,9,2018-03-23,2018-03-29,2018,3
+44,Ufo361,Beverly Hills,Stay High,7,4,2018-03-23,2018-03-29,2018,3
+45,Selena Gomez x Marshmello,Wolves,Universal,21,11,2018-03-23,2018-03-29,2018,3
+46,Veysel & Mozzik,Ti amo,Bela Boyz,9,42,2018-03-23,2018-03-29,2018,3
+47,NF,Let You Down,Capitol,22,9,2018-03-23,2018-03-29,2018,3
+48,Logic & Marshmello,Everyday,Def Jam,3,48,2018-03-23,2018-03-29,2018,3
+49,Felix Jaehn feat. Marc E. Bassy & Gucci Mane,Cool,Virgin Records,6,44,2018-03-23,2018-03-29,2018,3
+50,Ed Sheeran,Shape Of You,Atlantic,63,1,2018-03-23,2018-03-29,2018,3
+51,BlocBoy JB feat. Drake,Look Alive,OVO Sound,6,48,2018-03-23,2018-03-29,2018,3
+52,Zuna,Ayé,KMN Gang,3,23,2018-03-23,2018-03-29,2018,3
+53,Rea Garvey feat. Kool Savas,Is It Love?,Universal Domestic Island,8,53,2018-03-23,2018-03-29,2018,3
+54,Rita Ora,Anywhere,Atlantic,18,18,2018-03-23,2018-03-29,2018,3
+55,Hailee Steinfeld x BloodPop®,Capital Letters,Republic Records,6,32,2018-03-23,2018-03-29,2018,3
+56,RAF Camora,Primo,Indipendenza,30,6,2018-03-23,2018-03-29,2018,3
+57,Kontra K,Zwischen Himmel & Hölle,BMG,3,15,2018-03-23,2018-03-29,2018,3
+58,MC Fioti / Future / J Balvin / Stefflon Don / Juan Magan,Bum bum tam tam,Kontor Records,9,51,2018-03-23,2018-03-29,2018,3
+59,Portugal. The Man,Feel It Still,Atlantic,27,7,2018-03-23,2018-03-29,2018,3
+60,Marshmello feat. Khalid,Silence,RCA International,31,6,2018-03-23,2018-03-29,2018,3
+61,Kay One feat. Pietro Lombardi,Señorita,Princekayone GmbH,28,1,2018-03-23,2018-03-29,2018,3
+62,Ufo361,Balenciaga,Stay High,4,16,2018-03-23,2018-03-29,2018,3
+63,Camila Cabello,Never Be The Same,Epic,10,30,2018-03-23,2018-03-29,2018,3
+64,Justin Bieber + BloodPop®,Friends,Republic Records,31,4,2018-03-23,2018-03-29,2018,3
+65,Bebe Rexha feat. Florida Georgia Line,Meant To Be,Warner Music International,11,62,2018-03-23,2018-03-29,2018,3
+66,Luis Fonsi feat. Daddy Yankee,Despacito,Universal,60,1,2018-03-23,2018-03-29,2018,3
+67,James Arthur,Naked,Columbia Domestic,17,23,2018-03-23,2018-03-29,2018,3
+68,"Machine Gun Kelly, X Ambassadors & Bebe Rexha",Home,Atlantic,18,27,2018-03-23,2018-03-29,2018,3
+69,Axwell Λ Ingrosso,More Than You Know,Virgin Records,41,1,2018-03-23,2018-03-29,2018,3
+70,Daddy Yankee,Dura,EMI,4,70,2018-03-23,2018-03-29,2018,3
+71,Imagine Dragons,Whatever It Takes,Interscope,25,7,2018-03-23,2018-03-29,2018,3
+72,Dua Lipa,New Rules,Universal Domestic Urban,34,9,2018-03-23,2018-03-29,2018,3
+73,George Ezra,Paradise,Columbia,3,73,2018-03-23,2018-03-29,2018,3
+74,J Balvin & Willy William,Mi gente,B1 Recordings,38,3,2018-03-23,2018-03-29,2018,3
+75,The Chainsmokers,Everybody Hates Me,Disruptor Records,1,75,2018-03-23,2018-03-29,2018,3
+76,Zayn feat. Sia,Dusk Till Dawn,RCA International,28,3,2018-03-23,2018-03-29,2018,3
+77,Haftbefehl feat. Farid Bang,Chabos wissen wer der Babo ist,Universal Domestic Urban,12,30,2018-03-23,2018-03-29,2018,3
+78,Bonez MC & RAF Camora feat. Maxwell,Ohne mein Team,Auf!Keinen!Fall!,81,7,2018-03-23,2018-03-29,2018,3
+79,French Montana feat. Swae Lee,Unforgettable,Epic,49,6,2018-03-23,2018-03-29,2018,3
+80,Clean Bandit feat. Julia Michaels,I Miss You,Atlantic,19,49,2018-03-23,2018-03-29,2018,3
+81,Lil Dicky feat. Chris Brown,Freaky Friday,Commission Records,1,81,2018-03-23,2018-03-29,2018,3
+82,Niska,Réseaux,Capitol,9,41,2018-03-23,2018-03-29,2018,3
+83,Julia Michaels,Heaven,Republic Records,4,71,2018-03-23,2018-03-29,2018,3
+84,Imagine Dragons,Thunder,Interscope,47,2,2018-03-23,2018-03-29,2018,3
+85,RAF Camora,Gotham City,Indipendenza,14,9,2018-03-23,2018-03-29,2018,3
+86,Cro,Noch da,Chimperator Productions,1,86,2018-03-23,2018-03-29,2018,3
+87,Nimo,Heute mit mir,Universal Domestic Urban,41,10,2018-03-23,2018-03-29,2018,3
+88,Dardan x Luciano,Airmax gegen Kopf,Universal Domestic Urban,7,28,2018-03-23,2018-03-29,2018,3
+89,XXXTentacion,Moonlight,Bad Vibes Forever,1,89,2018-03-23,2018-03-29,2018,3
+90,Gzuz,¿Was hast du gedacht?,187 Strassenbande,6,5,2018-03-23,2018-03-29,2018,3
+91,Kygo feat. Justin Jesso,Stargazing,B1 Recordings,26,14,2018-03-23,2018-03-29,2018,3
+92,RAF Camora,Sag nix,Indipendenza,15,6,2018-03-23,2018-03-29,2018,3
+93,Bruno Mars,Finesse,Atlantic,11,31,2018-03-23,2018-03-29,2018,3
+94,Gestört aber GeiL feat. Lea,Wohin willst du,Kontor Records,41,11,2018-03-23,2018-03-29,2018,3
+95,Trettmann feat. Gzuz,Knöcheltief,SoulForce Records,28,31,2018-03-23,2018-03-29,2018,3
+96,Big Shaq,Man's Not Hot,Island,20,26,2018-03-23,2018-03-29,2018,3
+97,Imagine Dragons,Believer,Interscope,50,23,2018-03-23,2018-03-29,2018,3
+98,Avicii feat. Rita Ora,Lonely Together,Virgin Records,27,24,2018-03-23,2018-03-29,2018,3
+99,XXXTentacion,Changes,Bad Vibes Forever,1,99,2018-03-23,2018-03-29,2018,3
+100,Charlie Puth feat. Kehlani,Done For Me,Artist Partner Group,1,100,2018-03-23,2018-03-29,2018,3

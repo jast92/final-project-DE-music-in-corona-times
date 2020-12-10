@@ -1,0 +1,101 @@
+current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
+1,AK Ausserkontrolle x Bonez MC,In meinem Benz,XY Records,1,1,2020-06-05,2020-06-11,2020,6
+2,Pashanim,Airwaves,Urban,3,2,2020-06-05,2020-06-11,2020,6
+3,Apache 207,Fame,SME - Two Sides,4,1,2020-06-05,2020-06-11,2020,6
+4,KC Rebell x Summer Cem,Fly,Banger Musik,1,4,2020-06-05,2020-06-11,2020,6
+5,Bonez MC,Roadrunner,187 Strassenbande,2,1,2020-06-05,2020-06-11,2020,6
+6,Shirin David,Hoes Up G's Down,Juicy Money Records,1,6,2020-06-05,2020-06-11,2020,6
+7,DaBaby feat. Roddy Ricch,Rockstar,Interscope,7,5,2020-06-05,2020-06-11,2020,6
+8,Kalim & Ufo361,SKRR,Urban,1,8,2020-06-05,2020-06-11,2020,6
+9,Ufo361,Emotions,Stay High,6,2,2020-06-05,2020-06-11,2020,6
+10,LEA & Capital Bra,7 Stunden,SME - Four Music,1,10,2020-06-05,2020-06-11,2020,6
+11,The Weeknd,Blinding Lights,Republic Records,27,1,2020-06-05,2020-06-11,2020,6
+12,SAINt JHN,Roses (Imanbek Remix),B1 Recordings,27,3,2020-06-05,2020-06-11,2020,6
+13,Mero,Bogota,Groove Attack TraX,1,13,2020-06-05,2020-06-11,2020,6
+14,Reezy x Bausa,Sandmann,SME - Two Sides,1,14,2020-06-05,2020-06-11,2020,6
+15,Farid Bang feat. Capo & Rick Ross,Scarface,Farid Bang,1,15,2020-06-05,2020-06-11,2020,6
+16,Surf Mesa feat. Emilee,ILY (I Love You Baby),Astralwerk,11,7,2020-06-05,2020-06-11,2020,6
+17,Mark Forster,Übermorgen,SME - Marecs,5,15,2020-06-05,2020-06-11,2020,6
+18,Capital Bra,Komm komm,Urban,2,2,2020-06-05,2020-06-11,2020,6
+19,Topic feat. A7S,Breaking Me,Virgin Records,22,3,2020-06-05,2020-06-11,2020,6
+20,Ava Max,Kings & Queens,Atlantic,12,16,2020-06-05,2020-06-11,2020,6
+21,Lady Gaga & Ariana Grande,Rain On Me,Interscope,2,9,2020-06-05,2020-06-11,2020,6
+22,Vize & Tom Gregory,Never Let Me Down,Kontor Records,6,22,2020-06-05,2020-06-11,2020,6
+23,Capital Bra x Loredana,Nicht verdient,Urban,5,1,2020-06-05,2020-06-11,2020,6
+24,Drake,Toosie Slide,Republic Records,9,2,2020-06-05,2020-06-11,2020,6
+25,Robin Schulz feat. Alida,In Your Eyes,Warner Music Germany,21,5,2020-06-05,2020-06-11,2020,6
+26,Gringo x Capital Bra,Bam bam,SME - SLS Music,1,26,2020-06-05,2020-06-11,2020,6
+27,Nea,Some Say,SME - Milkshake,18,15,2020-06-05,2020-06-11,2020,6
+28,Tones And I,Dance Monkey,Bad Batch Records,43,1,2020-06-05,2020-06-11,2020,6
+29,Apache 207,Roller,SME - Two Sides,41,1,2020-06-05,2020-06-11,2020,6
+30,Kayef,Ich würd' lügen,Recordjet,9,13,2020-06-05,2020-06-11,2020,6
+31,Fourty,Weisser Rauch,Life Is Pain,6,30,2020-06-05,2020-06-11,2020,6
+32,Nimo feat. Ramo,Alles zu viel,385ideal,1,32,2020-06-05,2020-06-11,2020,6
+33,Ava Max,Salt,Atlantic,16,10,2020-06-05,2020-06-11,2020,6
+34,Nico Santos & Topic,Like I Love You,Virgin Records,7,24,2020-06-05,2020-06-11,2020,6
+35,Benee feat. Gus Dapperton,Supalonely,Universal,12,26,2020-06-05,2020-06-11,2020,6
+36,LEA,Treppenhaus,SME - Four Music,13,18,2020-06-05,2020-06-11,2020,6
+37,Luciano [DE],Late Night,Urban,5,7,2020-06-05,2020-06-11,2020,6
+38,Black Eyed Peas / Ozuna + J. Rey Soul,Mamacita,SME - Epic,6,37,2020-06-05,2020-06-11,2020,6
+39,Dardan,Favela,Hypnotize Entertainment,2,11,2020-06-05,2020-06-11,2020,6
+40,Céline [DE],Tränen aus Kajal,BTGS,9,17,2020-06-05,2020-06-11,2020,6
+41,Céline [DE],Wenn ich will,BTGS,1,41,2020-06-05,2020-06-11,2020,6
+42,Powfu feat. Beabadoobee,Death Bed,SME - Independently Popular.,13,18,2020-06-05,2020-06-11,2020,6
+43,Sarah Lombardi,Te amo mi amor,SME - Ariola,3,11,2020-06-05,2020-06-11,2020,6
+44,Regard,Ride It,B1 Recordings/Ministry of Sound,37,4,2020-06-05,2020-06-11,2020,6
+45,Shirin David,90-60-111,Juicy Money Records,6,1,2020-06-05,2020-06-11,2020,6
+46,Luciano [DE],Maison,Urban,3,9,2020-06-05,2020-06-11,2020,6
+47,KC Rebell x Summer Cem,Geht nich gibs nich,Banger Musik,3,4,2020-06-05,2020-06-11,2020,6
+48,Doja Cat,Say So,SME - RCA International,14,33,2020-06-05,2020-06-11,2020,6
+49,Dua Lipa,Physical,Urban,18,14,2020-06-05,2020-06-11,2020,6
+50,Felix Jaehn feat. Gashi & Faangs,Sicko,Virgin Records,4,50,2020-06-05,2020-06-11,2020,6
+51,Fero47,Anders,SME - Epic Domestic,3,27,2020-06-05,2020-06-11,2020,6
+52,Fynn Kliemann,Alles was ich hab,twoFinger Records / BMG,5,40,2020-06-05,2020-06-11,2020,6
+53,Samra,BaeBae,Urban,8,2,2020-06-05,2020-06-11,2020,6
+54,Manuellsen,Toss It,König im Schatten Records,1,54,2020-06-05,2020-06-11,2020,6
+55,The Scotts [Travis Scott & Kid Cudi],The Scotts,SME - Epic,6,8,2020-06-05,2020-06-11,2020,6
+56,Zoe Wees,Control,Caroline Records,2,56,2020-06-05,2020-06-11,2020,6
+57,Megan Thee Stallion,Savage,300 Entertainment,10,33,2020-06-05,2020-06-11,2020,6
+58,Rosalía & Travis Scott,TKN,SME - Columbia,1,58,2020-06-05,2020-06-11,2020,6
+59,Dua Lipa,Don't Start Now,Urban,31,10,2020-06-05,2020-06-11,2020,6
+60,Fynn Kliemann,Twingo,twoFinger Records / BMG,2,55,2020-06-05,2020-06-11,2020,6
+61,Dardan & Monet192,H <3 T E L,Hypnotize Entertainment,11,2,2020-06-05,2020-06-11,2020,6
+62,Alicia Keys,Underdog,SME - RCA International,13,24,2020-06-05,2020-06-11,2020,6
+63,Nimo & Rina,Trendsetter,385ideal,5,18,2020-06-05,2020-06-11,2020,6
+64,Dua Lipa,Break My Heart,Urban,10,26,2020-06-05,2020-06-11,2020,6
+65,Kygo & OneRepublic,Lose Somebody,SME - Kygo,3,45,2020-06-05,2020-06-11,2020,6
+66,Apache 207,200 km/h,SME - Two Sides,37,4,2020-06-05,2020-06-11,2020,6
+67,Pashanim,Hauseingang,Urban,15,56,2020-06-05,2020-06-11,2020,6
+68,Tom Gregory,Fingertips,Kontor Records,13,33,2020-06-05,2020-06-11,2020,6
+69,Michael Patrick Kelly,Beautiful Madness,SME - Columbia Domestic,3,66,2020-06-05,2020-06-11,2020,6
+70,Monet192 feat. Eren Can & Batu,Kanak,Warner Music Germany,1,70,2020-06-05,2020-06-11,2020,6
+71,Fynn Kliemann,Regen,twoFinger Records / BMG,1,71,2020-06-05,2020-06-11,2020,6
+72,Shindy,What's Luv,SME - Friends With Money,9,3,2020-06-05,2020-06-11,2020,6
+73,Felix Jaehn & Vize feat. Miss Li,Close Your Eyes,Virgin Records,24,21,2020-06-05,2020-06-11,2020,6
+74,Bonez MC,Shotz Fired,187 Strassenbande,8,4,2020-06-05,2020-06-11,2020,6
+75,Lady Gaga,Stupid Love,Interscope,8,21,2020-06-05,2020-06-11,2020,6
+76,Haftbefehl x Shirin David,Conan x Xenia,Urban,4,4,2020-06-05,2020-06-11,2020,6
+77,Ariana Grande & Justin Bieber,Stuck With U,Universal,4,19,2020-06-05,2020-06-11,2020,6
+78,Kontra K,Namen,BMG,5,5,2020-06-05,2020-06-11,2020,6
+79,Jerome [DE],Take My Hand,Kontor Records,2,79,2020-06-05,2020-06-11,2020,6
+80,LUM!X x Mokaby & D.T.E x Gabry Ponte,The Passenger (LaLaLa),Spinnin' Records,11,58,2020-06-05,2020-06-11,2020,6
+81,Symba [DE],Angels sippen,SME - Symba,10,13,2020-06-05,2020-06-11,2020,6
+82,LUM!X & Gabry Ponte,Monster,Spinnin' Records,45,20,2020-06-05,2020-06-11,2020,6
+83,Doja Cat,Boss Bitch,Atlantic,12,31,2020-06-05,2020-06-11,2020,6
+84,Capital Bra x Samra & Lea,110,Urban,37,1,2020-06-05,2020-06-11,2020,6
+85,Dú Maroc & Samra,Calle,Azzlackz,1,85,2020-06-05,2020-06-11,2020,6
+86,Roddy Ricch,The Box,Atlantic,22,12,2020-06-05,2020-06-11,2020,6
+87,Trevor Daniel,Falling,Alamo Records,22,13,2020-06-05,2020-06-11,2020,6
+88,Vize & Felix Jaehn,Thank You (Not So Bad),Virgin Records,6,80,2020-06-05,2020-06-11,2020,6
+89,Ali Gatie,Running On My Mind,Warner Music International,1,89,2020-06-05,2020-06-11,2020,6
+90,Lewis Capaldi,Someone You Loved,Universal Domestic Vertigo,70,18,2020-06-05,2020-06-11,2020,6
+91,Billie Eilish,Bad Guy,Universal,62,4,2020-06-05,2020-06-11,2020,6
+92,Loredana x Zuna,Du bist mein,KMN Gang,10,1,2020-06-05,2020-06-11,2020,6
+93,Travis Scott,Highest In The Room,SME - Epic,27,8,2020-06-05,2020-06-11,2020,6
+94,Haftbefehl,Morgenstern,Urban,1,94,2020-06-05,2020-06-11,2020,6
+95,LEA,Okay,SME - Four Music,2,85,2020-06-05,2020-06-11,2020,6
+96,Ardian Bujupi,Modela,SME - Columbia Domestic,2,49,2020-06-05,2020-06-11,2020,6
+97,Gamper & Dadoni,Gimme! Gimme! Gimme!,Big Top Amsterdam,10,69,2020-06-05,2020-06-11,2020,6
+98,Sido feat. Apache 207,2002,Urban,35,6,2020-06-05,2020-06-11,2020,6
+99,Joker Bra & Vize,Baby,Urban,18,1,2020-06-05,2020-06-11,2020,6
+100,Fynn Kliemann,Eine Minute,twoFinger Records / BMG,3,41,2020-06-05,2020-06-11,2020,6

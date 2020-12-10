@@ -1,0 +1,101 @@
+current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
+1,Joker Bra & Vize,Baby,Urban,1,1,2020-02-07,2020-02-13,2020,2
+2,The Weeknd,Blinding Lights,Republic Records,10,1,2020-02-07,2020-02-13,2020,2
+3,Samra,Mon ami,Urban,1,3,2020-02-07,2020-02-13,2020,2
+4,Juju x Loredana,Kein Wort,Jinx Music,3,1,2020-02-07,2020-02-13,2020,2
+5,Tones And I,Dance Monkey,Bad Batch Records,26,1,2020-02-07,2020-02-13,2020,2
+6,Samra x Elif,Zu Ende,Urban,2,4,2020-02-07,2020-02-13,2020,2
+7,Gzuz,Donuts,187 Strassenbande,2,3,2020-02-07,2020-02-13,2020,2
+8,Apache 207,Roller,SME - Two Sides,24,1,2020-02-07,2020-02-13,2020,2
+9,Topic feat. A7S,Breaking Me,Virgin Records,5,9,2020-02-07,2020-02-13,2020,2
+10,Eno x Nimo,Kommunikation,Alles Oder Nix Records,2,6,2020-02-07,2020-02-13,2020,2
+11,Regard,Ride It,B1 Recordings,20,4,2020-02-07,2020-02-13,2020,2
+12,Shindy,554,SME - Friends With Money,1,12,2020-02-07,2020-02-13,2020,2
+13,Ali Gatie,What If I Told You That I Love You,Li$N,2,8,2020-02-07,2020-02-13,2020,2
+14,Trevor Daniel,Falling,Alamo Records,5,13,2020-02-07,2020-02-13,2020,2
+15,Roddy Ricch,The Box,Atlantic,5,13,2020-02-07,2020-02-13,2020,2
+16,Eminem feat. Juice WRLD,Godzilla,Interscope,1,16,2020-02-07,2020-02-13,2020,2
+17,SAINt JHN,Roses (Imanbek Remix),B1 Recordings,10,16,2020-02-07,2020-02-13,2020,2
+18,Dua Lipa,Don't Start Now,Urban,14,10,2020-02-07,2020-02-13,2020,2
+19,Dardan,6AM.........,Hypnotize Entertainment,4,4,2020-02-07,2020-02-13,2020,2
+20,Bausa x Joshi Mizu x Maxwell,Skifahren,SME - RBK,12,4,2020-02-07,2020-02-13,2020,2
+21,RIN,Alien,SME - Division,9,8,2020-02-07,2020-02-13,2020,2
+22,Billie Eilish,Everything I Wanted,Interscope,12,9,2020-02-07,2020-02-13,2020,2
+23,Felix Jaehn & Vize feat. Miss Li,Close Your Eyes,Virgin Records,7,23,2020-02-07,2020-02-13,2020,2
+24,Robin Schulz feat. Alida,In Your Eyes,Warner Music Germany,4,24,2020-02-07,2020-02-13,2020,2
+25,Apache 207,200 km/h,SME - Two Sides,20,4,2020-02-07,2020-02-13,2020,2
+26,Ufo361 feat. Future,Big Drip,Stay High,3,2,2020-02-07,2020-02-13,2020,2
+27,Future feat. Drake,Life Is Good,SME - Epic,4,8,2020-02-07,2020-02-13,2020,2
+28,Jamule,Ich hol dich ab,Life Is Pain,4,5,2020-02-07,2020-02-13,2020,2
+29,Black Eyed Peas x J Balvin,Ritmo (Bad Boys For Life),SME - Epic,14,24,2020-02-07,2020-02-13,2020,2
+30,Capital Bra x Samra & Lea,110,Urban,20,1,2020-02-07,2020-02-13,2020,2
+31,Billie Eilish,Bad Guy,Universal,45,4,2020-02-07,2020-02-13,2020,2
+32,Tyga,Ayy Macarena,SME - Columbia,12,9,2020-02-07,2020-02-13,2020,2
+33,Mark Forster,194 Länder,SME - Four Music,20,13,2020-02-07,2020-02-13,2020,2
+34,Apache 207,Wieso tust Du dir das an?,SME - Two Sides,16,1,2020-02-07,2020-02-13,2020,2
+35,Justin Bieber,Yummy,Def Jam,5,15,2020-02-07,2020-02-13,2020,2
+36,Riton x Oliver Heldens feat. Vula,Turn Me On,SME - Ministry Of Sound,14,18,2020-02-07,2020-02-13,2020,2
+37,Maroon 5,Memories,A&M Records,20,20,2020-02-07,2020-02-13,2020,2
+38,Nimo & Hava,Kein Schlaf,Urban,9,1,2020-02-07,2020-02-13,2020,2
+39,Dua Lipa,Physical,Urban,1,39,2020-02-07,2020-02-13,2020,2
+40,Meduza x Becky Hill x Goodboys,Lose Control,Virgin Records,17,30,2020-02-07,2020-02-13,2020,2
+41,Miami Yacine & Sfera Ebbasta,McQueen,KMN Gang,1,41,2020-02-07,2020-02-13,2020,2
+42,RIN & Bausa,Keine Liebe,SME - Division,16,5,2020-02-07,2020-02-13,2020,2
+43,Samra,Colt,Urban,9,2,2020-02-07,2020-02-13,2020,2
+44,Juju feat. Henning May,Vermissen,Jinx Music,40,1,2020-02-07,2020-02-13,2020,2
+45,Lewis Capaldi,Someone You Loved,Universal Domestic Vertigo,53,18,2020-02-07,2020-02-13,2020,2
+46,Arizona Zervas,Roxanne,SME - Arizona Zervas,13,27,2020-02-07,2020-02-13,2020,2
+47,Lewis Capaldi,Before You Go,Universal Domestic Vertigo,8,47,2020-02-07,2020-02-13,2020,2
+48,Apache 207,Doch in der Nacht,SME - Two Sides,13,7,2020-02-07,2020-02-13,2020,2
+49,Katja Krasavice,Casino,Katja Krasavice,6,44,2020-02-07,2020-02-13,2020,2
+50,Knossi,Alge,King Knossi Records,1,50,2020-02-07,2020-02-13,2020,2
+51,Jerome [DE],Light,Kontor Records,15,39,2020-02-07,2020-02-13,2020,2
+52,Blackbear,Hot Girl Bummer,Interscope,18,17,2020-02-07,2020-02-13,2020,2
+53,Sido feat. Apache 207,2002,Urban,19,6,2020-02-07,2020-02-13,2020,2
+54,Nico Santos,Play With Fire,Virgin Records,6,54,2020-02-07,2020-02-13,2020,2
+55,Lil Lano x Edo Saiya,Sag wieso,AnanasSquad,2,51,2020-02-07,2020-02-13,2020,2
+56,Post Malone,Circles,Republic Records,23,17,2020-02-07,2020-02-13,2020,2
+57,Gzuz,Vor der Tür,187 Strassenbande,7,4,2020-02-07,2020-02-13,2020,2
+58,Halsey,You Should Be Sad,Capitol,4,43,2020-02-07,2020-02-13,2020,2
+59,Elias [DE],Benzo,SME - Epic Domestic,4,16,2020-02-07,2020-02-13,2020,2
+60,LUM!X & Gabry Ponte,Monster,Spinnin' Records,28,20,2020-02-07,2020-02-13,2020,2
+61,Capital Bra x Samra,Tilidin,Urban,33,1,2020-02-07,2020-02-13,2020,2
+62,Travis Scott,Highest In The Room,SME - Epic,17,8,2020-02-07,2020-02-13,2020,2
+63,Kianush & PA Sports,Casino Royal,Life Is Pain,9,28,2020-02-07,2020-02-13,2020,2
+64,Sam Feldt feat. Rani,Post Malone,Spinnin' Records,18,46,2020-02-07,2020-02-13,2020,2
+65,Nimo,Karma,Urban,14,4,2020-02-07,2020-02-13,2020,2
+66,Pashanim,Hauseingang,Urban,5,56,2020-02-07,2020-02-13,2020,2
+67,RAF Camora,Maschine,SME - RBK,5,9,2020-02-07,2020-02-13,2020,2
+68,Lil Nas X,Old Town Road,SME - Columbia,45,1,2020-02-07,2020-02-13,2020,2
+69,Shawn Mendes & Camila Cabello,Señorita,Island,33,1,2020-02-07,2020-02-13,2020,2
+70,Apache 207,Kein Problem,SME - Two Sides,24,17,2020-02-07,2020-02-13,2020,2
+71,Farid Bang,Genkidama,Banger Musik,2,22,2020-02-07,2020-02-13,2020,2
+72,Jonas Brothers,What A Man Gotta Do,Republic Records,3,67,2020-02-07,2020-02-13,2020,2
+73,Kerstin Ott & Helene Fischer,Regenbogenfarben,Universal Domestic Polydor,32,20,2020-02-07,2020-02-13,2020,2
+74,Selena Gomez,Lose You To Love Me,Interscope,15,7,2020-02-07,2020-02-13,2020,2
+75,Sarah Connor,Vincent,Universal Domestic Polydor,44,9,2020-02-07,2020-02-13,2020,2
+76,Tim Bendzko,Hoch,SME - Jive Germany,25,10,2020-02-07,2020-02-13,2020,2
+77,Freya Ridings,Castles,Island,11,51,2020-02-07,2020-02-13,2020,2
+78,Capital Bra,Der Bratan bleibt der gleiche,Urban,10,1,2020-02-07,2020-02-13,2020,2
+79,Alan Walker & Ava Max,"Alone, Pt. II",SME - Mer Recordings,3,79,2020-02-07,2020-02-13,2020,2
+80,Samra & Capital Bra,Wieder Lila,Urban,37,1,2020-02-07,2020-02-13,2020,2
+81,Edin / Sido,Dynamit,SME - Four Music,1,81,2020-02-07,2020-02-13,2020,2
+82,Reezy,My Little Sunshine,SME - Two Sides,3,33,2020-02-07,2020-02-13,2020,2
+83,Apache 207,Sex mit dir,SME - Two Sides,13,13,2020-02-07,2020-02-13,2020,2
+84,Camila Cabello feat. DaBaby,My Oh My,SME - Syco Music,6,53,2020-02-07,2020-02-13,2020,2
+85,The Cratez & Bonez MC,Honda Civic,SME - RBK,18,5,2020-02-07,2020-02-13,2020,2
+86,Ed Sheeran & Justin Bieber,I Don't Care,Atlantic,38,2,2020-02-07,2020-02-13,2020,2
+87,Karol G / Nicki Minaj,Tusa,Universal,3,87,2020-02-07,2020-02-13,2020,2
+88,Meduza feat. Goodboys,Piece Of Your Heart,Virgin Records,39,4,2020-02-07,2020-02-13,2020,2
+89,Ufo361,Nur zur Info,Stay High,7,20,2020-02-07,2020-02-13,2020,2
+90,Fynn Kliemann,Eine Minute,twoFinger Records / BMG,2,41,2020-02-07,2020-02-13,2020,2
+91,Pashanim,Shababs botten,Recordjet,4,84,2020-02-07,2020-02-13,2020,2
+92,Ed Sheeran feat. Camila Cabello & Cardi B,South Of The Border,Atlantic,20,33,2020-02-07,2020-02-13,2020,2
+93,Lena x Nico Santos,Better,Universal Domestic Polydor,24,15,2020-02-07,2020-02-13,2020,2
+94,RAF Camora feat. Ghetto Phenomene,Puta madre,Indipendenza,16,5,2020-02-07,2020-02-13,2020,2
+95,Ed Sheeran feat. Khalid,Beautiful People,Atlantic,31,5,2020-02-07,2020-02-13,2020,2
+96,Selena Gomez,Rare,Universal,4,42,2020-02-07,2020-02-13,2020,2
+97,Vize feat. Laniia,Stars,Kontor Records,32,18,2020-02-07,2020-02-13,2020,2
+98,Reezy feat. Summer Cem,Phantom,SME - Two Sides,14,9,2020-02-07,2020-02-13,2020,2
+99,Bonez MC & RAF Camora,500 PS,Universal Domestic Vertigo,76,1,2020-02-07,2020-02-13,2020,2
+100,Loredana,Mit dir,Loredana,7,9,2020-02-07,2020-02-13,2020,2

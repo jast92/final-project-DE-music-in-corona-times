@@ -1,0 +1,101 @@
+current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
+1,Calvin Harris & Dua Lipa,One Kiss,Columbia,3,1,2018-04-27,2018-05-03,2018,4
+2,Ariana Grande,No Tears Left To Cry,Universal,1,2,2018-04-27,2018-05-03,2018,4
+3,Marshmello & Anne-Marie,Friends,Atlantic,11,1,2018-04-27,2018-05-03,2018,4
+4,Olexesh feat. Edin,Magisch,385ideal,10,1,2018-04-27,2018-05-03,2018,4
+5,Ramz,Barking,Polydor,9,4,2018-04-27,2018-05-03,2018,4
+6,Capital Bra,5 Songs in einer Nacht,Team Kuku,3,1,2018-04-27,2018-05-03,2018,4
+7,Summer Cem,Tamam Tamam,Banger Musik,1,7,2018-04-27,2018-05-03,2018,4
+8,Dennis Lloyd,Nevermind,Warner Music International,5,8,2018-04-27,2018-05-03,2018,4
+9,David Guetta & Sia,Flames,Parlophone Label Group,5,9,2018-04-27,2018-05-03,2018,4
+10,"Rudimental feat. Jess Glynne, Macklemore & Dan Caplen",These Days,Atlantic,14,3,2018-04-27,2018-05-03,2018,4
+11,RAF Camora,Maserati,Indipendenza,1,11,2018-04-27,2018-05-03,2018,4
+12,Luis Fonsi & Demi Lovato,Échame la culpa,Universal,23,6,2018-04-27,2018-05-03,2018,4
+13,Avicii,Wake Me Up!,Virgin Records,60,1,2018-04-27,2018-05-03,2018,4
+14,Drake,Nice For What,Young Money,3,9,2018-04-27,2018-05-03,2018,4
+15,Nicky Jam x J Balvin,X,Sony Music,8,14,2018-04-27,2018-05-03,2018,4
+16,Drake,God's Plan,Motown,14,1,2018-04-27,2018-05-03,2018,4
+17,Kygo feat. Miguel,Remind Me To Forget,Kygo,6,17,2018-04-27,2018-05-03,2018,4
+18,Sean Paul + David Guetta feat. Becky G,Mad Love,Island,10,10,2018-04-27,2018-05-03,2018,4
+19,Robin Schulz & Marc Scibilia,Unforgettable,Warner Music Germany,10,13,2018-04-27,2018-05-03,2018,4
+20,The Chainsmokers,Sick Boy,Columbia,14,5,2018-04-27,2018-05-03,2018,4
+21,Lil Dicky feat. Chris Brown,Freaky Friday,Commission Records,6,21,2018-04-27,2018-05-03,2018,4
+22,Justin Timberlake feat. Chris Stapleton,Say Something,RCA International,13,9,2018-04-27,2018-05-03,2018,4
+23,Zedd / Maren Morris / Grey,The Middle,Interscope,13,15,2018-04-27,2018-05-03,2018,4
+24,George Ezra,Paradise,Columbia,8,24,2018-04-27,2018-05-03,2018,4
+25,Die Fantastischen Vier feat. Clueso,Zusammen,Columbia,5,25,2018-04-27,2018-05-03,2018,4
+26,Avicii,Levels,Virgin Records,59,6,2018-04-27,2018-05-03,2018,4
+27,Tom Walker,Leave A Light On,Relentless Records,17,8,2018-04-27,2018-05-03,2018,4
+28,Sun Diego,Eloah,BBM Records,3,6,2018-04-27,2018-05-03,2018,4
+29,David Guetta / Martin Garrix / Brooks,Like I Do,Parlophone Label Group,9,23,2018-04-27,2018-05-03,2018,4
+30,Rea Garvey feat. Kool Savas,Is It Love?,Universal Domestic Island,13,20,2018-04-27,2018-05-03,2018,4
+31,Rooz x MoTrip,Immer wieder,Universal Domestic Urban,7,25,2018-04-27,2018-05-03,2018,4
+32,Dua Lipa,IDGAF,Universal Domestic Urban,14,12,2018-04-27,2018-05-03,2018,4
+33,Avicii feat. Rita Ora,Lonely Together,Virgin Records,28,24,2018-04-27,2018-05-03,2018,4
+34,Ed Sheeran,Perfect,Atlantic,39,1,2018-04-27,2018-05-03,2018,4
+35,Bausa,Was du Liebe nennst,Warner Music Germany,30,1,2018-04-27,2018-05-03,2018,4
+36,Jax Jones feat. Ina Wroldsen,Breathe,Polydor,16,15,2018-04-27,2018-05-03,2018,4
+37,Luciano [DE],Roli,Universal Domestic Urban,2,34,2018-04-27,2018-05-03,2018,4
+38,Shawn Mendes,In My Blood,Island,5,8,2018-04-27,2018-05-03,2018,4
+39,Post Malone feat. Ty Dolla $ign,Psycho,Universal,9,6,2018-04-27,2018-05-03,2018,4
+40,Avicii feat. Sandro Cavazza,Without You,Virgin Records,17,18,2018-04-27,2018-05-03,2018,4
+41,"Cardi B, Bad Bunny & J Balvin",I Like It,Atlantic,2,41,2018-04-27,2018-05-03,2018,4
+42,Camila Cabello feat. Young Thug,Havana,Epic,36,2,2018-04-27,2018-05-03,2018,4
+43,Gzuz feat. LX,Drück drück,Universal Domestic Vertigo,4,11,2018-04-27,2018-05-03,2018,4
+44,Felix Jaehn feat. Marc E. Bassy & Gucci Mane,Cool,Virgin Records,11,39,2018-04-27,2018-05-03,2018,4
+45,Wincent Weiss,An Wunder,Universal Domestic Vertigo,2,18,2018-04-27,2018-05-03,2018,4
+46,Moe Phoenix,Mama / Baba,Life Is Pain,1,46,2018-04-27,2018-05-03,2018,4
+47,LEA,Leiser,Four Music,21,13,2018-04-27,2018-05-03,2018,4
+48,The Weeknd,Call Out My Name,The Weeknd,4,7,2018-04-27,2018-05-03,2018,4
+49,Alvaro Soler,La cintura,Airforce1,4,46,2018-04-27,2018-05-03,2018,4
+50,Eli,Change Your Mind,Prime Entertainment Records,2,50,2018-04-27,2018-05-03,2018,4
+51,Namika feat. Black M,Je ne parle pas français (Beatgees Remix),Jive Germany,2,51,2018-04-27,2018-05-03,2018,4
+52,Avicii,Hey Brother,Virgin Records,40,1,2018-04-27,2018-05-03,2018,4
+53,Kontra K,Oder nicht,BMG,2,25,2018-04-27,2018-05-03,2018,4
+54,Lost Frequencies & Zonderling,Crazy,Kontor Records,18,13,2018-04-27,2018-05-03,2018,4
+55,Avicii,Waiting For Love,Virgin Records,35,8,2018-04-27,2018-05-03,2018,4
+56,Liam Payne & Rita Ora,For You (Fifty Shades Freed),Republic Records,16,1,2018-04-27,2018-05-03,2018,4
+57,Eminem feat. Ed Sheeran,River,Interscope,19,2,2018-04-27,2018-05-03,2018,4
+58,Jason Derulo feat. French Montana,Tip Toe,Beluga Heights,24,11,2018-04-27,2018-05-03,2018,4
+59,Azet,Überlebt,KMN Gang,4,28,2018-04-27,2018-05-03,2018,4
+60,Post Malone feat. 21 Savage,Rockstar,Universal,32,2,2018-04-27,2018-05-03,2018,4
+61,Khalid x Normani,Love Lies,RCA International,10,36,2018-04-27,2018-05-03,2018,4
+62,Nico Santos,Rooftop,Virgin Records,24,5,2018-04-27,2018-05-03,2018,4
+63,Samra,Rohdiamant,Bushido,2,26,2018-04-27,2018-05-03,2018,4
+64,Azet feat. Zuna & Noizy,Kriminell,KMN Gang,6,5,2018-04-27,2018-05-03,2018,4
+65,Luis Fonsi feat. Daddy Yankee,Despacito,Universal,65,1,2018-04-27,2018-05-03,2018,4
+66,Daddy Yankee,Dura,EMI,9,61,2018-04-27,2018-05-03,2018,4
+67,Martin Garrix & David Guetta feat. Jamie Scott & Romy Dya,So Far Away,B1 Recordings,21,8,2018-04-27,2018-05-03,2018,4
+68,Logic & Marshmello,Everyday,Def Jam,8,48,2018-04-27,2018-05-03,2018,4
+69,Bazzi,Mine,ZZZ Entertainment,11,25,2018-04-27,2018-05-03,2018,4
+70,Glasperlenspiel feat. Summer Cem,Royals & Kings,Universal Domestic Polydor,1,70,2018-04-27,2018-05-03,2018,4
+71,The Chainsmokers feat. Drew Love,Somebody,Columbia,1,71,2018-04-27,2018-05-03,2018,4
+72,Anne-Marie,2002,Atlantic,1,72,2018-04-27,2018-05-03,2018,4
+73,Mark Forster feat. Gentleman,Like A Lion,Four Music,2,38,2018-04-27,2018-05-03,2018,4
+74,Ed Sheeran,Shape Of You,Atlantic,68,1,2018-04-27,2018-05-03,2018,4
+75,Ufo361,Ohne mich,Stay High,2,21,2018-04-27,2018-05-03,2018,4
+76,Ufo361,Beverly Hills,Stay High,12,4,2018-04-27,2018-05-03,2018,4
+77,Azet feat. RAF Camora,Qa bone,KMN Gang,18,12,2018-04-27,2018-05-03,2018,4
+78,Axwell Λ Ingrosso,Dreamer,Virgin Records,17,34,2018-04-27,2018-05-03,2018,4
+79,Ofenbach vs. Nick Waterhouse,Katchi,Warner Music International,26,9,2018-04-27,2018-05-03,2018,4
+80,Liam Payne & J Balvin,Familiar,Capitol,1,80,2018-04-27,2018-05-03,2018,4
+81,Avicii,The Nights,Virgin Records,30,19,2018-04-27,2018-05-03,2018,4
+82,Ufo361 feat. Capital Bra,Power,Stay High,6,7,2018-04-27,2018-05-03,2018,4
+83,Kay One feat. Pietro Lombardi,Señorita,Princekayone GmbH,33,1,2018-04-27,2018-05-03,2018,4
+84,Jason Derulo,Colors,Beluga Heights,4,75,2018-04-27,2018-05-03,2018,4
+85,Kollegah & Farid Bang,All Eyez On Us,Banger Musik,2,39,2018-04-27,2018-05-03,2018,4
+86,Imagine Dragons,Whatever It Takes,Interscope,30,7,2018-04-27,2018-05-03,2018,4
+87,XXXTentacion,Sad!,Bad Vibes Forever,8,33,2018-04-27,2018-05-03,2018,4
+88,MC Fioti / Future / J Balvin / Stefflon Don / Juan Magan,Bum bum tam tam,Kontor Records,14,51,2018-04-27,2018-05-03,2018,4
+89,J Balvin & Willy William,Mi gente,B1 Recordings,43,3,2018-04-27,2018-05-03,2018,4
+90,Axwell Λ Ingrosso,More Than You Know,Virgin Records,46,1,2018-04-27,2018-05-03,2018,4
+91,Portugal. The Man,Feel It Still,Atlantic,32,7,2018-04-27,2018-05-03,2018,4
+92,RAF Camora,Primo,Indipendenza,35,6,2018-04-27,2018-05-03,2018,4
+93,Rita Ora,Anywhere,Atlantic,23,18,2018-04-27,2018-05-03,2018,4
+94,James Hype feat. Kelli-Leigh,More Than Friends,Warner Music International,22,23,2018-04-27,2018-05-03,2018,4
+95,Bonez MC & RAF Camora feat. Maxwell,Ohne mein Team,Auf!Keinen!Fall!,86,7,2018-04-27,2018-05-03,2018,4
+96,Bebe Rexha feat. Florida Georgia Line,Meant To Be,Warner Music International,16,57,2018-04-27,2018-05-03,2018,4
+97,Veysel & Mozzik,Ti amo,Bela Boyz,14,42,2018-04-27,2018-05-03,2018,4
+98,G-Eazy & Halsey,Him & I,RCA International,21,6,2018-04-27,2018-05-03,2018,4
+99,Sarah,Genau hier,Universal Domestic Polydor,2,31,2018-04-27,2018-05-03,2018,4
+100,Justin Bieber + BloodPop®,Friends,Republic Records,35,4,2018-04-27,2018-05-03,2018,4

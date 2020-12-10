@@ -1,0 +1,101 @@
+current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
+1,Capital Bra feat. Ufo361,Neymar,Team Kuku,2,1,2018-05-11,2018-05-17,2018,5
+2,Calvin Harris & Dua Lipa,One Kiss,Columbia,5,1,2018-05-11,2018-05-17,2018,5
+3,Marie Wegener,Königlich,Electrola,1,3,2018-05-11,2018-05-17,2018,5
+4,Dennis Lloyd,Nevermind,Warner Music International,7,4,2018-05-11,2018-05-17,2018,5
+5,Marshmello & Anne-Marie,Friends,Atlantic,13,1,2018-05-11,2018-05-17,2018,5
+6,Olexesh feat. Edin,Magisch,385ideal,12,1,2018-05-11,2018-05-17,2018,5
+7,David Guetta & Sia,Flames,Parlophone Label Group,7,7,2018-05-11,2018-05-17,2018,5
+8,Summer Cem,Tamam Tamam,Banger Musik,3,7,2018-05-11,2018-05-17,2018,5
+9,Ramz,Barking,Polydor,11,4,2018-05-11,2018-05-17,2018,5
+10,Capital Bra,5 Songs in einer Nacht,Team Kuku,5,1,2018-05-11,2018-05-17,2018,5
+11,Post Malone,Better Now,Universal,2,11,2018-05-11,2018-05-17,2018,5
+12,Kollegah & Farid Bang,Sturmmaske auf (Intro),Banger Musik,12,1,2018-05-11,2018-05-17,2018,5
+13,Nicky Jam x J Balvin,X,Sony Music,10,13,2018-05-11,2018-05-17,2018,5
+14,Kygo feat. Miguel,Remind Me To Forget,Kygo,8,14,2018-05-11,2018-05-17,2018,5
+15,Ariana Grande,No Tears Left To Cry,Universal,3,2,2018-05-11,2018-05-17,2018,5
+16,Gzuz feat. Bonez MC,Was erlebt,Universal Domestic Vertigo,2,3,2018-05-11,2018-05-17,2018,5
+17,Luis Fonsi & Demi Lovato,Échame la culpa,Universal,25,6,2018-05-11,2018-05-17,2018,5
+18,"Rudimental feat. Jess Glynne, Macklemore & Dan Caplen",These Days,Atlantic,16,3,2018-05-11,2018-05-17,2018,5
+19,Robin Schulz & Marc Scibilia,Unforgettable,Warner Music Germany,12,13,2018-05-11,2018-05-17,2018,5
+20,Die Fantastischen Vier feat. Clueso,Zusammen,Columbia,7,12,2018-05-11,2018-05-17,2018,5
+21,Eli,Change Your Mind,Prime Entertainment Records,4,21,2018-05-11,2018-05-17,2018,5
+22,Drake,Nice For What,Young Money,5,9,2018-05-11,2018-05-17,2018,5
+23,Namika feat. Black M,Je ne parle pas français (Beatgees Remix),Jive Germany,4,23,2018-05-11,2018-05-17,2018,5
+24,Sean Paul + David Guetta feat. Becky G,Mad Love,Island,12,10,2018-05-11,2018-05-17,2018,5
+25,Drake,God's Plan,Motown,16,1,2018-05-11,2018-05-17,2018,5
+26,Alvaro Soler,La cintura,Airforce1,6,26,2018-05-11,2018-05-17,2018,5
+27,Rea Garvey feat. Kool Savas,Is It Love?,Universal Domestic Island,15,20,2018-05-11,2018-05-17,2018,5
+28,Ufo361,Acker jeden Tag,Stay High,1,28,2018-05-11,2018-05-17,2018,5
+29,Kalash feat. Damso,Mwaka Moon,Capitol,1,29,2018-05-11,2018-05-17,2018,5
+30,Zedd / Maren Morris / Grey,The Middle,Interscope,15,15,2018-05-11,2018-05-17,2018,5
+31,Lil Dicky feat. Chris Brown,Freaky Friday,Commission Records,8,21,2018-05-11,2018-05-17,2018,5
+32,George Ezra,Paradise,Columbia,10,24,2018-05-11,2018-05-17,2018,5
+33,Bausa,Was du Liebe nennst,Warner Music Germany,32,1,2018-05-11,2018-05-17,2018,5
+34,Justin Timberlake feat. Chris Stapleton,Say Something,RCA International,15,9,2018-05-11,2018-05-17,2018,5
+35,Die Toten Hosen,Laune der Natur,JKP - Jochens kleine Plattenfirma,1,35,2018-05-11,2018-05-17,2018,5
+36,Wincent Weiss,An Wunder,Universal Domestic Vertigo,4,18,2018-05-11,2018-05-17,2018,5
+37,The Chainsmokers,Sick Boy,Columbia,16,5,2018-05-11,2018-05-17,2018,5
+38,Sun Diego,Eloah,BBM Records,5,6,2018-05-11,2018-05-17,2018,5
+39,Jax Jones feat. Ina Wroldsen,Breathe,Polydor,18,15,2018-05-11,2018-05-17,2018,5
+40,David Guetta / Martin Garrix / Brooks,Like I Do,Parlophone Label Group,11,23,2018-05-11,2018-05-17,2018,5
+41,Tom Walker,Leave A Light On,Relentless Records,19,8,2018-05-11,2018-05-17,2018,5
+42,Post Malone feat. Ty Dolla $ign,Psycho,Universal,11,6,2018-05-11,2018-05-17,2018,5
+43,Shawn Mendes feat. Khalid,Youth,Island,1,43,2018-05-11,2018-05-17,2018,5
+44,Azet,Überlebt,KMN Gang,6,28,2018-05-11,2018-05-17,2018,5
+45,Rooz x MoTrip,Immer wieder,Universal Domestic Urban,9,25,2018-05-11,2018-05-17,2018,5
+46,Shawn Mendes,In My Blood,Island,7,8,2018-05-11,2018-05-17,2018,5
+47,Kontra K feat. RAF Camora,Fame,BMG,1,47,2018-05-11,2018-05-17,2018,5
+48,Post Malone feat. 21 Savage,Rockstar,Universal,34,2,2018-05-11,2018-05-17,2018,5
+49,Ed Sheeran,Perfect,Atlantic,41,1,2018-05-11,2018-05-17,2018,5
+50,RAF Camora,Maserati,Indipendenza,3,11,2018-05-11,2018-05-17,2018,5
+51,"Cardi B, Bad Bunny & J Balvin",I Like It,Atlantic,4,41,2018-05-11,2018-05-17,2018,5
+52,RIN,Nike,Division,2,24,2018-05-11,2018-05-17,2018,5
+53,Dua Lipa,IDGAF,Universal Domestic Urban,16,12,2018-05-11,2018-05-17,2018,5
+54,LEA,Leiser,Four Music,23,13,2018-05-11,2018-05-17,2018,5
+55,Camila Cabello feat. Young Thug,Havana,Epic,38,2,2018-05-11,2018-05-17,2018,5
+56,Felix Jaehn feat. Marc E. Bassy & Gucci Mane,Cool,Virgin Records,13,39,2018-05-11,2018-05-17,2018,5
+57,Luciano [DE],Roli,Universal Domestic Urban,4,34,2018-05-11,2018-05-17,2018,5
+58,Kontra K feat. AK Ausser Kontrolle & Gzuz,Setz dich,BMG,2,22,2018-05-11,2018-05-17,2018,5
+59,Moe Phoenix,Mama / Baba,Life Is Pain,3,46,2018-05-11,2018-05-17,2018,5
+60,Daddy Yankee,Dura,EMI,11,60,2018-05-11,2018-05-17,2018,5
+61,Khalid x Normani,Love Lies,RCA International,12,36,2018-05-11,2018-05-17,2018,5
+62,Luis Fonsi feat. Daddy Yankee,Despacito,Universal,67,1,2018-05-11,2018-05-17,2018,5
+63,Lost Frequencies & Zonderling,Crazy,Kontor Records,20,13,2018-05-11,2018-05-17,2018,5
+64,Nico Santos,Rooftop,Virgin Records,26,5,2018-05-11,2018-05-17,2018,5
+65,Post Malone,Paranoid,Universal,2,51,2018-05-11,2018-05-17,2018,5
+66,Kontra K,Oder nicht,BMG,4,25,2018-05-11,2018-05-17,2018,5
+67,Liam Payne & J Balvin,Familiar,Capitol,2,67,2018-05-11,2018-05-17,2018,5
+68,Gzuz feat. LX,Drück drück,Universal Domestic Vertigo,6,11,2018-05-11,2018-05-17,2018,5
+69,Avicii,Wake Me Up!,Virgin Records,62,1,2018-05-11,2018-05-17,2018,5
+70,Eminem feat. Ed Sheeran,River,Interscope,21,2,2018-05-11,2018-05-17,2018,5
+71,Avicii feat. Rita Ora,Lonely Together,Virgin Records,30,24,2018-05-11,2018-05-17,2018,5
+72,Michel Truog,Und sie rennt,Electrola,1,72,2018-05-11,2018-05-17,2018,5
+73,Ed Sheeran,Shape Of You,Atlantic,70,1,2018-05-11,2018-05-17,2018,5
+74,The Weeknd,Call Out My Name,The Weeknd,6,7,2018-05-11,2018-05-17,2018,5
+75,Jason Derulo feat. French Montana,Tip Toe,Beluga Heights,26,11,2018-05-11,2018-05-17,2018,5
+76,Kay One feat. Pietro Lombardi,Señorita,Princekayone GmbH,35,1,2018-05-11,2018-05-17,2018,5
+77,Liam Payne & Rita Ora,For You (Fifty Shades Freed),Republic Records,18,1,2018-05-11,2018-05-17,2018,5
+78,Azet feat. Zuna & Noizy,Kriminell,KMN Gang,8,5,2018-05-11,2018-05-17,2018,5
+79,LSD (Labrinth / Sia / Diplo),Genius,Columbia,1,79,2018-05-11,2018-05-17,2018,5
+80,Jason Derulo,Colors,Beluga Heights,6,75,2018-05-11,2018-05-17,2018,5
+81,Lost Frequencies feat. James Blunt,Melody,Kontor Records,2,60,2018-05-11,2018-05-17,2018,5
+82,Sun Diego x Falco,Rock Me Amadeus,Sony Music,2,71,2018-05-11,2018-05-17,2018,5
+83,Bazzi,Mine,ZZZ Entertainment,13,25,2018-05-11,2018-05-17,2018,5
+84,MC Fioti / Future / J Balvin / Stefflon Don / Juan Magan,Bum bum tam tam,Kontor Records,16,51,2018-05-11,2018-05-17,2018,5
+85,Azet feat. RAF Camora,Qa bone,KMN Gang,20,12,2018-05-11,2018-05-17,2018,5
+86,Mark Forster feat. Gentleman,Like A Lion,Four Music,4,38,2018-05-11,2018-05-17,2018,5
+87,Avicii feat. Sandro Cavazza,Without You,Virgin Records,19,18,2018-05-11,2018-05-17,2018,5
+88,Martin Garrix & David Guetta feat. Jamie Scott & Romy Dya,So Far Away,B1 Recordings,23,8,2018-05-11,2018-05-17,2018,5
+89,Axwell Λ Ingrosso,More Than You Know,Virgin Records,48,1,2018-05-11,2018-05-17,2018,5
+90,Logic & Marshmello,Everyday,Def Jam,10,48,2018-05-11,2018-05-17,2018,5
+91,J Balvin & Willy William,Mi gente,B1 Recordings,45,3,2018-05-11,2018-05-17,2018,5
+92,Axwell Λ Ingrosso,Dreamer,Virgin Records,19,34,2018-05-11,2018-05-17,2018,5
+93,Ofenbach vs. Nick Waterhouse,Katchi,Warner Music International,28,9,2018-05-11,2018-05-17,2018,5
+94,RAF Camora,Primo,Indipendenza,36,6,2018-05-11,2018-05-17,2018,5
+95,Portugal. The Man,Feel It Still,Atlantic,34,7,2018-05-11,2018-05-17,2018,5
+96,Glasperlenspiel feat. Summer Cem,Royals & Kings,Universal Domestic Polydor,3,70,2018-05-11,2018-05-17,2018,5
+97,Childish Gambino,This Is America,mcDJ Recording,1,97,2018-05-11,2018-05-17,2018,5
+98,Bonez MC & RAF Camora feat. Maxwell,Ohne mein Team,Auf!Keinen!Fall!,87,7,2018-05-11,2018-05-17,2018,5
+99,Rita Ora,Anywhere,Atlantic,25,18,2018-05-11,2018-05-17,2018,5
+100,James Hype feat. Kelli-Leigh,More Than Friends,Warner Music International,24,23,2018-05-11,2018-05-17,2018,5

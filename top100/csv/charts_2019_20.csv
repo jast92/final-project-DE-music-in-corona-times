@@ -1,0 +1,101 @@
+current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
+1,Juju feat. Henning May,Vermissen,Jinx Music,2,1,2019-05-17,2019-05-23,2019,5
+2,Shindy,Nautilus,SME - Friends With Money,1,2,2019-05-17,2019-05-23,2019,5
+3,Ed Sheeran & Justin Bieber,I Don't Care,Atlantic,1,3,2019-05-17,2019-05-23,2019,5
+4,Lil Nas X,Old Town Road,SME - Columbia,7,1,2019-05-17,2019-05-23,2019,5
+5,Billie Eilish,Bad Guy,Universal,7,4,2019-05-17,2019-05-23,2019,5
+6,LX & Maxwell feat. Gzuz & Gallo Nero,Perdono,187 Strassenbande,1,6,2019-05-17,2019-05-23,2019,5
+7,Daddy Yankee feat. Snow,Con calma,Universal,13,6,2019-05-17,2019-05-23,2019,5
+8,Avicii feat. Aloe Blacc,SOS,Universal,5,8,2019-05-17,2019-05-23,2019,5
+9,"Samra feat. Capital Bra, Brudi30 & Kalazh44",Ghetto,Universal Domestic Urban,2,9,2019-05-17,2019-05-23,2019,5
+10,Capital Bra feat. Summer Cem & KC Rebell,Rolex,Universal Domestic Urban,5,2,2019-05-17,2019-05-23,2019,5
+11,Mabel [UK],Don't Call Me Up,Polydor,13,10,2019-05-17,2019-05-23,2019,5
+12,Rammstein,Deutschland,Rammstein,7,1,2019-05-17,2019-05-23,2019,5
+13,Bausa,Mary,Warner Music Germany,7,8,2019-05-17,2019-05-23,2019,5
+14,Capital Bra,Cherry Lady,Universal Domestic Urban,8,1,2019-05-17,2019-05-23,2019,5
+15,Pietro Lombardi,Bella Donna,Universal Domestic Polydor,2,3,2019-05-17,2019-05-23,2019,5
+16,Dardan,Coco Mama,Universal Domestic Urban,6,4,2019-05-17,2019-05-23,2019,5
+17,Sido,Wie Papa,Universal Domestic Urban,1,17,2019-05-17,2019-05-23,2019,5
+18,Ardian Bujupi x Fero47,Wie im Traum,SME - Columbia Domestic,3,15,2019-05-17,2019-05-23,2019,5
+19,Ufo361 feat. RIN,Next,Stay High,3,3,2019-05-17,2019-05-23,2019,5
+20,Shawn Mendes,If I Can't Have You,Island,2,14,2019-05-17,2019-05-23,2019,5
+21,SosMula x Bonez MC,1K Shotz,Republic Records,1,21,2019-05-17,2019-05-23,2019,5
+22,Lewis Capaldi,Someone You Loved,Universal Domestic Vertigo,15,22,2019-05-17,2019-05-23,2019,5
+23,Imagine Dragons,Bad Liar,Interscope,26,16,2019-05-17,2019-05-23,2019,5
+24,Sero el Mero,Ohne Sinn,Groove Attack TraX,2,10,2019-05-17,2019-05-23,2019,5
+25,Shindy,Affalterbach,SME - Friends With Money,8,3,2019-05-17,2019-05-23,2019,5
+26,Ava Max,So Am I,Atlantic,10,21,2019-05-17,2019-05-23,2019,5
+27,Kontra K feat. Veysel,Blei,BMG,5,6,2019-05-17,2019-05-23,2019,5
+28,Samra,Harami,Universal Domestic Urban,6,1,2019-05-17,2019-05-23,2019,5
+29,Mero,Wolke 10,Groove Attack TraX,10,1,2019-05-17,2019-05-23,2019,5
+30,Ava Max,Sweet But Psycho,Atlantic,30,1,2019-05-17,2019-05-23,2019,5
+31,KC Rebell,Quarterback,Rebell Army,4,8,2019-05-17,2019-05-23,2019,5
+32,Eno,Blackberry Sky,Alles Oder Nix Records,8,2,2019-05-17,2019-05-23,2019,5
+33,Taylor Swift feat. Brendon Urie of Panic! At The Disco,Me!,Taylor Swift Productions,3,12,2019-05-17,2019-05-23,2019,5
+34,Gaullin,Moonlight,B1 Recordings,13,24,2019-05-17,2019-05-23,2019,5
+35,Jonas Brothers,Sucker,Jonas Brothers Recording,11,20,2019-05-17,2019-05-23,2019,5
+36,Lady Gaga & Bradley Cooper,Shallow,Interscope,33,4,2019-05-17,2019-05-23,2019,5
+37,Capital Bra x Samra,Wir ticken,Universal Domestic Urban,9,1,2019-05-17,2019-05-23,2019,5
+38,KC Rebell feat. Summer Cem & Capital Bra,DNA,Rebell Army,13,1,2019-05-17,2019-05-23,2019,5
+39,Capital Bra,Prinzessa,Universal Domestic Urban,16,1,2019-05-17,2019-05-23,2019,5
+40,Lena,Don't Lie To Me,Universal Domestic Polydor,8,40,2019-05-17,2019-05-23,2019,5
+41,The Prince Karma,Later Bitches,Kontor Records,13,36,2019-05-17,2019-05-23,2019,5
+42,Rammstein,Radio,Rammstein,3,4,2019-05-17,2019-05-23,2019,5
+43,Post Malone,Wow.,Republic Records,20,16,2019-05-17,2019-05-23,2019,5
+44,Dominic Fike,3 Nights,SME - Columbia,4,44,2019-05-17,2019-05-23,2019,5
+45,Johannes Oerding,An guten Tagen,SME - Columbia,1,45,2019-05-17,2019-05-23,2019,5
+46,Shirin David,Gib ihm,Shirin David Music,13,1,2019-05-17,2019-05-23,2019,5
+47,C Arma,Yapma,C Arma,19,29,2019-05-17,2019-05-23,2019,5
+48,KC Rebell,Alleen,Rebell Army,9,4,2019-05-17,2019-05-23,2019,5
+49,Apache 207,Brot nach Hause,SME - Two Sides,1,49,2019-05-17,2019-05-23,2019,5
+50,Meduza feat. Goodboys,Piece Of Your Heart,Virgin Records,2,50,2019-05-17,2019-05-23,2019,5
+51,Calvin Harris & Rag'n'Bone Man,Giant,SME - Columbia,18,6,2019-05-17,2019-05-23,2019,5
+52,Majan feat. Cro,1975,Universal Domestic Urban,1,52,2019-05-17,2019-05-23,2019,5
+53,Alec Benjamin,Let Me Down Slowly,Atlantic,15,40,2019-05-17,2019-05-23,2019,5
+54,Lauv & Troye Sivan,I'm So Tired...,Lauv,16,42,2019-05-17,2019-05-23,2019,5
+55,Marshmello feat. Chvrches,Here With Me,Republic Records,9,49,2019-05-17,2019-05-23,2019,5
+56,Michael Schulte,Back To The Start,Very Us Records,3,56,2019-05-17,2019-05-23,2019,5
+57,LX & Maxwell,Mercy Mercy,187 Strassenbande,3,11,2019-05-17,2019-05-23,2019,5
+58,Samra,Shoote ma Shoote,Universal Domestic Urban,6,14,2019-05-17,2019-05-23,2019,5
+59,Eno,Souvenir,Alles Oder Nix Records,2,36,2019-05-17,2019-05-23,2019,5
+60,Robin Schulz feat. Erika Sirola,Speechless,Warner Music Germany,26,7,2019-05-17,2019-05-23,2019,5
+61,Kygo and Rita Ora,Carry On,SME - RCA International,4,61,2019-05-17,2019-05-23,2019,5
+62,Dynoro & Gigi D'Agostino,In My Mind,B1 Recordings,49,1,2019-05-17,2019-05-23,2019,5
+63,Panic! At The Disco,High Hopes,Atlantic,41,5,2019-05-17,2019-05-23,2019,5
+64,Matt Simons,Open Up,Pias,4,63,2019-05-17,2019-05-23,2019,5
+65,Capital Bra,Benzema,Universal Domestic Urban,21,1,2019-05-17,2019-05-23,2019,5
+66,Mathea,2x,Earcandy Recordings,10,49,2019-05-17,2019-05-23,2019,5
+67,Fero47,Puerto Rico,SME - Epic,8,7,2019-05-17,2019-05-23,2019,5
+68,Logic feat. Eminem,Homicide,Def Jam,2,38,2019-05-17,2019-05-23,2019,5
+69,Bonez MC & RAF Camora,500 PS,Universal Domestic Vertigo,41,1,2019-05-17,2019-05-23,2019,5
+70,Ariana Grande,7 Rings,Republic Records,17,4,2019-05-17,2019-05-23,2019,5
+71,Dennis Lloyd,Never Go Back,SME - Arista,6,71,2019-05-17,2019-05-23,2019,5
+72,"Avicii feat. Agnes, Vargas & Lagola",Tough Love,Virgin Records,1,72,2019-05-17,2019-05-23,2019,5
+73,P!nk,Walk Me Home,SME - RCA International,12,33,2019-05-17,2019-05-23,2019,5
+74,Capital Bra feat. Nimo,Bye Bye,Universal Domestic Urban,5,7,2019-05-17,2019-05-23,2019,5
+75,Billie Eilish,Bury A Friend,Interscope,15,14,2019-05-17,2019-05-23,2019,5
+76,The BossHoss feat. Mimi & Josy,Little Help,Universal Domestic Island,2,32,2019-05-17,2019-05-23,2019,5
+77,Sarah Connor,Vincent,Universal Domestic Polydor,6,29,2019-05-17,2019-05-23,2019,5
+78,Gringo & Nimo,Blue Lagoon,SME - SLS Music,2,42,2019-05-17,2019-05-23,2019,5
+79,Loud Luxury feat. Brando,Body,Kontor Records,51,7,2019-05-17,2019-05-23,2019,5
+80,Seeed,Ticket,BMG,5,63,2019-05-17,2019-05-23,2019,5
+81,Robin Schulz feat. Harlœ,All This Love,Warner Music Germany,2,49,2019-05-17,2019-05-23,2019,5
+82,Kerstin Ott & Helene Fischer,Regenbogenfarben,Universal Domestic Polydor,20,20,2019-05-17,2019-05-23,2019,5
+83,King Khalil feat. Fler,Bundesweit,SME - Team Kuku,1,83,2019-05-17,2019-05-23,2019,5
+84,Ufo361,Pass auf wen du liebst,Stay High,9,3,2019-05-17,2019-05-23,2019,5
+85,Martin Garrix feat. Macklemore & Patrick Stump of Fall Out Boy,Summer Days,SME - Epic,2,85,2019-05-17,2019-05-23,2019,5
+86,Shindy,DODI,SME - Friends With Money,14,1,2019-05-17,2019-05-23,2019,5
+87,Sam Smith & Normani,Dancing With A Stranger,Capitol,18,37,2019-05-17,2019-05-23,2019,5
+88,Khalid,Talk,SME - RCA International,5,88,2019-05-17,2019-05-23,2019,5
+89,Sido,Tausend Tattoos,Universal Domestic Urban,29,2,2019-05-17,2019-05-23,2019,5
+90,Halsey,Without Me,Capitol,32,11,2019-05-17,2019-05-23,2019,5
+91,Juju [DE],Hardcore High,Jinx Music,6,20,2019-05-17,2019-05-23,2019,5
+92,Luciano [DE],Millies,Universal Domestic Urban,4,19,2019-05-17,2019-05-23,2019,5
+93,Harris & Ford / Finch Asozial,"Freitag, Samstag",Kontor Records,2,88,2019-05-17,2019-05-23,2019,5
+94,Samra,Mosaik,Universal Domestic Urban,3,43,2019-05-17,2019-05-23,2019,5
+95,Leon Machère,Copacabana,PMR Music,41,13,2019-05-17,2019-05-23,2019,5
+96,Lil Dicky,Earth,BMG,3,77,2019-05-17,2019-05-23,2019,5
+97,"KitschKrieg feat. Trettmann, Gringo, Ufo361 & Gzuz",Standard,SoulForce Records,29,1,2019-05-17,2019-05-23,2019,5
+98,Alle Farben feat. James Blunt,Walk Away,B1 Recordings,1,98,2019-05-17,2019-05-23,2019,5
+99,Marshmello & Bastille,Happier,Universal,38,9,2019-05-17,2019-05-23,2019,5
+100,Post Malone & Swae Lee,Sunflower,Universal,27,36,2019-05-17,2019-05-23,2019,5

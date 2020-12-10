@@ -1,0 +1,101 @@
+current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
+1,Mariah Carey,All I Want For Christmas Is You,SME - Columbia,69,1,2019-12-27,2020-01-02,2019,12
+2,Wham!,Last Christmas,SME - Epic,140,2,2019-12-27,2020-01-02,2019,12
+3,Tones And I,Dance Monkey,Bad Batch Records,20,1,2019-12-27,2020-01-02,2019,12
+4,Apache 207,Roller,SME - Two Sides,18,1,2019-12-27,2020-01-02,2019,12
+5,Chris Rea,Driving Home For Christmas,Warner Music International,58,5,2019-12-27,2020-01-02,2019,12
+6,Melanie Thornton,Wonderful Dream (Holidays Are Coming),X-Cell,117,3,2019-12-27,2020-01-02,2019,12
+7,Shakin' Stevens,Merry Christmas Everyone,SME - Epic,16,7,2019-12-27,2020-01-02,2019,12
+8,The Weeknd,Blinding Lights,Republic Records,4,7,2019-12-27,2020-01-02,2019,12
+9,Loredana,Mit dir,Loredana,1,9,2019-12-27,2020-01-02,2019,12
+10,John & Yoko / The Plastic Ono Band with The Harlem Community Choir,Happy Xmas (War Is Over),EMI,27,10,2019-12-27,2020-01-02,2019,12
+11,Ariana Grande,Santa Tell Me,Universal,13,11,2019-12-27,2020-01-02,2019,12
+12,Paul McCartney,Wonderful Christmastime,Capitol,13,12,2019-12-27,2020-01-02,2019,12
+13,Nimo & Hava,Kein Schlaf,Urban,3,1,2019-12-27,2020-01-02,2019,12
+14,Michael Bublé,It's Beginning To Look A Lot Like Christmas,Reprise,15,14,2019-12-27,2020-01-02,2019,12
+15,José Feliciano,Feliz Navidad,SME - RCA International,44,15,2019-12-27,2020-01-02,2019,12
+16,Queen,Thank God It's Christmas,Universal,18,16,2019-12-27,2020-01-02,2019,12
+17,Band Aid,Do They Know It's Christmas?,Mercury,48,1,2019-12-27,2020-01-02,2019,12
+18,Regard,Ride It,SME - B1 Recordings,14,7,2019-12-27,2020-01-02,2019,12
+19,Bryan Adams,Christmas Time,Universal,12,19,2019-12-27,2020-01-02,2019,12
+20,Ufo361,Nur zur Info,Stay High,1,20,2019-12-27,2020-01-02,2019,12
+21,Pentatonix,Hallelujah,SME - RCA International,23,4,2019-12-27,2020-01-02,2019,12
+22,Kelly Clarkson,Underneath The Tree,SME - RCA International,9,22,2019-12-27,2020-01-02,2019,12
+23,Samra,Colt,Urban,3,2,2019-12-27,2020-01-02,2019,12
+24,Apache 207,200 km/h,SME - Two Sides,14,4,2019-12-27,2020-01-02,2019,12
+25,Bausa x Joshi Mizu x Maxwell,Skifahren,SME - RBK,6,4,2019-12-27,2020-01-02,2019,12
+26,Apache 207,Wieso tust Du dir das an?,SME - Two Sides,10,1,2019-12-27,2020-01-02,2019,12
+27,Capital Bra x Samra & Lea,110,Urban,14,1,2019-12-27,2020-01-02,2019,12
+28,Justin Bieber,Mistletoe,Island,12,28,2019-12-27,2020-01-02,2019,12
+29,Brenda Lee,Rockin' Around The Christmas Tree,Universal,9,26,2019-12-27,2020-01-02,2019,12
+30,RIN & Bausa,Keine Liebe,SME - Division,10,5,2019-12-27,2020-01-02,2019,12
+31,Tyga,Ayy Macarena,SME - Columbia,6,12,2019-12-27,2020-01-02,2019,12
+32,Bobby Helms,Jingle Bell Rock,K-Tel,9,32,2019-12-27,2020-01-02,2019,12
+33,RIN,Alien,SME - Division,3,8,2019-12-27,2020-01-02,2019,12
+34,Mark Forster,194 Länder,SME - Four Music,14,13,2019-12-27,2020-01-02,2019,12
+35,Dua Lipa,Don't Start Now,Urban,8,16,2019-12-27,2020-01-02,2019,12
+36,Nimo & Luciano,Star,Urban,1,36,2019-12-27,2020-01-02,2019,12
+37,Capital Bra,Der Bratan bleibt der gleiche,Urban,4,1,2019-12-27,2020-01-02,2019,12
+38,Rolf Zuckowski und seine Freunde,In der Weihnachtsbäckerei,Musik für Dich,14,38,2019-12-27,2020-01-02,2019,12
+39,Michael Bublé & Shania Twain,White Christmas,Reprise,5,35,2019-12-27,2020-01-02,2019,12
+40,Andy Williams,It's The Most Wonderful Time Of The Year,SME - Sony Music,5,40,2019-12-27,2020-01-02,2019,12
+41,Daryl Hall & John Oates,Jingle Bell Rock (Daryl's Version),SME - Sony Music,3,30,2019-12-27,2020-01-02,2019,12
+42,Nimo,Karma,Urban,8,4,2019-12-27,2020-01-02,2019,12
+43,Apache 207,Doch in der Nacht,SME - Two Sides,7,7,2019-12-27,2020-01-02,2019,12
+44,Coldplay,Christmas Lights,Parlophone Label Group,11,26,2019-12-27,2020-01-02,2019,12
+45,Britney Spears,My Only Wish (This Year),SME - Sony Music,10,33,2019-12-27,2020-01-02,2019,12
+46,Maroon 5,Memories,A&M Records,14,21,2019-12-27,2020-01-02,2019,12
+47,Sido feat. Apache 207,2002,Urban,13,6,2019-12-27,2020-01-02,2019,12
+48,Juju feat. Henning May,Vermissen,Jinx Music,34,1,2019-12-27,2020-01-02,2019,12
+49,Billie Eilish,Everything I Wanted,Interscope,6,9,2019-12-27,2020-01-02,2019,12
+50,Capo,Puls steigt,Warner Music Germany,1,50,2019-12-27,2020-01-02,2019,12
+51,Billie Eilish,Bad Guy,Universal,39,4,2019-12-27,2020-01-02,2019,12
+52,Sam Smith,Have Yourself A Merry Little Christmas,Capitol,4,41,2019-12-27,2020-01-02,2019,12
+53,Riton x Oliver Heldens feat. Vula,Turn Me On,Ministry Of Sound,8,32,2019-12-27,2020-01-02,2019,12
+54,Lewis Capaldi,Someone You Loved,Universal Domestic Vertigo,47,18,2019-12-27,2020-01-02,2019,12
+55,Sarah Connor,The Best Side Of Life,X-Cell,22,4,2019-12-27,2020-01-02,2019,12
+56,Arizona Zervas,Roxanne,SME - Arizona Zervas,7,35,2019-12-27,2020-01-02,2019,12
+57,Samra,95 BPM,Urban,2,16,2019-12-27,2020-01-02,2019,12
+58,Gzuz,Vor der Tür,187 Strassenbande,1,58,2019-12-27,2020-01-02,2019,12
+59,Dean Martin,Let It Snow! Let It Snow! Let It Snow!,Capitol,6,52,2019-12-27,2020-01-02,2019,12
+60,Sia,Santa's Coming For Us,Atlantic,3,50,2019-12-27,2020-01-02,2019,12
+61,SAINt JHN,Roses (Imanbek Remix),SME - B1 Recordings,4,61,2019-12-27,2020-01-02,2019,12
+62,Meghan Trainor,I'll Be Home,SME - Epic,3,45,2019-12-27,2020-01-02,2019,12
+63,Blackbear,Hot Girl Bummer,Interscope,12,17,2019-12-27,2020-01-02,2019,12
+64,Dean Martin,Rudolph The Red Nosed Reindeer,Capitol,5,64,2019-12-27,2020-01-02,2019,12
+65,LUM!X & Gabry Ponte,Monster,Spinnin' Records,22,20,2019-12-27,2020-01-02,2019,12
+66,Slade,Merry Xmas Everybody,Polydor,16,4,2019-12-27,2020-01-02,2019,12
+67,Bing Crosby,White Christmas,Universal,11,53,2019-12-27,2020-01-02,2019,12
+68,Kylie Minogue,Santa Baby,Parlophone Label Group,2,60,2019-12-27,2020-01-02,2019,12
+69,Michael Bublé,Holly Jolly Christmas,Reprise,2,69,2019-12-27,2020-01-02,2019,12
+70,Elton John,Step Into Christmas,Mercury,3,69,2019-12-27,2020-01-02,2019,12
+71,Meduza x Becky Hill x Goodboys,Lose Control,Virgin Records,11,32,2019-12-27,2020-01-02,2019,12
+72,Kianush & PA Sports,Casino Royal,Life Is Pain,3,28,2019-12-27,2020-01-02,2019,12
+73,Frank Sinatra,Let It Snow! Let It Snow! Let It Snow!,SME - Sony Music,2,73,2019-12-27,2020-01-02,2019,12
+74,Jonas Brothers,Like It's Christmas,Jonas Brothers Recording,1,74,2019-12-27,2020-01-02,2019,12
+75,Miami Yacine,Alessandra Ambrosio,KMN Gang,1,75,2019-12-27,2020-01-02,2019,12
+76,Black Eyed Peas x J Balvin,Ritmo (Bad Boys For Life),SME - Epic,8,44,2019-12-27,2020-01-02,2019,12
+77,Post Malone,Circles,Republic Records,17,17,2019-12-27,2020-01-02,2019,12
+78,Lil Nas X,Old Town Road,SME - Columbia,39,1,2019-12-27,2020-01-02,2019,12
+79,*N Sync,"Merry Christmas, Happy Holidays",SME - Sony Music,3,57,2019-12-27,2020-01-02,2019,12
+80,Michael Bublé,All I Want For Christmas Is You,Reprise,1,80,2019-12-27,2020-01-02,2019,12
+81,Jerome [DE],Light,Kontor Records,9,40,2019-12-27,2020-01-02,2019,12
+82,Sarah Connor,Vincent,Universal Domestic Polydor,38,9,2019-12-27,2020-01-02,2019,12
+83,The Ronettes,Sleigh Ride,SME - Sony Music,2,75,2019-12-27,2020-01-02,2019,12
+84,Gwen Stefani feat. Blake Shelton,You Make It Feel Like Christmas,Interscope,3,53,2019-12-27,2020-01-02,2019,12
+85,Frankie Goes To Hollywood,The Power Of Love,Salvo,27,4,2019-12-27,2020-01-02,2019,12
+86,Frank Sinatra,Jingle Bells,Capitol,2,86,2019-12-27,2020-01-02,2019,12
+87,Apache 207,Kein Problem,SME - Two Sides,18,17,2019-12-27,2020-01-02,2019,12
+88,Katy Perry,Cozy Little Christmas,Capitol,1,88,2019-12-27,2020-01-02,2019,12
+89,Robbie Williams,Time For Change,SME - Columbia,1,89,2019-12-27,2020-01-02,2019,12
+90,Capital Bra x Samra,Tilidin,Urban,27,1,2019-12-27,2020-01-02,2019,12
+91,Frank Sinatra,Santa Claus Is Coming To Town,SME - Sony Music,2,85,2019-12-27,2020-01-02,2019,12
+92,Band Aid 30,Do They Know It's Christmas? (2014),EMI,11,2,2019-12-27,2020-01-02,2019,12
+93,Shawn Mendes & Camila Cabello,Señorita,Island,27,1,2019-12-27,2020-01-02,2019,12
+94,Tim Bendzko,Hoch,SME - Jive Germany,19,10,2019-12-27,2020-01-02,2019,12
+95,Eartha Kitt with Henri René and his Orchestra,Santa Baby,SME - Columbia,3,73,2019-12-27,2020-01-02,2019,12
+96,Michael Bublé,Santa Claus Is Coming To Town,Reprise,2,66,2019-12-27,2020-01-02,2019,12
+97,Apache 207,Sex mit dir,SME - Two Sides,7,13,2019-12-27,2020-01-02,2019,12
+98,"The Cratez, Luciano & Kontra K",Himmel grau,SME - RBK,3,11,2019-12-27,2020-01-02,2019,12
+99,The Kingdom Choir feat. Camélia Jordana & Namika,Holidays Are Coming,SME - Sony Music,2,99,2019-12-27,2020-01-02,2019,12
+100,Boney M.,Mary's Boy Child / Oh My Lord,SME - Sony Music,14,1,2019-12-27,2020-01-02,2019,12

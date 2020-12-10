@@ -1,0 +1,101 @@
+current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
+1,KC Rebell feat. Summer Cem & Capital Bra,DNA,Rebell Army,1,1,2019-02-22,2019-02-28,2019,2
+2,Shirin David,Gib ihm,Shirin David Music,1,2,2019-02-22,2019-02-28,2019,2
+3,Eno feat. MERO,Ferrari,Alles Oder Nix Records,2,1,2019-02-22,2019-02-28,2019,2
+4,Pietro Lombardi,Nur ein Tanz,Universal Domestic Polydor,1,4,2019-02-22,2019-02-28,2019,2
+5,Capital Bra,Prinzessa,Universal Domestic Urban,4,1,2019-02-22,2019-02-28,2019,2
+6,Ava Max,Sweet But Psycho,Atlantic,18,1,2019-02-22,2019-02-28,2019,2
+7,Ariana Grande,7 Rings,Republic Records,5,4,2019-02-22,2019-02-28,2019,2
+8,Azet & Zuna,Hallo hallo,KMN Gang,2,3,2019-02-22,2019-02-28,2019,2
+9,Calvin Harris & Rag'n'Bone Man,Giant,SME - Columbia,6,7,2019-02-22,2019-02-28,2019,2
+10,Mero,Hobby Hobby,Groove Attack,5,1,2019-02-22,2019-02-28,2019,2
+11,Loredana x Mozzik,Romeo & Juliet,Loredana,3,2,2019-02-22,2019-02-28,2019,2
+12,Robin Schulz feat. Erika Sirola,Speechless,Warner Music Germany,14,7,2019-02-22,2019-02-28,2019,2
+13,Nimo & Capo,Leyla,Universal Domestic Urban,1,13,2019-02-22,2019-02-28,2019,2
+14,Ariana Grande,"Break Up With Your Girlfriend, I'm Bored",Republic Records,2,8,2019-02-22,2019-02-28,2019,2
+15,Capital Bra,Benzema,Universal Domestic Urban,9,1,2019-02-22,2019-02-28,2019,2
+16,Panic! At The Disco,High Hopes,Atlantic,29,5,2019-02-22,2019-02-28,2019,2
+17,Sido,Tausend Tattoos,Universal Domestic Urban,17,2,2019-02-22,2019-02-28,2019,2
+18,Kontra K feat. Jah Khalib,Nur ein Grund,BMG,1,18,2019-02-22,2019-02-28,2019,2
+19,Halsey,Without Me,Capitol,20,11,2019-02-22,2019-02-28,2019,2
+20,Kool Savas feat. Nessi,Deine Mutter,SME - Essah Entertainment ,5,16,2019-02-22,2019-02-28,2019,2
+21,Mark Ronson feat. Miley Cyrus,Nothing Breaks Like A Heart,SME - Columbia,12,16,2019-02-22,2019-02-28,2019,2
+22,Hugel feat. Amber Van Day,WTF,Warner Music International,6,21,2019-02-22,2019-02-28,2019,2
+23,Alle Farben & Ilira,Fading,B1 Recordings,16,16,2019-02-22,2019-02-28,2019,2
+24,Mero,Baller los,Groove Attack,13,1,2019-02-22,2019-02-28,2019,2
+25,Fero47,Jaja,SME - Epic Domestic,6,8,2019-02-22,2019-02-28,2019,2
+26,Post Malone,Wow.,Republic Records,8,18,2019-02-22,2019-02-28,2019,2
+27,Lady Gaga & Bradley Cooper,Shallow,Interscope,21,10,2019-02-22,2019-02-28,2019,2
+28,Dynoro & Gigi D'Agostino,In My Mind,B1 Recordings,37,1,2019-02-22,2019-02-28,2019,2
+29,Bonez MC & RAF Camora,500 PS,Universal Domestic Vertigo,29,1,2019-02-22,2019-02-28,2019,2
+30,Shindy,DODI,SME - Friends With Money,6,1,2019-02-22,2019-02-28,2019,2
+31,"KitschKrieg feat. Trettmann, Gringo, Ufo361 & Gzuz",Standard,SoulForce Records,18,1,2019-02-22,2019-02-28,2019,2
+32,Billie Eilish,Bury A Friend,Interscope,3,14,2019-02-22,2019-02-28,2019,2
+33,"KitschKrieg feat. Cro, AnnenMayKantereit & Trettmann",5 Minuten,BMG,2,10,2019-02-22,2019-02-28,2019,2
+34,Marshmello & Bastille,Happier,Universal,27,9,2019-02-22,2019-02-28,2019,2
+35,C Arma,Yapma,C Arma,7,35,2019-02-22,2019-02-28,2019,2
+36,"Gringo, Capital Bra & Kalazh44 feat. HK",Khabib,SME - SLS Music,1,36,2019-02-22,2019-02-28,2019,2
+37,Dean Lewis,Be Alright,Universal,27,8,2019-02-22,2019-02-28,2019,2
+38,Sam Smith & Normani,Dancing With A Stranger,Capitol,6,37,2019-02-22,2019-02-28,2019,2
+39,"David Guetta, Bebe Rexha & J Balvin",Say My Name,Parlophone Label Group,12,33,2019-02-22,2019-02-28,2019,2
+40,Kontra K,Warnung,BMG,5,6,2019-02-22,2019-02-28,2019,2
+41,Azet & Zuna,Wenn die Sonne untergeht,KMN Gang,5,7,2019-02-22,2019-02-28,2019,2
+42,Dermot Kennedy,Power Over Me,Interscope,5,40,2019-02-22,2019-02-28,2019,2
+43,KC Rebell,Hasso,Rebell Army,3,26,2019-02-22,2019-02-28,2019,2
+44,"DJ Snake feat. Selena Gomez, Ozuna & Cardi B",Taki Taki,Geffen Records,21,8,2019-02-22,2019-02-28,2019,2
+45,"NOTD, Felix Jaehn & Captain Cuts feat. Georgia Ku",So Close,Virgin Records,4,45,2019-02-22,2019-02-28,2019,2
+46,Lena,Thank You,Universal Domestic Polydor,11,40,2019-02-22,2019-02-28,2019,2
+47,"LX & Maxwell feat. Bonez MC, Gzuz & Sa4",HaifischNikez Allstars,187 Strassenbande,8,3,2019-02-22,2019-02-28,2019,2
+48,Kianush feat. PA Sports & Mosh36,Push,Life Is Pain,1,48,2019-02-22,2019-02-28,2019,2
+49,Ariana Grande,"Thank U, Next",Republic Records,16,13,2019-02-22,2019-02-28,2019,2
+50,Loud Luxury feat. Brando,Body,Kontor Records,39,7,2019-02-22,2019-02-28,2019,2
+51,Capital Bra feat. Xatar x SAMY,Ich liebe es,SME - Bushido,17,3,2019-02-22,2019-02-28,2019,2
+52,Lauv & Troye Sivan,I'm So Tired...,Lauv,4,52,2019-02-22,2019-02-28,2019,2
+53,Kerstin Ott & Helene Fischer,Regenbogenfarben,Universal Domestic Polydor,8,20,2019-02-22,2019-02-28,2019,2
+54,Imagine Dragons,Bad Liar,Interscope,14,32,2019-02-22,2019-02-28,2019,2
+55,Rita Ora,Let You Love Me,Atlantic,22,12,2019-02-22,2019-02-28,2019,2
+56,Samra,Cataleya,SME - Bushido,15,1,2019-02-22,2019-02-28,2019,2
+57,Nimo & Capo,Shem Shem & Sex,Universal Domestic Urban,6,12,2019-02-22,2019-02-28,2019,2
+58,Farid Bang,#niemalsantäuschen,Banger Musik,6,4,2019-02-22,2019-02-28,2019,2
+59,Nimo & Capo,Roadrunner,Universal Domestic Urban,4,23,2019-02-22,2019-02-28,2019,2
+60,Azet & Zuna,Lelele,KMN Gang,9,6,2019-02-22,2019-02-28,2019,2
+61,Alec Benjamin,Let Me Down Slowly,Atlantic,3,61,2019-02-22,2019-02-28,2019,2
+62,Nimo & Capo,Zoey,Universal Domestic Urban,10,8,2019-02-22,2019-02-28,2019,2
+63,Calvin Harris & Sam Smith,Promises,SME - Columbia,27,2,2019-02-22,2019-02-28,2019,2
+64,Capo feat. Nimo,Lambo Diablo GT,Warner Music Germany,34,21,2019-02-22,2019-02-28,2019,2
+65,Leon Machère,Copacabana,PMR Music,29,13,2019-02-22,2019-02-28,2019,2
+66,Post Malone & Swae Lee,Sunflower,Universal,17,36,2019-02-22,2019-02-28,2019,2
+67,Kygo feat. Valerie Broussard,Think About You,SME - Kygo,1,67,2019-02-22,2019-02-28,2019,2
+68,Shirin David,Orbit,Shirin David Music,4,5,2019-02-22,2019-02-28,2019,2
+69,Bonez MC & RAF Camora feat. Gzuz,Kokain,Universal Domestic Vertigo,23,1,2019-02-22,2019-02-28,2019,2
+70,Daddy Yankee feat. Snow,Con calma,Universal,1,70,2019-02-22,2019-02-28,2019,2
+71,Gaullin,Moonlight,B1 Recordings,1,71,2019-02-22,2019-02-28,2019,2
+72,Zedd & Katy Perry,365,Interscope,1,72,2019-02-22,2019-02-28,2019,2
+73,Lost Frequencies feat. The NGHBRS,Like I Love You,Kontor Records,13,40,2019-02-22,2019-02-28,2019,2
+74,"Benny Blanco, Halsey & Khalid",Eastside,Universal,32,15,2019-02-22,2019-02-28,2019,2
+75,Eno,Mercedes,Alles Oder Nix Records,28,6,2019-02-22,2019-02-28,2019,2
+76,Wincent Weiss,Pläne,Universal Domestic Vertigo,1,76,2019-02-22,2019-02-28,2019,2
+77,RAF Camora & AriBeatz feat. Sofiane,Perfekt,SME - Andere Liga,14,5,2019-02-22,2019-02-28,2019,2
+78,Capital Bra feat. Juju,Melodien,SME - Bushido,29,1,2019-02-22,2019-02-28,2019,2
+79,Luciano [DE],Meer,Universal Domestic Urban,17,3,2019-02-22,2019-02-28,2019,2
+80,Lewis Capaldi,Someone You Loved,Universal Domestic Vertigo,3,80,2019-02-22,2019-02-28,2019,2
+81,Ellie Goulding x Diplo feat. Swae Lee,Close To Me,Polydor,9,44,2019-02-22,2019-02-28,2019,2
+82,Kygo feat. Sandro Cavazza,Happy Now,B1 Recordings,15,53,2019-02-22,2019-02-28,2019,2
+83,Cardi B & Bruno Mars,Please Me,Atlantic,1,83,2019-02-22,2019-02-28,2019,2
+84,RIN,Dior 2001,Division,27,4,2019-02-22,2019-02-28,2019,2
+85,Kontra K,Farben,BMG,10,6,2019-02-22,2019-02-28,2019,2
+86,Armin van Buuren,Blah Blah Blah,Kontor Records,32,11,2019-02-22,2019-02-28,2019,2
+87,Mabel [UK],Don't Call Me Up,Polydor,1,87,2019-02-22,2019-02-28,2019,2
+88,Capital Bra,Feuer,SME - Bushido,12,4,2019-02-22,2019-02-28,2019,2
+89,Dardan,Facetime,Hypnotize Entertainment,27,7,2019-02-22,2019-02-28,2019,2
+90,Travis Scott,Sicko Mode,SME - Epic,24,43,2019-02-22,2019-02-28,2019,2
+91,Imagine Dragons,Natural,Interscope,27,16,2019-02-22,2019-02-28,2019,2
+92,Capital Bra feat. Ufo361,Neymar,SME - Team Kuku,41,1,2019-02-22,2019-02-28,2019,2
+93,LEA x Cyril,Immer wenn wir uns sehn,SME - Four Music,27,16,2019-02-22,2019-02-28,2019,2
+94,"David Guetta, Brooks & Loote",Better When You're Gone,Parlophone Label Group,2,59,2019-02-22,2019-02-28,2019,2
+95,A Boogie Wit Da Hoodie,Look Back At It,Atlantic,5,77,2019-02-22,2019-02-28,2019,2
+96,The Chainsmokers feat. 5 Seconds Of Summer,Who Do You Love,SME - Columbia,2,55,2019-02-22,2019-02-28,2019,2
+97,Josh.,Cordula Grün,Warner Music Germany,22,27,2019-02-22,2019-02-28,2019,2
+98,Ed Sheeran,Perfect,Atlantic,82,1,2019-02-22,2019-02-28,2019,2
+99,Zara Larsson,Ruin My Life,SME - Epic,13,62,2019-02-22,2019-02-28,2019,2
+100,The Prince Karma,Later Bitches,Down2Earth Music Ltd,1,100,2019-02-22,2019-02-28,2019,2

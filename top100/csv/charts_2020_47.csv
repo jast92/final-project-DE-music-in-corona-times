@@ -1,0 +1,101 @@
+current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
+1,Samra,Kennst du das?!,Urban,1,1,2020-11-20,2020-11-26,2020,11
+2,24kGoldn feat. Iann Dior,Mood,SME - Columbia,13,1,2020-11-20,2020-11-26,2020,11
+3,Lune,Gebe auf.,Lune,6,2,2020-11-20,2020-11-26,2020,11
+4,Bonez MC,Angeklagt,187 Strassenbande,4,1,2020-11-20,2020-11-26,2020,11
+5,Billie Eilish,Therefore I Am,Interscope,1,5,2020-11-20,2020-11-26,2020,11
+6,Master KG feat. Burna Boy & Nomcebo Zikode,Jerusalema (Remix),Elektra France,15,6,2020-11-20,2020-11-26,2020,11
+7,Joel Corry feat. MNEK,Head & Heart,Atlantic,18,4,2020-11-20,2020-11-26,2020,11
+8,Internet Money & Gunna feat. Don Toliver & Nav,Lemonade,Internet Money,14,2,2020-11-20,2020-11-26,2020,11
+9,Vize x Joker Bra x Leony,Paradise,Kontor Records,13,4,2020-11-20,2020-11-26,2020,11
+10,Ofenbach & Quarterhead feat. Norma Jean Martine,Head Shoulders Knees & Toes,Spinnin' Records,16,6,2020-11-20,2020-11-26,2020,11
+11,Justin Bieber & Benny Blanco,Lonely,Def Jam,5,9,2020-11-20,2020-11-26,2020,11
+12,Mark Forster x Vize,Bist du okay,SME - Marecs,8,11,2020-11-20,2020-11-26,2020,11
+13,Casar,Habibi,Urban,2,9,2020-11-20,2020-11-26,2020,11
+14,Robin Schulz feat. Kiddo,All We Got,Warner Music Germany,5,14,2020-11-20,2020-11-26,2020,11
+15,Ariana Grande,Positions,Republic Records,4,9,2020-11-20,2020-11-26,2020,11
+16,Pop Smoke,What You Know Bout Love,Victor Victor Worldwide,8,12,2020-11-20,2020-11-26,2020,11
+17,Loredana,Tut mir nicht leid,Loredana,2,4,2020-11-20,2020-11-26,2020,11
+18,Finch Asozial feat. Tarek K.I.Z,Onkelz Poster,Warner Music Germany,1,18,2020-11-20,2020-11-26,2020,11
+19,Purple Disco Machine & Sophie And The Giants,Hypnotized,SME - Columbia,16,18,2020-11-20,2020-11-26,2020,11
+20,Jawsh 685 & Jason Derulo,Savage Love (Laxed - Siren Beat),SME - Columbia,23,1,2020-11-20,2020-11-26,2020,11
+21,LX feat. Gzuz,Kollektiv,187 Strassenbande,2,5,2020-11-20,2020-11-26,2020,11
+22,Tate McRae,You Broke Me First,SME - RCA International,13,22,2020-11-20,2020-11-26,2020,11
+23,Jason Derulo,Take You Dancing,Atlantic,17,15,2020-11-20,2020-11-26,2020,11
+24,The Weeknd,Blinding Lights,Republic Records,51,1,2020-11-20,2020-11-26,2020,11
+25,HVME,Goosebumps,B1 Recordings,9,23,2020-11-20,2020-11-26,2020,11
+26,Alligatoah x Sido,Monet,Trailerpark,5,9,2020-11-20,2020-11-26,2020,11
+27,Miley Cyrus,Midnight Sky,SME - RCA Domestic,14,27,2020-11-20,2020-11-26,2020,11
+28,KitschKrieg feat. Jamule,Unterwegs,SoulForce Records / BMG,15,1,2020-11-20,2020-11-26,2020,11
+29,Twocolors,Lovefool,Virgin Records,22,11,2020-11-20,2020-11-26,2020,11
+30,LA Vision & Gigi D'Agostino,Hollywood,Universal Domestic Polydor,19,10,2020-11-20,2020-11-26,2020,11
+31,Bozza,Elbe,Def Jam Germany,8,12,2020-11-20,2020-11-26,2020,11
+32,Felix Jaehn feat. Nea & Bryn Christopher,No Therapy,Virgin Records,12,31,2020-11-20,2020-11-26,2020,11
+33,Meduza feat. Dermot Kennedy,Paradise,Virgin Records,3,33,2020-11-20,2020-11-26,2020,11
+34,Tiësto,The Business,Atlantic,3,34,2020-11-20,2020-11-26,2020,11
+35,Capo,Geisterstadt,Warner Music Germany,1,35,2020-11-20,2020-11-26,2020,11
+36,David Guetta & Sia,Let's Love,Parlophone Label Group,10,30,2020-11-20,2020-11-26,2020,11
+37,Bonez MC,Jetski,187 Strassenbande,2,15,2020-11-20,2020-11-26,2020,11
+38,Loredana & Delara,Checka,Loredana,8,2,2020-11-20,2020-11-26,2020,11
+39,Mark Forster,Übermorgen,SME - Marecs,29,7,2020-11-20,2020-11-26,2020,11
+40,Dennis Lloyd,Alien,SME - Arista,12,32,2020-11-20,2020-11-26,2020,11
+41,Topic feat. A7S,Breaking Me,Virgin Records,46,3,2020-11-20,2020-11-26,2020,11
+42,DaBaby feat. Roddy Ricch,Rockstar,Interscope,31,3,2020-11-20,2020-11-26,2020,11
+43,Azet x Capital Bra,B.L.F.L.,KMN Gang,3,4,2020-11-20,2020-11-26,2020,11
+44,Pop Smoke feat. Lil Baby & DaBaby,For The Night,Republic Records,15,28,2020-11-20,2020-11-26,2020,11
+45,BTS,Dynamite,2020 BigHit Entertainment,13,8,2020-11-20,2020-11-26,2020,11
+46,Justin Bieber feat. Chance The Rapper,Holy,Def Jam,9,22,2020-11-20,2020-11-26,2020,11
+47,Dermot Kennedy,Giants,Interscope,7,45,2020-11-20,2020-11-26,2020,11
+48,Apache 207,Bläulich,SME - Four Music / TwoSides,20,1,2020-11-20,2020-11-26,2020,11
+49,Clean Bandit and Mabel feat. 24kGoldn,Tick Tock,Atlantic,10,48,2020-11-20,2020-11-26,2020,11
+50,Vize & Tom Gregory,Never Let Me Down,Kontor Records,30,8,2020-11-20,2020-11-26,2020,11
+51,Apache 207,Roller,SME - Four Music / TwoSides,65,1,2020-11-20,2020-11-26,2020,11
+52,Kool Savas x Alies,AMG,SME - Essah Media GmbH,15,19,2020-11-20,2020-11-26,2020,11
+53,SAINt JHN,Roses (Imanbek Remix),B1 Recordings,51,3,2020-11-20,2020-11-26,2020,11
+54,Tones And I,Dance Monkey,Bad Batch Records,67,1,2020-11-20,2020-11-26,2020,11
+55,Bausa x Juju,2012,Warner Music Germany,13,2,2020-11-20,2020-11-26,2020,11
+56,Gentleman x Luciano x Ezhel,Devam,Urban,9,9,2020-11-20,2020-11-26,2020,11
+57,Monet192 feat. Takt32 & Badmómzjay,Sorry Not Sorry,Warner Music Germany,2,21,2020-11-20,2020-11-26,2020,11
+58,Nea,Some Say,SME - Milkshake,42,15,2020-11-20,2020-11-26,2020,11
+59,Harry Styles,Watermelon Sugar,SME - Columbia,23,15,2020-11-20,2020-11-26,2020,11
+60,Headie One feat. AJ Tracey & Stormzy,Ain't It Different,SME - Relentless Records,2,53,2020-11-20,2020-11-26,2020,11
+61,Michael Schulte,For A Second,Very Us Records,4,61,2020-11-20,2020-11-26,2020,11
+62,Mariah Carey,All I Want For Christmas Is You,SME - Columbia,70,1,2020-11-20,2020-11-26,2020,11
+63,KC Rebell & Summer Cem feat. Capital Bra,Amcaogle,Banger Musik,3,14,2020-11-20,2020-11-26,2020,11
+64,Ufo361,Emotions,Stay High,30,1,2020-11-20,2020-11-26,2020,11
+65,CJ,Whoopty,Equity Distribution,2,65,2020-11-20,2020-11-26,2020,11
+66,Shawn Mendes,Wonder,Island,7,47,2020-11-20,2020-11-26,2020,11
+67,Hava,Molim,RCA Domestic,1,67,2020-11-20,2020-11-26,2020,11
+68,AK Ausserkontrolle x Bonez MC,In meinem Benz,XY Records,25,1,2020-11-20,2020-11-26,2020,11
+69,Samra,Rohdiamant II,Urban,7,1,2020-11-20,2020-11-26,2020,11
+70,Cardi B feat. Megan Thee Stallion,WAP,Atlantic,15,12,2020-11-20,2020-11-26,2020,11
+71,AC/DC,Realize,SME - Columbia,1,71,2020-11-20,2020-11-26,2020,11
+72,Maluma & The Weeknd,Hawái (Remix),SME - Sony Music,2,62,2020-11-20,2020-11-26,2020,11
+73,Mero feat. Nimo,Désolé,Groove Attack TraX,5,3,2020-11-20,2020-11-26,2020,11
+74,Clueso,Flugmodus,SME - Epic Domestic,15,62,2020-11-20,2020-11-26,2020,11
+75,Fousheé,Deep End,SME - Sony Music,4,75,2020-11-20,2020-11-26,2020,11
+76,Symba [DE],Battlefield Freestyle,SME - Symba,2,20,2020-11-20,2020-11-26,2020,11
+77,Tujamo - Vize - Majan,Lonely,Virgin Records,20,34,2020-11-20,2020-11-26,2020,11
+78,Ava Max,Kings & Queens,Atlantic,36,16,2020-11-20,2020-11-26,2020,11
+79,AC/DC,Shot In The Dark,SME - Columbia,2,79,2020-11-20,2020-11-26,2020,11
+80,Pashanim,Airwaves,Urban,27,2,2020-11-20,2020-11-26,2020,11
+81,Capital Bra x Cro,Frühstück in Paris,Urban,13,1,2020-11-20,2020-11-26,2020,11
+82,Celo & Abdi feat. Brudi030 & HK,Veteranos,385ideal,1,82,2020-11-20,2020-11-26,2020,11
+83,Ava Max,Who's Laughing Now?,Atlantic,15,65,2020-11-20,2020-11-26,2020,11
+84,Georg Stengel,Mars,We Love Music,15,68,2020-11-20,2020-11-26,2020,11
+85,Bonez MC feat. LX,Niemals unter Tausend,187 Strassenbande,8,4,2020-11-20,2020-11-26,2020,11
+86,Wham!,Last Christmas,SME - Epic,141,2,2020-11-20,2020-11-26,2020,11
+87,Juice WRLD & Marshmello,Come & Go,Interscope,17,38,2020-11-20,2020-11-26,2020,11
+88,Robin Schulz & Wes,Alane,Warner Music Germany,22,6,2020-11-20,2020-11-26,2020,11
+89,Bonez MC,Fuckst mich nur ab,187 Strassenbande,11,1,2020-11-20,2020-11-26,2020,11
+90,WIER,Best Of Us,MOKOH Music GmbH,8,78,2020-11-20,2020-11-26,2020,11
+91,LUM!X & Gabry Ponte,Monster,Spinnin' Records,69,20,2020-11-20,2020-11-26,2020,11
+92,Ritt Momney,Put Your Records On,SME - Columbia,8,52,2020-11-20,2020-11-26,2020,11
+93,Dardan & Hava,Mailbox,Hypnotize Entertainment,7,7,2020-11-20,2020-11-26,2020,11
+94,Sam Smith,Diamonds,Capitol,4,69,2020-11-20,2020-11-26,2020,11
+95,Lea x Majan,Beifahrersitz,SME - Four Music,10,48,2020-11-20,2020-11-26,2020,11
+96,Lewis Capaldi,Someone You Loved,Universal Domestic Vertigo,80,18,2020-11-20,2020-11-26,2020,11
+97,Tones And I,Fly Away,Elektra,1,97,2020-11-20,2020-11-26,2020,11
+98,James Arthur,Train Wreck,SME - Columbia Domestic,1,98,2020-11-20,2020-11-26,2020,11
+99,Machine Gun Kelly & Blackbear,My Ex's Best Friend,Interscope,10,68,2020-11-20,2020-11-26,2020,11
+100,Melo68,Weit entfernt,Recordjet,1,100,2020-11-20,2020-11-26,2020,11

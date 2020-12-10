@@ -1,0 +1,101 @@
+current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
+1,Ed Sheeran,Perfect,Atlantic,28,1,2018-02-09,2018-02-15,2018,2
+2,Eminem feat. Ed Sheeran,River,Interscope,8,2,2018-02-09,2018-02-15,2018,2
+3,Bausa,Was du Liebe nennst,Warner Music Germany,19,1,2018-02-09,2018-02-15,2018,2
+4,Ufo361,Beverly Hills,Stay High,1,4,2018-02-09,2018-02-15,2018,2
+5,Nico Santos,Rooftop,Virgin Records,13,5,2018-02-09,2018-02-15,2018,2
+6,Luis Fonsi & Demi Lovato,Échame la culpa,Universal,12,6,2018-02-09,2018-02-15,2018,2
+7,Camila Cabello feat. Young Thug,Havana,Epic,25,2,2018-02-09,2018-02-15,2018,2
+8,Drake,God's Plan,Motown,3,5,2018-02-09,2018-02-15,2018,2
+9,Post Malone feat. 21 Savage,Rockstar,Universal,21,2,2018-02-09,2018-02-15,2018,2
+10,Martin Garrix & David Guetta feat. Jamie Scott & Romy Dya,So Far Away,B1 Recordings,10,8,2018-02-09,2018-02-15,2018,2
+11,G-Eazy & Halsey,Him & I,RCA International,10,6,2018-02-09,2018-02-15,2018,2
+12,Jason Derulo feat. French Montana,Tip Toe,Beluga Heights,13,11,2018-02-09,2018-02-15,2018,2
+13,Lost Frequencies & Zonderling,Crazy,Kontor Records,7,13,2018-02-09,2018-02-15,2018,2
+14,LEA,Leiser,Four Music,10,13,2018-02-09,2018-02-15,2018,2
+15,Justin Timberlake feat. Chris Stapleton,Say Something,RCA International,2,15,2018-02-09,2018-02-15,2018,2
+16,The Chainsmokers,Sick Boy,Columbia,3,16,2018-02-09,2018-02-15,2018,2
+17,Ofenbach vs. Nick Waterhouse,Katchi,Warner Music International,15,9,2018-02-09,2018-02-15,2018,2
+18,NF,Let You Down,Capitol,16,9,2018-02-09,2018-02-15,2018,2
+19,Azet feat. RAF Camora,Qa bone,KMN Gang,7,12,2018-02-09,2018-02-15,2018,2
+20,Rita Ora,Anywhere,Atlantic,12,18,2018-02-09,2018-02-15,2018,2
+21,Tom Walker,Leave A Light On,RCA International,6,21,2018-02-09,2018-02-15,2018,2
+22,Justin Bieber + BloodPop®,Friends,Republic Records,25,4,2018-02-09,2018-02-15,2018,2
+23,James Hype feat. Kelli-Leigh,More Than Friends,Warner Music International,11,23,2018-02-09,2018-02-15,2018,2
+24,Liam Payne & Rita Ora,For You (Fifty Shades Freed),Republic Records,5,16,2018-02-09,2018-02-15,2018,2
+25,The Weeknd & Kendrick Lamar,Pray For Me,Universal,1,25,2018-02-09,2018-02-15,2018,2
+26,Marshmello feat. Khalid,Silence,RCA International,25,6,2018-02-09,2018-02-15,2018,2
+27,Selena Gomez x Marshmello,Wolves,Universal,15,11,2018-02-09,2018-02-15,2018,2
+28,Dardan x Luciano,Airmax gegen Kopf,Universal Domestic Urban,1,28,2018-02-09,2018-02-15,2018,2
+29,"Rudimental feat. Jess Glynne, Macklemore & Dan Caplen",These Days,Atlantic,3,29,2018-02-09,2018-02-15,2018,2
+30,Dua Lipa,IDGAF,Universal Domestic Vertigo,3,30,2018-02-09,2018-02-15,2018,2
+31,Zayn feat. Sia,Dusk Till Dawn,RCA International,22,3,2018-02-09,2018-02-15,2018,2
+32,"Machine Gun Kelly, X Ambassadors & Bebe Rexha",Home,Atlantic,12,27,2018-02-09,2018-02-15,2018,2
+33,Portugal. The Man,Feel It Still,Atlantic,21,7,2018-02-09,2018-02-15,2018,2
+34,Ed Sheeran,Shape Of You,Atlantic,57,1,2018-02-09,2018-02-15,2018,2
+35,Imagine Dragons,Whatever It Takes,Interscope,19,7,2018-02-09,2018-02-15,2018,2
+36,James Arthur,Naked,Columbia Domestic,11,23,2018-02-09,2018-02-15,2018,2
+37,Axwell Λ Ingrosso,More Than You Know,Virgin Records,35,1,2018-02-09,2018-02-15,2018,2
+38,Kay One feat. Pietro Lombardi,Señorita,Princekayone GmbH,22,1,2018-02-09,2018-02-15,2018,2
+39,Axwell Λ Ingrosso,Dreamer,Virgin Records,6,39,2018-02-09,2018-02-15,2018,2
+40,Jax Jones feat. Ina Wroldsen,Breathe,Polydor,5,40,2018-02-09,2018-02-15,2018,2
+41,Bruno Mars,Finesse,Atlantic,5,31,2018-02-09,2018-02-15,2018,2
+42,Dua Lipa,New Rules,Universal Domestic Vertigo,28,9,2018-02-09,2018-02-15,2018,2
+43,Niska,Réseaux,Capitol,3,41,2018-02-09,2018-02-15,2018,2
+44,RAF Camora,Primo,Indipendenza,24,6,2018-02-09,2018-02-15,2018,2
+45,Camila Cabello,Never Be The Same,Epic,4,30,2018-02-09,2018-02-15,2018,2
+46,RAF Camora,Sag nix,Indipendenza,9,6,2018-02-09,2018-02-15,2018,2
+47,Zedd / Maren Morris / Grey,The Middle,Interscope,2,47,2018-02-09,2018-02-15,2018,2
+48,RAF Camora,Gotham City,Indipendenza,8,9,2018-02-09,2018-02-15,2018,2
+49,Kygo feat. Justin Jesso,Stargazing,B1 Recordings,20,14,2018-02-09,2018-02-15,2018,2
+50,Luis Fonsi feat. Daddy Yankee,Despacito,Universal,54,1,2018-02-09,2018-02-15,2018,2
+51,Clean Bandit feat. Julia Michaels,I Miss You,Atlantic,13,51,2018-02-09,2018-02-15,2018,2
+52,Avicii feat. Rita Ora,Lonely Together,Virgin Records,21,24,2018-02-09,2018-02-15,2018,2
+53,J Balvin & Willy William,Mi gente,B1 Recordings,32,3,2018-02-09,2018-02-15,2018,2
+54,Ingo ohne Flamingo,"Saufen, morgens, mittags, abends",UR-MUSIC,7,54,2018-02-09,2018-02-15,2018,2
+55,Azet,9 Milly,KMN Gang,4,13,2018-02-09,2018-02-15,2018,2
+56,Imagine Dragons,Thunder,Interscope,41,2,2018-02-09,2018-02-15,2018,2
+57,Veysel & Mozzik,Ti amo,Bela Boyz,3,55,2018-02-09,2018-02-15,2018,2
+58,Big Shaq,Man's Not Hot,Island,14,26,2018-02-09,2018-02-15,2018,2
+59,French Montana feat. Swae Lee,Unforgettable,Epic,43,6,2018-02-09,2018-02-15,2018,2
+60,"RAF Camora feat. Bonez MC, Gzuz & Ufo361",Waffen,Indipendenza,8,21,2018-02-09,2018-02-15,2018,2
+61,Keala Settle & The Greatest Showman Ensemble,This Is Me,Atlantic,5,55,2018-02-09,2018-02-15,2018,2
+62,Jazn,Bombay,Optimaluxus,6,53,2018-02-09,2018-02-15,2018,2
+63,Justin Timberlake,Filthy,RCA International,3,42,2018-02-09,2018-02-15,2018,2
+64,Eule,Stehaufmädchen,El Cartel Media,1,64,2018-02-09,2018-02-15,2018,2
+65,Kendrick Lamar & SZA,All The Stars,Universal,5,65,2018-02-09,2018-02-15,2018,2
+66,Helene Fischer,Herzbeben,Universal Domestic Polydor,32,6,2018-02-09,2018-02-15,2018,2
+67,Fler feat. Rick Ross,Big Dreams,Maskulin,1,67,2018-02-09,2018-02-15,2018,2
+68,Bebe Rexha feat. Florida Georgia Line,Meant To Be,Warner Music International,5,68,2018-02-09,2018-02-15,2018,2
+69,Bonez MC & RAF Camora feat. Maxwell,Ohne mein Team,Auf!Keinen!Fall!,75,7,2018-02-09,2018-02-15,2018,2
+70,Charlie Puth,How Long,Artist Partner Group,18,42,2018-02-09,2018-02-15,2018,2
+71,MC Fioti / Future / J Balvin / Stefflon Don / Juan Magan,Bum bum tam tam,Kontor Records,3,71,2018-02-09,2018-02-15,2018,2
+72,Maroon 5 feat. SZA,What Lovers Do,A&M Records,23,17,2018-02-09,2018-02-15,2018,2
+73,Nimo,Heute mit mir,Universal Domestic Urban,35,10,2018-02-09,2018-02-15,2018,2
+74,Gestört aber GeiL feat. Lea,Wohin willst du,Kontor Records,35,11,2018-02-09,2018-02-15,2018,2
+75,Veysel,Kleiner Cabrón,Bela Boyz,23,18,2018-02-09,2018-02-15,2018,2
+76,Lauv,I Like Me Better,Lauv,31,7,2018-02-09,2018-02-15,2018,2
+77,Bausa feat. Capital Bra,Unterwegs,Warner Music Germany,1,77,2018-02-09,2018-02-15,2018,2
+78,Andreas Gabalier,Hulapalu,Electrola,87,13,2018-02-09,2018-02-15,2018,2
+79,Miami Yacine,Bon voyage,KMN Gang,30,5,2018-02-09,2018-02-15,2018,2
+80,Justin Timberlake,Man Of The Woods,RCA International,1,80,2018-02-09,2018-02-15,2018,2
+81,Olexesh,Gopnik,385ideal,2,58,2018-02-09,2018-02-15,2018,2
+82,P!nk,What About Us,RCA International,26,3,2018-02-09,2018-02-15,2018,2
+83,Rea Garvey feat. Kool Savas,Is It Love?,Universal Domestic Island,2,62,2018-02-09,2018-02-15,2018,2
+84,Robin Schulz & Hugel,I Believe I'm Fine,Warner Music Germany,22,29,2018-02-09,2018-02-15,2018,2
+85,Ali As & Juju,Heroin,Jinx Music,1,85,2018-02-09,2018-02-15,2018,2
+86,RIN,Monica Bellucci,Division,26,15,2018-02-09,2018-02-15,2018,2
+87,Moe Phoenix feat. PA Sports,Habibi,Life Is Pain,1,87,2018-02-09,2018-02-15,2018,2
+88,Mark Forster,Kogong,Four Music,17,34,2018-02-09,2018-02-15,2018,2
+89,Azzi Memo x Eno,AMG2,Generation Azzlack,12,8,2018-02-09,2018-02-15,2018,2
+90,Rin,Bros,Division,39,27,2018-02-09,2018-02-15,2018,2
+91,The Chainsmokers & Coldplay,Something Just Like This,Columbia,49,4,2018-02-09,2018-02-15,2018,2
+92,Trettmann feat. Gzuz,Knöcheltief,SoulForce Records,25,31,2018-02-09,2018-02-15,2018,2
+93,Rita Ora,Your Song,Atlantic,37,13,2018-02-09,2018-02-15,2018,2
+94,CamelPhat & Elderbrook,Cola,Defected Records,4,90,2018-02-09,2018-02-15,2018,2
+95,Eno,Wäwä,Warner Music Germany,3,45,2018-02-09,2018-02-15,2018,2
+96,Hailee Steinfeld & Alesso feat. Florida Georgia Line & Watt,Let Me Go,Universal,7,78,2018-02-09,2018-02-15,2018,2
+97,Helene Fischer,Achterbahn,Universal Domestic Polydor,12,10,2018-02-09,2018-02-15,2018,2
+98,Bonez MC / RAF Camora / GZUZ / Maxwell,Kontrollieren,Indipendenza,32,11,2018-02-09,2018-02-15,2018,2
+99,Zac Efron & Zendaya,Rewrite The Stars,Atlantic,3,89,2018-02-09,2018-02-15,2018,2
+100,Robin Schulz feat. James Blunt,OK,Warner Music Germany,38,2,2018-02-09,2018-02-15,2018,2

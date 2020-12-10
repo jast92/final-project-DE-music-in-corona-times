@@ -1,0 +1,101 @@
+current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
+1,Tones And I,Dance Monkey,Bad Batch Records,19,1,2019-12-20,2019-12-26,2019,12
+2,Apache 207,Roller,SME - Two Sides,17,1,2019-12-20,2019-12-26,2019,12
+3,Nimo & Hava,Kein Schlaf,Urban,2,1,2019-12-20,2019-12-26,2019,12
+4,Samra,Colt,Urban,2,2,2019-12-20,2019-12-26,2019,12
+5,Mariah Carey,All I Want For Christmas Is You,SME - Columbia,68,2,2019-12-20,2019-12-26,2019,12
+6,Wham!,Last Christmas,SME - Epic,139,3,2019-12-20,2019-12-26,2019,12
+7,The Weeknd,Blinding Lights,Republic Records,3,7,2019-12-20,2019-12-26,2019,12
+8,Regard,Ride It,B1 Recordings,13,7,2019-12-20,2019-12-26,2019,12
+9,Capital Bra,Der Bratan bleibt der gleiche,Urban,3,1,2019-12-20,2019-12-26,2019,12
+10,Apache 207,200 km/h,SME - Two Sides,13,4,2019-12-20,2019-12-26,2019,12
+11,RIN & Bausa,Keine Liebe,SME - Division,9,5,2019-12-20,2019-12-26,2019,12
+12,Apache 207,Wieso tust Du dir das an?,SME - Two Sides,9,1,2019-12-20,2019-12-26,2019,12
+13,Bausa x Joshi Mizu x Maxwell,Skifahren,SME - RBK,5,4,2019-12-20,2019-12-26,2019,12
+14,Capital Bra x Samra & Lea,110,Urban,13,1,2019-12-20,2019-12-26,2019,12
+15,RIN,Alien,SME - Division,2,8,2019-12-20,2019-12-26,2019,12
+16,Samra,95 BPM,Urban,1,16,2019-12-20,2019-12-26,2019,12
+17,Tyga,Ayy Macarena,SME - Columbia,5,12,2019-12-20,2019-12-26,2019,12
+18,Chris Rea,Driving Home For Christmas,Warner Music International,57,5,2019-12-20,2019-12-26,2019,12
+19,Apache 207,Doch in der Nacht,SME - Two Sides,6,7,2019-12-20,2019-12-26,2019,12
+20,Shindy,Tiffany,SME - Friends With Money,2,6,2019-12-20,2019-12-26,2019,12
+21,Dua Lipa,Don't Start Now,Urban,7,16,2019-12-20,2019-12-26,2019,12
+22,Melanie Thornton,Wonderful Dream (Holidays Are Coming),X-Cell,116,3,2019-12-20,2019-12-26,2019,12
+23,Sido feat. Apache 207,2002,Urban,12,6,2019-12-20,2019-12-26,2019,12
+24,Mark Forster,194 Länder,SME - Four Music,13,13,2019-12-20,2019-12-26,2019,12
+25,Nimo,Karma,Urban,7,4,2019-12-20,2019-12-26,2019,12
+26,"The Cratez, Luciano & Kontra K",Himmel grau,SME - RBK,2,11,2019-12-20,2019-12-26,2019,12
+27,Juju feat. Henning May,Vermissen,Jinx Music,33,1,2019-12-20,2019-12-26,2019,12
+28,Maroon 5,Memories,A&M Records,13,21,2019-12-20,2019-12-26,2019,12
+29,Billie Eilish,Everything I Wanted,Interscope,5,9,2019-12-20,2019-12-26,2019,12
+30,Shakin' Stevens,Merry Christmas Everyone,SME - Epic,15,9,2019-12-20,2019-12-26,2019,12
+31,Ariana Grande,Santa Tell Me,Universal,12,14,2019-12-20,2019-12-26,2019,12
+32,Riton x Oliver Heldens feat. Vula,Turn Me On,SME - Ministry Of Sound,7,32,2019-12-20,2019-12-26,2019,12
+33,Kianush & PA Sports,Casino Royal,Life Is Pain,2,28,2019-12-20,2019-12-26,2019,12
+34,Lewis Capaldi,Someone You Loved,Universal Domestic Vertigo,46,18,2019-12-20,2019-12-26,2019,12
+35,Arizona Zervas,Roxanne,SME - Arizona Zervas,6,35,2019-12-20,2019-12-26,2019,12
+36,Blackbear,Hot Girl Bummer,Interscope,11,17,2019-12-20,2019-12-26,2019,12
+37,Billie Eilish,Bad Guy,Universal,38,4,2019-12-20,2019-12-26,2019,12
+38,Post Malone,Circles,Republic Records,16,17,2019-12-20,2019-12-26,2019,12
+39,LUM!X & Gabry Ponte,Monster,Spinnin' Records,21,20,2019-12-20,2019-12-26,2019,12
+40,John & Yoko / The Plastic Ono Band with The Harlem Community Choir,Happy Xmas (War Is Over),EMI,26,10,2019-12-20,2019-12-26,2019,12
+41,Meduza x Becky Hill x Goodboys,Lose Control,Virgin Records,10,32,2019-12-20,2019-12-26,2019,12
+42,Capital Bra x Samra,Tilidin,Urban,26,1,2019-12-20,2019-12-26,2019,12
+43,Veysel,Sorry,Urban,3,18,2019-12-20,2019-12-26,2019,12
+44,Apache 207,Sex mit dir,SME - Two Sides,6,13,2019-12-20,2019-12-26,2019,12
+45,Apache 207,Kein Problem,SME - Two Sides,17,17,2019-12-20,2019-12-26,2019,12
+46,Michael Bublé,It's Beginning To Look A Lot Like Christmas,Reprise,14,15,2019-12-20,2019-12-26,2019,12
+47,Juice WRLD,Lucid Dreams (Forget Me),Juice WRLD Mixtape,23,36,2019-12-20,2019-12-26,2019,12
+48,Black Eyed Peas x J Balvin,Ritmo (Bad Boys For Life),Epic,7,44,2019-12-20,2019-12-26,2019,12
+49,José Feliciano,Feliz Navidad,SME - RCA International,43,19,2019-12-20,2019-12-26,2019,12
+50,Lil Nas X,Old Town Road,SME - Columbia,38,1,2019-12-20,2019-12-26,2019,12
+51,Band Aid,Do They Know It's Christmas?,Mercury,47,1,2019-12-20,2019-12-26,2019,12
+52,Fero47,Désolé,SME - Epic,3,25,2019-12-20,2019-12-26,2019,12
+53,Pentatonix,Hallelujah,SME - RCA International,22,4,2019-12-20,2019-12-26,2019,12
+54,Sarah Connor,Vincent,Universal Domestic Polydor,37,9,2019-12-20,2019-12-26,2019,12
+55,Jerome [DE],Light,Kontor Records,8,40,2019-12-20,2019-12-26,2019,12
+56,Paul McCartney,Wonderful Christmastime,Capitol,12,13,2019-12-20,2019-12-26,2019,12
+57,RIN,Bietigheimication,SME - Division,3,15,2019-12-20,2019-12-26,2019,12
+58,Shawn Mendes & Camila Cabello,Señorita,Island,26,1,2019-12-20,2019-12-26,2019,12
+59,Tim Bendzko,Hoch,SME - Jive Germany,18,10,2019-12-20,2019-12-26,2019,12
+60,Queen,Thank God It's Christmas,Universal,17,16,2019-12-20,2019-12-26,2019,12
+61,Ed Sheeran feat. Camila Cabello & Cardi B,South Of The Border,Atlantic,14,33,2019-12-20,2019-12-26,2019,12
+62,The Cratez & Bonez MC,Honda Civic,SME - RBK,12,5,2019-12-20,2019-12-26,2019,12
+63,SAINt JHN,Roses (Imanbek Remix),B1 Recordings,3,63,2019-12-20,2019-12-26,2019,12
+64,Rolf Zuckowski und seine Freunde,In der Weihnachtsbäckerei,Musik für Dich,13,54,2019-12-20,2019-12-26,2019,12
+65,RIN,Vintage,SME - Division,10,6,2019-12-20,2019-12-26,2019,12
+66,Kelly Clarkson,Underneath The Tree,SME - RCA International,8,23,2019-12-20,2019-12-26,2019,12
+67,Selena Gomez,Lose You To Love Me,Interscope,9,7,2019-12-20,2019-12-26,2019,12
+68,Bryan Adams,Christmas Time,Universal,11,20,2019-12-20,2019-12-26,2019,12
+69,Travis Scott,Highest In The Room,SME - Epic,11,8,2019-12-20,2019-12-26,2019,12
+70,Lena x Nico Santos,Better,Universal Domestic Polydor,18,15,2019-12-20,2019-12-26,2019,12
+71,Justin Bieber,Mistletoe,Island,11,53,2019-12-20,2019-12-26,2019,12
+72,RAF Camora feat. Ghetto Phenomene,Puta madre,Indipendenza,10,5,2019-12-20,2019-12-26,2019,12
+73,Eno feat. Ezhel,Mon ami,Alles Oder Nix Records,1,73,2019-12-20,2019-12-26,2019,12
+74,Sam Feldt feat. Rani,Post Malone,Spinnin' Records,12,47,2019-12-20,2019-12-26,2019,12
+75,Meduza feat. Goodboys,Piece Of Your Heart,Virgin Records,33,4,2019-12-20,2019-12-26,2019,12
+76,Ed Sheeran feat. Khalid,Beautiful People,Atlantic,25,5,2019-12-20,2019-12-26,2019,12
+77,Bobby Helms,Jingle Bell Rock,K-Tel,8,40,2019-12-20,2019-12-26,2019,12
+78,Brenda Lee,Rockin' Around The Christmas Tree,Universal,8,26,2019-12-20,2019-12-26,2019,12
+79,Samra & Capital Bra,Wieder Lila,Urban,31,1,2019-12-20,2019-12-26,2019,12
+80,Reezy feat. Summer Cem,Phantom,SME - Two Sides,8,9,2019-12-20,2019-12-26,2019,12
+81,RIN,Fabergé,SME - Division,11,7,2019-12-20,2019-12-26,2019,12
+82,Harry Styles,Adore You,SME - Columbia,2,82,2019-12-20,2019-12-26,2019,12
+83,Dermot Kennedy,Outnumbered,Interscope,11,45,2019-12-20,2019-12-26,2019,12
+84,RAF Camora feat. Bonez MC,Unnormal,Indipendenza,7,13,2019-12-20,2019-12-26,2019,12
+85,Ava Max,Torn,Atlantic,9,59,2019-12-20,2019-12-26,2019,12
+86,RIN,Up In Smoke,SME - Division,12,2,2019-12-20,2019-12-26,2019,12
+87,Ed Sheeran & Justin Bieber,I Don't Care,Atlantic,32,2,2019-12-20,2019-12-26,2019,12
+88,Azet,Seele,KMN Gang,6,11,2019-12-20,2019-12-26,2019,12
+89,Loredana feat. Mozzik,Eiskalt,Loredana,20,2,2019-12-20,2019-12-26,2019,12
+90,Jamule x Cro,1000 Hits,Life Is Pain,7,14,2019-12-20,2019-12-26,2019,12
+91,Vize feat. Laniia,Stars,Kontor Records,26,18,2019-12-20,2019-12-26,2019,12
+92,Ellie Goulding & Juice WRLD,Hate Me,Polydor,7,70,2019-12-20,2019-12-26,2019,12
+93,Senidah feat. RAF Camora,100%,Bassivity Digital,3,28,2019-12-20,2019-12-26,2019,12
+94,Pietro Lombardi x Dardan,Standort,Universal Domestic Polydor,2,31,2019-12-20,2019-12-26,2019,12
+95,Miami Yacine feat. Azet,Hayabusa,KMN Gang,3,17,2019-12-20,2019-12-26,2019,12
+96,Summer Cem,Mambo No. 5,Banger Musik,2,34,2019-12-20,2019-12-26,2019,12
+97,Bonez MC & RAF Camora,500 PS,Universal Domestic Vertigo,71,1,2019-12-20,2019-12-26,2019,12
+98,Kerstin Ott & Helene Fischer,Regenbogenfarben,Universal Domestic Polydor,26,20,2019-12-20,2019-12-26,2019,12
+99,Bausa,Mary,Warner Music Germany,32,8,2019-12-20,2019-12-26,2019,12
+100,Lewis Capaldi,Before You Go,Universal Domestic Vertigo,2,74,2019-12-20,2019-12-26,2019,12

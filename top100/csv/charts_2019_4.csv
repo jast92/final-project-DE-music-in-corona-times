@@ -1,0 +1,101 @@
+current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
+1,Mero,Hobby Hobby,Groove Attack,1,1,2019-01-25,2019-01-31,2019,1
+2,Ava Max,Sweet But Psycho,Atlantic,14,1,2019-01-25,2019-01-31,2019,1
+3,Shindy,DODI,SME - Friends With Money,2,1,2019-01-25,2019-01-31,2019,1
+4,Ariana Grande,7 Rings,Universal,1,4,2019-01-25,2019-01-31,2019,1
+5,Capital Bra,Benzema,Universal Domestic Urban,5,1,2019-01-25,2019-01-31,2019,1
+6,Kontra K,Warnung,BMG,1,6,2019-01-25,2019-01-31,2019,1
+7,Azet & Zuna,Wenn die Sonne untergeht,KMN Gang,1,7,2019-01-25,2019-01-31,2019,1
+8,Mero,Baller los,Groove Attack,9,1,2019-01-25,2019-01-31,2019,1
+9,Fero47,Jaja,SME - Epic Domestic,2,8,2019-01-25,2019-01-31,2019,1
+10,Panic! At The Disco,High Hopes,Atlantic,25,5,2019-01-25,2019-01-31,2019,1
+11,Sido,Tausend Tattoos,Universal Domestic Urban,13,2,2019-01-25,2019-01-31,2019,1
+12,Halsey,Without Me,Capitol,16,11,2019-01-25,2019-01-31,2019,1
+13,Robin Schulz feat. Erika Sirola,Speechless,Warner Music Germany,10,7,2019-01-25,2019-01-31,2019,1
+14,"LX & Maxwell feat. Bonez MC, Gzuz & Sa4",HaifischNikez Allstars,187 Strassenbande,4,3,2019-01-25,2019-01-31,2019,1
+15,Farid Bang,#niemalsantäuschen,Banger Musik,2,4,2019-01-25,2019-01-31,2019,1
+16,Alle Farben & Ilira,Fading,B1 Recordings,12,16,2019-01-25,2019-01-31,2019,1
+17,Dean Lewis,Be Alright,Universal,23,8,2019-01-25,2019-01-31,2019,1
+18,Dynoro & Gigi D'Agostino,In My Mind,B1 Recordings,33,1,2019-01-25,2019-01-31,2019,1
+19,"KitschKrieg feat. Trettmann, Gringo, Ufo361 & Gzuz",Standard,SoulForce Records,14,1,2019-01-25,2019-01-31,2019,1
+20,Mark Ronson feat. Miley Cyrus,Nothing Breaks Like A Heart,SME - Columbia,8,19,2019-01-25,2019-01-31,2019,1
+21,Azet & Zuna,Lelele,KMN Gang,5,6,2019-01-25,2019-01-31,2019,1
+22,Nimo & Capo,Shem Shem & Sex,Universal Domestic Urban,2,12,2019-01-25,2019-01-31,2019,1
+23,Bonez MC & RAF Camora,500 PS,Universal Domestic Vertigo,25,1,2019-01-25,2019-01-31,2019,1
+24,Calvin Harris & Rag'n'Bone Man,Giant,SME - Columbia,2,24,2019-01-25,2019-01-31,2019,1
+25,Post Malone,Wow.,Republic Records,4,22,2019-01-25,2019-01-31,2019,1
+26,Kool Savas feat. Nessi,Deine Mutter,SME - Essah Entertainment ,1,26,2019-01-25,2019-01-31,2019,1
+27,Hugel feat. Amber Van Day,WTF,Warner Music International,2,27,2019-01-25,2019-01-31,2019,1
+28,Lady Gaga & Bradley Cooper,Shallow,Interscope,17,10,2019-01-25,2019-01-31,2019,1
+29,"DJ Snake feat. Selena Gomez, Ozuna & Cardi B",Taki Taki,Geffen Records,17,8,2019-01-25,2019-01-31,2019,1
+30,Rita Ora,Let You Love Me,Atlantic,18,12,2019-01-25,2019-01-31,2019,1
+31,Capo feat. Nimo,Lambo Diablo GT,Warner Music Germany,30,21,2019-01-25,2019-01-31,2019,1
+32,Samra,Cataleya,SME - Bushido,11,1,2019-01-25,2019-01-31,2019,1
+33,Kontra K,Farben,BMG,6,6,2019-01-25,2019-01-31,2019,1
+34,Marshmello & Bastille,Happier,Universal,23,9,2019-01-25,2019-01-31,2019,1
+35,Nimo & Capo,Zoey,Universal Domestic Urban,6,8,2019-01-25,2019-01-31,2019,1
+36,Ariana Grande,"Thank U, Next",Universal,12,13,2019-01-25,2019-01-31,2019,1
+37,"David Guetta, Bebe Rexha & J Balvin",Say My Name,Parlophone Label Group,8,34,2019-01-25,2019-01-31,2019,1
+38,Capital Bra feat. Xatar x SAMY,Ich liebe es,SME - Bushido,13,3,2019-01-25,2019-01-31,2019,1
+39,XXXTentacion x Lil Pump feat. Maluma & Swae Lee,Arms Around You,Warner Music International,13,16,2019-01-25,2019-01-31,2019,1
+40,Post Malone & Swae Lee,Sunflower,Universal,13,36,2019-01-25,2019-01-31,2019,1
+41,Loud Luxury feat. Brando,Body,Kontor Records,35,7,2019-01-25,2019-01-31,2019,1
+42,Capital Bra,Feuer,SME - Bushido,8,4,2019-01-25,2019-01-31,2019,1
+43,Kerstin Ott & Helene Fischer,Regenbogenfarben,Universal Domestic Polydor,4,20,2019-01-25,2019-01-31,2019,1
+44,Calvin Harris & Sam Smith,Promises,SME - Columbia,23,2,2019-01-25,2019-01-31,2019,1
+45,Lost Frequencies feat. The NGHBRS,Like I Love You,Kontor Records,9,40,2019-01-25,2019-01-31,2019,1
+46,RIN,Dior 2001,Division,23,4,2019-01-25,2019-01-31,2019,1
+47,"Benny Blanco, Halsey & Khalid",Eastside,Universal,28,15,2019-01-25,2019-01-31,2019,1
+48,Sam Smith & Normani,Dancing With A Stranger,Capitol,2,44,2019-01-25,2019-01-31,2019,1
+49,Luciano [DE],Meer,Universal Domestic Urban,13,3,2019-01-25,2019-01-31,2019,1
+50,Nash & Azet,"Crack, Koks, Piece Unternehmen",KMN Gang,3,13,2019-01-25,2019-01-31,2019,1
+51,Lena,Thank You,Universal Domestic Polydor,7,40,2019-01-25,2019-01-31,2019,1
+52,C Arma,Yapma,C Arma,3,52,2019-01-25,2019-01-31,2019,1
+53,Gesaffelstein & The Weeknd,Lost In The Fire,SME - Columbia,2,49,2019-01-25,2019-01-31,2019,1
+54,Loredana,Milliondollar$mile,Loredana,7,11,2019-01-25,2019-01-31,2019,1
+55,Imagine Dragons,Natural,Interscope,23,16,2019-01-25,2019-01-31,2019,1
+56,Ellie Goulding x Diplo feat. Swae Lee,Close To Me,Polydor,5,44,2019-01-25,2019-01-31,2019,1
+57,Mark Forster,Einmal,SME - Four Music,16,24,2019-01-25,2019-01-31,2019,1
+58,Lukas Graham,Love Someone,Universal Domestic Island,12,33,2019-01-25,2019-01-31,2019,1
+59,RAF Camora & AriBeatz feat. Sofiane,Perfekt,SME - Andere Liga,10,5,2019-01-25,2019-01-31,2019,1
+60,Bonez MC & RAF Camora feat. Gzuz,Kokain,Universal Domestic Vertigo,19,1,2019-01-25,2019-01-31,2019,1
+61,Capital Bra feat. Juju,Melodien,SME - Bushido,25,1,2019-01-25,2019-01-31,2019,1
+62,Dardan,Facetime,Hypnotize Entertainment,23,7,2019-01-25,2019-01-31,2019,1
+63,FiNCH ASOZiAL,Abfahrt,Warner Music Germany,3,63,2019-01-25,2019-01-31,2019,1
+64,Veysel feat. Gzuz,UFF,Bela Boyz,18,3,2019-01-25,2019-01-31,2019,1
+65,Kodak Black feat. Travis Scott & Offset,Zeze,Atlantic,14,37,2019-01-25,2019-01-31,2019,1
+66,Zara Larsson,Ruin My Life,SME - Epic,9,62,2019-01-25,2019-01-31,2019,1
+67,Bad Bunny feat. Drake,Mia,OVO Sound,14,26,2019-01-25,2019-01-31,2019,1
+68,Leon Machère,Copacabana,PMR Music,25,13,2019-01-25,2019-01-31,2019,1
+69,Armin van Buuren,Blah Blah Blah,Kontor Records,28,11,2019-01-25,2019-01-31,2019,1
+70,Capital Bra,Allein,SME - Bushido,13,2,2019-01-25,2019-01-31,2019,1
+71,Gent feat. Kurdo,100 K,Alpha Empire,1,71,2019-01-25,2019-01-31,2019,1
+72,Maroon 5 feat. Cardi B,Girls Like You,Interscope,34,9,2019-01-25,2019-01-31,2019,1
+73,Summer Cem & Bausa,Casanova,Banger Musik,34,4,2019-01-25,2019-01-31,2019,1
+74,Clean Bandit feat. Demi Lovato,Solo,Atlantic,35,1,2019-01-25,2019-01-31,2019,1
+75,Kygo feat. Sandro Cavazza,Happy Now,B1 Recordings,11,54,2019-01-25,2019-01-31,2019,1
+76,LEA x Cyril,Immer wenn wir uns sehn,SME - Four Music,23,16,2019-01-25,2019-01-31,2019,1
+77,Travis Scott,Sicko Mode,SME - Epic,20,43,2019-01-25,2019-01-31,2019,1
+78,El Profesor,Bella ciao (Hugel Remix),Kontor Records,37,2,2019-01-25,2019-01-31,2019,1
+79,Ed Sheeran,Perfect,Atlantic,78,1,2019-01-25,2019-01-31,2019,1
+80,Eno,Mercedes,Alles Oder Nix Records,24,6,2019-01-25,2019-01-31,2019,1
+81,Jazn & Azzi Memo,Patron,SME - RCA Domestic,1,81,2019-01-25,2019-01-31,2019,1
+82,Capital Bra feat. Ufo361,Neymar,SME - Team Kuku,37,1,2019-01-25,2019-01-31,2019,1
+83,Dermot Kennedy,Power Over Me,Interscope,1,83,2019-01-25,2019-01-31,2019,1
+84,Jonas Blue feat. Jack & Jack,Rise,Virgin Records,34,8,2019-01-25,2019-01-31,2019,1
+85,Imagine Dragons,Bad Liar,Interscope,10,32,2019-01-25,2019-01-31,2019,1
+86,Loredana x Mozzik,Bonnie & Clyde,Loredana,18,3,2019-01-25,2019-01-31,2019,1
+87,Calvin Harris & Dua Lipa,One Kiss,SME - Columbia,41,1,2019-01-25,2019-01-31,2019,1
+88,Post Malone,Better Now,Republic Records,34,11,2019-01-25,2019-01-31,2019,1
+89,Billie Eilish,When The Party's Over,Universal,9,45,2019-01-25,2019-01-31,2019,1
+90,Dua Lipa & Blackpink,Kiss And Make Up,Universal Domestic Urban,11,48,2019-01-25,2019-01-31,2019,1
+91,Kianush,Rückkehr,Life Is Pain,1,91,2019-01-25,2019-01-31,2019,1
+92,SDP,Unikat,Berliner Plattenbau,1,92,2019-01-25,2019-01-31,2019,1
+93,Dennis Lloyd,Nevermind,Warner Music International,43,3,2019-01-25,2019-01-31,2019,1
+94,Aya Nakamura feat. Loredana,Djadja (Remix),Rec. 118,15,43,2019-01-25,2019-01-31,2019,1
+95,Luciano [DE],Hayate,Universal Domestic Urban,7,45,2019-01-25,2019-01-31,2019,1
+96,Bausa,Was du Liebe nennst,Warner Music Germany,65,1,2019-01-25,2019-01-31,2019,1
+97,Khalid,Saturday Nights,SME - RCA International,2,91,2019-01-25,2019-01-31,2019,1
+98,Josh.,Cordula Grün,Warner Music Germany,18,27,2019-01-25,2019-01-31,2019,1
+99,Queen,Bohemian Rhapsody,Island,27,7,2019-01-25,2019-01-31,2019,1
+100,A Boogie Wit Da Hoodie,Look Back At It,Atlantic,1,100,2019-01-25,2019-01-31,2019,1
