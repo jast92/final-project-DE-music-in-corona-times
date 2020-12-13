@@ -1,6 +1,6 @@
 current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 1,Samra x Capital Bra,Zombie,Universal Domestic Urban,1,1,2019-07-19,2019-07-25,2019,7
-2,Shawn Mendes & Camila Cabello,Señorita,Island,4,1,2019-07-19,2019-07-25,2019,7
+2,Shawn Mendes & Camila Cabello,SeÃ±orita,Island,4,1,2019-07-19,2019-07-25,2019,7
 3,Capital Bra x Samra,Tilidin,Universal Domestic Urban,4,1,2019-07-19,2019-07-25,2019,7
 4,Shindy,Raffaello,Friends With Money,1,4,2019-07-19,2019-07-25,2019,7
 5,Loredana,Jetzt rufst du an,Loredana,2,2,2019-07-19,2019-07-25,2019,7
@@ -11,7 +11,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 10,Sido feat. Luciano,Energie,Universal Domestic Urban,1,10,2019-07-19,2019-07-25,2019,7
 11,Juju feat. Henning May,Vermissen,Jinx Music,11,1,2019-07-19,2019-07-25,2019,7
 12,Meduza feat. Goodboys,Piece Of Your Heart,Virgin Records,11,9,2019-07-19,2019-07-25,2019,7
-13,Shirin David feat. Maître Gims,On Off,Shirin David Music,3,3,2019-07-19,2019-07-25,2019,7
+13,Shirin David feat. MaÃ®tre Gims,On Off,Shirin David Music,3,3,2019-07-19,2019-07-25,2019,7
 14,Sarah Connor,Vincent,Universal Domestic Polydor,15,9,2019-07-19,2019-07-25,2019,7
 15,Summer Cem x Gringo,Yallah Goodbye,Banger Musik,2,5,2019-07-19,2019-07-25,2019,7
 16,Samra & Capital Bra,Wieder Lila,Universal Domestic Urban,9,1,2019-07-19,2019-07-25,2019,7
@@ -37,7 +37,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 36,Shindy,Affalterbach,Friends With Money,15,3,2019-07-19,2019-07-25,2019,7
 37,Shindy,MMM,Friends With Money,1,37,2019-07-19,2019-07-25,2019,7
 38,Lewis Capaldi,Someone You Loved,Universal Domestic Vertigo,24,18,2019-07-19,2019-07-25,2019,7
-39,Robin Schulz feat. Harlœ,All This Love,Warner Music Germany,10,28,2019-07-19,2019-07-25,2019,7
+39,Robin Schulz feat. HarlÅ“,All This Love,Warner Music Germany,10,28,2019-07-19,2019-07-25,2019,7
 40,Shindy,EFH,Friends With Money,4,8,2019-07-19,2019-07-25,2019,7
 41,R3hab x A Touch Of Class,All Around The World (La La La),Virgin Records,7,29,2019-07-19,2019-07-25,2019,7
 42,Bausa,Mary,Warner Music Germany,16,8,2019-07-19,2019-07-25,2019,7
@@ -52,7 +52,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 51,Dardan,Komm zu Hypnotize,Universal Domestic Urban,2,21,2019-07-19,2019-07-25,2019,7
 52,Shindy,DODI,Friends With Money,15,1,2019-07-19,2019-07-25,2019,7
 53,Reynmen,Ela,Muse Instanbul,1,53,2019-07-19,2019-07-25,2019,7
-54,Pedro Capó,Calma,Sony Music,7,34,2019-07-19,2019-07-25,2019,7
+54,Pedro CapÃ³,Calma,Sony Music,7,34,2019-07-19,2019-07-25,2019,7
 55,Avicii feat. Aloe Blacc,SOS,Universal,14,8,2019-07-19,2019-07-25,2019,7
 56,Ed Sheeran feat. Yebba,Best Part Of Me,Atlantic,2,55,2019-07-19,2019-07-25,2019,7
 57,Farid Bang feat. French Montana & Khaled,Maghreb Gang,Banger Musik,6,4,2019-07-19,2019-07-25,2019,7
@@ -61,7 +61,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 60,Rammstein,Deutschland,Rammstein,16,1,2019-07-19,2019-07-25,2019,7
 61,Adel Tawil feat. Peachy,Tu m'appelles,BMG,4,48,2019-07-19,2019-07-25,2019,7
 62,Jonas Brothers,Sucker,Jonas Brothers Recording,20,20,2019-07-19,2019-07-25,2019,7
-63,Leon Machère & Kay One feat. Tilly,Portofino,PMR Music,3,18,2019-07-19,2019-07-25,2019,7
+63,Leon MachÃ¨re & Kay One feat. Tilly,Portofino,PMR Music,3,18,2019-07-19,2019-07-25,2019,7
 64,Michael Schulte,Back To The Start,Very Us Records,12,33,2019-07-19,2019-07-25,2019,7
 65,SDP feat. Capital Bra,Viva la Dealer,Berliner Plattenbau,10,38,2019-07-19,2019-07-25,2019,7
 66,Dominic Fike,3 Nights,Columbia,13,36,2019-07-19,2019-07-25,2019,7
@@ -80,14 +80,14 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 79,Capital Bra,Cherry Lady,Universal Domestic Urban,17,1,2019-07-19,2019-07-25,2019,7
 80,Ava Max,Sweet But Psycho,Atlantic,39,1,2019-07-19,2019-07-25,2019,7
 81,Imagine Dragons,Bad Liar,Interscope,35,16,2019-07-19,2019-07-25,2019,7
-82,Kontra K,Letzte Träne,BMG,9,6,2019-07-19,2019-07-25,2019,7
+82,Kontra K,Letzte TrÃ¤ne,BMG,9,6,2019-07-19,2019-07-25,2019,7
 83,Olexesh,Barrio,Universal Domestic Urban,9,17,2019-07-19,2019-07-25,2019,7
 84,Fero47,NENENE,Epic Domestic,6,8,2019-07-19,2019-07-25,2019,7
 85,Dynoro & Gigi D'Agostino,In My Mind,B1 Recordings,58,1,2019-07-19,2019-07-25,2019,7
 86,Bonez MC & RAF Camora,500 PS,Universal Domestic Vertigo,50,1,2019-07-19,2019-07-25,2019,7
 87,The Chainsmokers feat. Bebe Rexha,Call You Mine,Columbia,7,55,2019-07-19,2019-07-25,2019,7
 88,Katy Perry,Never Really Over,Capitol,7,47,2019-07-19,2019-07-25,2019,7
-89,Rammstein,Ausländer,Rammstein,9,2,2019-07-19,2019-07-25,2019,7
+89,Rammstein,AuslÃ¤nder,Rammstein,9,2,2019-07-19,2019-07-25,2019,7
 90,Taylor Swift,You Need To Calm Down,Universal,5,36,2019-07-19,2019-07-25,2019,7
 91,The Prince Karma,Later Bitches,Kontor Records,22,36,2019-07-19,2019-07-25,2019,7
 92,C Arma,Yapma,C Arma,28,29,2019-07-19,2019-07-25,2019,7

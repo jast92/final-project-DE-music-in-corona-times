@@ -4,7 +4,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 3,Loredana,Genick,Loredana,1,3,2019-09-20,2019-09-26,2019,9
 4,Loredana feat. Mero,Kein Plan,Loredana,2,1,2019-09-20,2019-09-26,2019,9
 5,Samra x Capital Bra,Huracan,Universal Domestic Urban,2,3,2019-09-20,2019-09-26,2019,9
-6,Shawn Mendes & Camila Cabello,Señorita,Island,13,1,2019-09-20,2019-09-26,2019,9
+6,Shawn Mendes & Camila Cabello,SeÃ±orita,Island,13,1,2019-09-20,2019-09-26,2019,9
 7,Loredana feat. Mozzik,Eiskalt,Loredana,7,2,2019-09-20,2019-09-26,2019,9
 8,Lindemann,Steh auf,Universal Domestic Vertigo,1,8,2019-09-20,2019-09-26,2019,9
 9,RIN,Up In Smoke,SME - Division,3,2,2019-09-20,2019-09-26,2019,9
@@ -40,8 +40,8 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 39,Capo,Run Run Run,Warner Music Germany,7,6,2019-09-20,2019-09-26,2019,9
 40,Eren Can & Batu,Junior Neymar,SQP,3,40,2019-09-20,2019-09-26,2019,9
 41,Samra & Capital Bra,Wieder Lila,Universal Domestic Urban,18,1,2019-09-20,2019-09-26,2019,9
-42,Miami Yacine,Intro Résumé,KMN Gang,4,5,2019-09-20,2019-09-26,2019,9
-43,"Trettmann, KitschKrieg & Gzuz",Du weißt,Soulforce/BMG,6,15,2019-09-20,2019-09-26,2019,9
+42,Miami Yacine,Intro RÃ©sumÃ©,KMN Gang,4,5,2019-09-20,2019-09-26,2019,9
+43,"Trettmann, KitschKrieg & Gzuz",Du weiÃŸt,Soulforce/BMG,6,15,2019-09-20,2019-09-26,2019,9
 44,Farid Bang feat. Musiye & Blueface,Fulu$,Banger Musik,1,44,2019-09-20,2019-09-26,2019,9
 45,Apache 207,Kein Problem,SME - Two Sides,4,45,2019-09-20,2019-09-26,2019,9
 46,Y2K & bbno$,Lalala,SME - Columbia,9,46,2019-09-20,2019-09-26,2019,9
@@ -63,7 +63,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 62,Sido feat. Samra & Kool Savas,High,Universal Domestic Urban,3,16,2019-09-20,2019-09-26,2019,9
 63,Ufo361 feat. RAF Camora,Nummer,Stay High,8,2,2019-09-20,2019-09-26,2019,9
 64,Bausa,Mary,Warner Music Germany,25,8,2019-09-20,2019-09-26,2019,9
-65,Robin Schulz feat. Harlœ,All This Love,Warner Music Germany,19,24,2019-09-20,2019-09-26,2019,9
+65,Robin Schulz feat. HarlÅ“,All This Love,Warner Music Germany,19,24,2019-09-20,2019-09-26,2019,9
 66,Mabel [UK],Don't Call Me Up,Polydor,31,10,2019-09-20,2019-09-26,2019,9
 67,SDP feat. Capital Bra,Viva la Dealer,Berliner Plattenbau,19,38,2019-09-20,2019-09-26,2019,9
 68,Camila Cabello,Liar,SME - Syco Music,2,63,2019-09-20,2019-09-26,2019,9
@@ -84,10 +84,10 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 83,Bonez MC & RAF Camora,500 PS,Universal Domestic Vertigo,59,1,2019-09-20,2019-09-26,2019,9
 84,Ufo361,04:30,Stay High,4,49,2019-09-20,2019-09-26,2019,9
 85,Lil Nas X,Panini,SME - Columbia,3,85,2019-09-20,2019-09-26,2019,9
-86,Pedro Capó,Calma,Sony Music,16,33,2019-09-20,2019-09-26,2019,9
+86,Pedro CapÃ³,Calma,Sony Music,16,33,2019-09-20,2019-09-26,2019,9
 87,"Olexesh, Celo & Abdi",Benzin,385ideal,3,49,2019-09-20,2019-09-26,2019,9
 88,Adel Tawil feat. Peachy,Tu m'appelles,BMG,13,48,2019-09-20,2019-09-26,2019,9
-89,Shirin David feat. Maître Gims,On Off,Shirin David Music,12,3,2019-09-20,2019-09-26,2019,9
+89,Shirin David feat. MaÃ®tre Gims,On Off,Shirin David Music,12,3,2019-09-20,2019-09-26,2019,9
 90,Dynoro & Gigi D'Agostino,In My Mind,B1 Recordings,67,1,2019-09-20,2019-09-26,2019,9
 91,Alec Benjamin,Let Me Down Slowly,Atlantic,33,40,2019-09-20,2019-09-26,2019,9
 92,Samra x Capital Bra,Zombie,Universal Domestic Urban,10,1,2019-09-20,2019-09-26,2019,9

@@ -18,7 +18,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 17,Blackbear,Hot Girl Bummer,Interscope,5,17,2019-11-08,2019-11-14,2019,11
 18,Travis Scott,Highest In The Room,SME - Epic,5,8,2019-11-08,2019-11-14,2019,11
 19,Post Malone,Circles,Republic Records,10,17,2019-11-08,2019-11-14,2019,11
-20,Mark Forster,194 Länder,SME - Four Music,7,20,2019-11-08,2019-11-14,2019,11
+20,Mark Forster,194 LÃ¤nder,SME - Four Music,7,20,2019-11-08,2019-11-14,2019,11
 21,Lena x Nico Santos,Better,Universal Domestic Polydor,12,15,2019-11-08,2019-11-14,2019,11
 22,RAF Camora,Adriana,Indipendenza,7,7,2019-11-08,2019-11-14,2019,11
 23,Apache 207,Kein Problem,SME - Two Sides,11,17,2019-11-08,2019-11-14,2019,11
@@ -26,7 +26,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 25,Lewis Capaldi,Someone You Loved,Universal Domestic Vertigo,40,18,2019-11-08,2019-11-14,2019,11
 26,Dua Lipa,Don't Start Now,Universal Domestic Urban,1,26,2019-11-08,2019-11-14,2019,11
 27,SSIO,Testo E,Alles Oder Nix Records,1,27,2019-11-08,2019-11-14,2019,11
-28,Shawn Mendes & Camila Cabello,Señorita,Island,20,1,2019-11-08,2019-11-14,2019,11
+28,Shawn Mendes & Camila Cabello,SeÃ±orita,Island,20,1,2019-11-08,2019-11-14,2019,11
 29,Maroon 5,Memories,A&M Records,7,29,2019-11-08,2019-11-14,2019,11
 30,Capital Bra x Samra,Tilidin,Universal Domestic Urban,20,1,2019-11-08,2019-11-14,2019,11
 31,Ufo361 & Ezhel,YKKE,Universal Domestic Urban,1,31,2019-11-08,2019-11-14,2019,11
@@ -55,7 +55,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 54,Bushido - Animus,Lichter der Stadt,SME - Bushido,2,12,2019-11-08,2019-11-14,2019,11
 55,Jerome [DE],Light,Kontor Records,2,55,2019-11-08,2019-11-14,2019,11
 56,Capo,Im Rhythmus gefangen,Warner Music Germany,4,11,2019-11-08,2019-11-14,2019,11
-57,RIN,Fabergé,SME - Division,6,7,2019-11-08,2019-11-14,2019,11
+57,RIN,FabergÃ©,SME - Division,6,7,2019-11-08,2019-11-14,2019,11
 58,Apache 207,2 Minuten,SME - Two Sides,17,35,2019-11-08,2019-11-14,2019,11
 59,Sido feat. Johannes Oerding,Pyramiden,Universal Domestic Urban,7,38,2019-11-08,2019-11-14,2019,11
 60,Veysel & Jugglerz,Normal,Bela Boyz,3,14,2019-11-08,2019-11-14,2019,11
@@ -66,7 +66,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 65,Jamule,Moneyhoneydrip,Life Is Pain,6,23,2019-11-08,2019-11-14,2019,11
 66,DJ Snake & J Balvin feat. Tyga,Loco contigo,Geffen Records,21,3,2019-11-08,2019-11-14,2019,11
 67,Farid Bang,Stier,Farid Bang,2,17,2019-11-08,2019-11-14,2019,11
-68,Kummer,Bei Dir,Eklat Tonträger,5,61,2019-11-08,2019-11-14,2019,11
+68,Kummer,Bei Dir,Eklat TontrÃ¤ger,5,61,2019-11-08,2019-11-14,2019,11
 69,Selena Gomez,Look At Her Now,Interscope,2,43,2019-11-08,2019-11-14,2019,11
 70,Samra & Capital Bra,Wieder Lila,Universal Domestic Urban,25,1,2019-11-08,2019-11-14,2019,11
 71,Trettmann & KitschKrieg feat. Alli Neumann,Zeit steht,Soulforce/BMG,8,10,2019-11-08,2019-11-14,2019,11
@@ -80,7 +80,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 79,Ellie Goulding & Juice WRLD,Hate Me,Polydor,3,70,2019-11-08,2019-11-14,2019,11
 80,Sam Smith,How Do You Sleep?,Capitol,16,43,2019-11-08,2019-11-14,2019,11
 81,Capital Bra & Samra & Santos,Purple Rain,Universal Domestic Urban,3,50,2019-11-08,2019-11-14,2019,11
-82,Lindemann & Ministry,Ich weiß es nicht,Universal Domestic Vertigo,1,82,2019-11-08,2019-11-14,2019,11
+82,Lindemann & Ministry,Ich weiÃŸ es nicht,Universal Domestic Vertigo,1,82,2019-11-08,2019-11-14,2019,11
 83,Younotus & Janieck & Senex,Narcotic,B1 Recordings,22,16,2019-11-08,2019-11-14,2019,11
 84,Loredana,Jetzt rufst du an,Loredana,18,2,2019-11-08,2019-11-14,2019,11
 85,Summer Cem,Primetime,Banger Musik,10,9,2019-11-08,2019-11-14,2019,11
@@ -91,7 +91,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 90,Freya Ridings,Castles,Island,1,90,2019-11-08,2019-11-14,2019,11
 91,Patron + Dardan,Wo???,Hypnotize Entertainment,2,54,2019-11-08,2019-11-14,2019,11
 92,Capo,Run Run Run,Warner Music Germany,14,6,2019-11-08,2019-11-14,2019,11
-93,Seeed,G€ld,BMG,7,59,2019-11-08,2019-11-14,2019,11
+93,Seeed,Gâ‚¬ld,BMG,7,59,2019-11-08,2019-11-14,2019,11
 94,Bonez MC & RAF Camora,500 PS,Universal Domestic Vertigo,66,1,2019-11-08,2019-11-14,2019,11
 95,R3hab x A Touch Of Class,All Around The World (La La La),Virgin Records,23,29,2019-11-08,2019-11-14,2019,11
 96,Kalim feat. Nimo,Lowrider,Universal Domestic Urban,4,15,2019-11-08,2019-11-14,2019,11

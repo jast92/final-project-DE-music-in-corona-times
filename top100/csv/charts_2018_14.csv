@@ -9,9 +9,9 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 8,Tom Walker,Leave A Light On,Relentless Records,14,8,2018-04-06,2018-04-12,2018,4
 9,Justin Timberlake feat. Chris Stapleton,Say Something,RCA International,10,9,2018-04-06,2018-04-12,2018,4
 10,Sean Paul + David Guetta feat. Becky G,Mad Love,Island,7,10,2018-04-06,2018-04-12,2018,4
-11,Gzuz feat. LX,Drück drück,Universal Domestic Vertigo,1,11,2018-04-06,2018-04-12,2018,4
+11,Gzuz feat. LX,DrÃ¼ck drÃ¼ck,Universal Domestic Vertigo,1,11,2018-04-06,2018-04-12,2018,4
 12,Dua Lipa,IDGAF,Universal Domestic Urban,11,12,2018-04-06,2018-04-12,2018,4
-13,Luis Fonsi & Demi Lovato,Échame la culpa,Universal,20,6,2018-04-06,2018-04-12,2018,4
+13,Luis Fonsi & Demi Lovato,Ã‰chame la culpa,Universal,20,6,2018-04-06,2018-04-12,2018,4
 14,Azet feat. Zuna & Noizy,Kriminell,KMN Gang,3,5,2018-04-06,2018-04-12,2018,4
 15,Bausa,Was du Liebe nennst,Warner Music Germany,27,1,2018-04-06,2018-04-12,2018,4
 16,Post Malone feat. Ty Dolla $ign,Psycho,Universal,6,6,2018-04-06,2018-04-12,2018,4
@@ -26,7 +26,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 25,Camila Cabello feat. Young Thug,Havana,Epic,33,2,2018-04-06,2018-04-12,2018,4
 26,Robin Schulz & Marc Scibilia,Unforgettable,Warner Music Germany,7,26,2018-04-06,2018-04-12,2018,4
 27,Nico Santos,Rooftop,Virgin Records,21,5,2018-04-06,2018-04-12,2018,4
-28,Azet,Überlebt,KMN Gang,1,28,2018-04-06,2018-04-12,2018,4
+28,Azet,Ãœberlebt,KMN Gang,1,28,2018-04-06,2018-04-12,2018,4
 29,Shawn Mendes,In My Blood,Island,2,8,2018-04-06,2018-04-12,2018,4
 30,Lost Frequencies & Zonderling,Crazy,Kontor Records,15,13,2018-04-06,2018-04-12,2018,4
 31,Rooz x MoTrip,Immer wieder,Universal Domestic Urban,4,25,2018-04-06,2018-04-12,2018,4
@@ -55,14 +55,14 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 54,Ufo361 feat. Capital Bra,Power,Stay High,3,7,2018-04-06,2018-04-12,2018,4
 55,James Hype feat. Kelli-Leigh,More Than Friends,Warner Music International,19,23,2018-04-06,2018-04-12,2018,4
 56,Kendrick Lamar & SZA,All The Stars,Universal,13,27,2018-04-06,2018-04-12,2018,4
-57,Zuna,Ayé,KMN Gang,5,23,2018-04-06,2018-04-12,2018,4
+57,Zuna,AyÃ©,KMN Gang,5,23,2018-04-06,2018-04-12,2018,4
 58,Logic & Marshmello,Everyday,Def Jam,5,48,2018-04-06,2018-04-12,2018,4
 59,Luis Fonsi feat. Daddy Yankee,Despacito,Universal,62,1,2018-04-06,2018-04-12,2018,4
 60,Bebe Rexha feat. Florida Georgia Line,Meant To Be,Warner Music International,13,60,2018-04-06,2018-04-12,2018,4
 61,Ofenbach vs. Nick Waterhouse,Katchi,Warner Music International,23,9,2018-04-06,2018-04-12,2018,4
 62,Imagine Dragons,Whatever It Takes,Interscope,27,7,2018-04-06,2018-04-12,2018,4
 63,MC Fioti / Future / J Balvin / Stefflon Don / Juan Magan,Bum bum tam tam,Kontor Records,11,51,2018-04-06,2018-04-12,2018,4
-64,Kay One feat. Pietro Lombardi,Señorita,Princekayone GmbH,30,1,2018-04-06,2018-04-12,2018,4
+64,Kay One feat. Pietro Lombardi,SeÃ±orita,Princekayone GmbH,30,1,2018-04-06,2018-04-12,2018,4
 65,BlocBoy JB feat. Drake,Look Alive,OVO Sound,8,48,2018-04-06,2018-04-12,2018,4
 66,RAF Camora,Primo,Indipendenza,32,6,2018-04-06,2018-04-12,2018,4
 67,NF,Let You Down,Capitol,24,9,2018-04-06,2018-04-12,2018,4
@@ -75,14 +75,14 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 74,Axwell Λ Ingrosso,More Than You Know,Virgin Records,43,1,2018-04-06,2018-04-12,2018,4
 75,Rita Ora,Anywhere,Atlantic,20,18,2018-04-06,2018-04-12,2018,4
 76,RAF Camora,Corleone,Indipendenza,6,13,2018-04-06,2018-04-12,2018,4
-77,Hailee Steinfeld x BloodPop®,Capital Letters,Republic Records,8,32,2018-04-06,2018-04-12,2018,4
+77,Hailee Steinfeld x BloodPopÂ®,Capital Letters,Republic Records,8,32,2018-04-06,2018-04-12,2018,4
 78,J Balvin & Willy William,Mi gente,B1 Recordings,40,3,2018-04-06,2018-04-12,2018,4
 79,The Weeknd,Wasted Times,The Weeknd,1,79,2018-04-06,2018-04-12,2018,4
 80,Dua Lipa,New Rules,Universal Domestic Urban,36,9,2018-04-06,2018-04-12,2018,4
-81,Justin Bieber + BloodPop®,Friends,Republic Records,33,4,2018-04-06,2018-04-12,2018,4
+81,Justin Bieber + BloodPopÂ®,Friends,Republic Records,33,4,2018-04-06,2018-04-12,2018,4
 82,Zayn feat. Sia,Dusk Till Dawn,RCA International,30,3,2018-04-06,2018-04-12,2018,4
 83,Ufo361,Beverly Hills,Stay High,9,4,2018-04-06,2018-04-12,2018,4
-84,Kontra K,Zwischen Himmel & Hölle,BMG,5,15,2018-04-06,2018-04-12,2018,4
+84,Kontra K,Zwischen Himmel & HÃ¶lle,BMG,5,15,2018-04-06,2018-04-12,2018,4
 85,The Weeknd feat. Gesaffelstein,Hurt You,The Weeknd,1,85,2018-04-06,2018-04-12,2018,4
 86,Azet feat. Miami Yacine,Rein raus,KMN Gang,1,86,2018-04-06,2018-04-12,2018,4
 87,Bonez MC & RAF Camora feat. Maxwell,Ohne mein Team,Auf!Keinen!Fall!,83,7,2018-04-06,2018-04-12,2018,4
@@ -92,10 +92,10 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 91,The Weeknd feat. Gesaffelstein,I Was Never There,Universal,1,91,2018-04-06,2018-04-12,2018,4
 92,Rich The Kid,Plug Walk,Universal,1,92,2018-04-06,2018-04-12,2018,4
 93,Imagine Dragons,Thunder,Interscope,49,2,2018-04-06,2018-04-12,2018,4
-94,Summer Cem,200 Düsen,Banger Musik,1,94,2018-04-06,2018-04-12,2018,4
+94,Summer Cem,200 DÃ¼sen,Banger Musik,1,94,2018-04-06,2018-04-12,2018,4
 95,James Arthur,Naked,Columbia Domestic,19,23,2018-04-06,2018-04-12,2018,4
 96,Clean Bandit feat. Julia Michaels,I Miss You,Atlantic,21,49,2018-04-06,2018-04-12,2018,4
 97,Azet,9 Milly,KMN Gang,8,13,2018-04-06,2018-04-12,2018,4
 98,Azet feat. Zuna,Wer will mitfahren,KMN Gang,1,98,2018-04-06,2018-04-12,2018,4
 99,Nimo,Heute mit mir,Universal Domestic Urban,43,10,2018-04-06,2018-04-12,2018,4
-100,Yonii,Direction,FürDichMama,2,80,2018-04-06,2018-04-12,2018,4
+100,Yonii,Direction,FÃ¼rDichMama,2,80,2018-04-06,2018-04-12,2018,4

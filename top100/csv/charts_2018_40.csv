@@ -21,11 +21,11 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 20,"Benny Blanco, Halsey & Khalid",Eastside,Universal,12,18,2018-10-05,2018-10-11,2018,10
 21,Clean Bandit feat. Demi Lovato,Solo,Atlantic,20,1,2018-10-05,2018-10-11,2018,10
 22,Severija,"Zu Asche, zu Staub (Psycho Nikoros)",BMG,1,22,2018-10-05,2018-10-11,2018,10
-23,Leon Machère,Copacabana,PMR Music,10,13,2018-10-05,2018-10-11,2018,10
+23,Leon MachÃ¨re,Copacabana,PMR Music,10,13,2018-10-05,2018-10-11,2018,10
 24,Maroon 5 feat. Cardi B,Girls Like You,Interscope,18,9,2018-10-05,2018-10-11,2018,10
 25,Panic! At The Disco,High Hopes,Atlantic,9,25,2018-10-05,2018-10-11,2018,10
 26,Lil Peep & XXXTentacion,Falling Down,Columbia,2,12,2018-10-05,2018-10-11,2018,10
-27,Josh.,Cordula Grün,echopilot music,6,27,2018-10-05,2018-10-11,2018,10
+27,Josh.,Cordula GrÃ¼n,echopilot music,6,27,2018-10-05,2018-10-11,2018,10
 28,Bonez MC & RAF Camora,Risiko,Universal Domestic Vertigo,6,2,2018-10-05,2018-10-11,2018,10
 29,Jonas Blue feat. Jack & Jack,Rise,Virgin Records,19,8,2018-10-05,2018-10-11,2018,10
 30,"DJ Snake feat. Selena Gomez, Ozuna & Cardi B",Taki Taki,Geffen Records,1,30,2018-10-05,2018-10-11,2018,10
@@ -33,14 +33,14 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 32,Dean Lewis,Be Alright,Universal,7,32,2018-10-05,2018-10-11,2018,10
 33,Nura feat. Trettmann,Chaya,Jinx Music,1,33,2018-10-05,2018-10-11,2018,10
 34,Bausa,Vagabund,Warner Music Germany,6,10,2018-10-05,2018-10-11,2018,10
-35,Bushido feat. Samra & Capital Bra,Für euch alle,Bushido,13,1,2018-10-05,2018-10-11,2018,10
-36,Herbert Grönemeyer,Sekundenglück,Universal Domestic Vertigo,1,36,2018-10-05,2018-10-11,2018,10
+35,Bushido feat. Samra & Capital Bra,FÃ¼r euch alle,Bushido,13,1,2018-10-05,2018-10-11,2018,10
+36,Herbert GrÃ¶nemeyer,SekundenglÃ¼ck,Universal Domestic Vertigo,1,36,2018-10-05,2018-10-11,2018,10
 37,"Alle Farben, Kelvin Jones & Younotus",Only Thing We Know,B1 Recordings,14,20,2018-10-05,2018-10-11,2018,10
 38,Azzi Memo feat. Nimo,BlaBla,Generation Azzlack,4,14,2018-10-05,2018-10-11,2018,10
 39,Dennis Lloyd,Nevermind,Warner Music International,28,3,2018-10-05,2018-10-11,2018,10
 40,Eno,Mercedes,Alles Oder Nix Records,11,6,2018-10-05,2018-10-11,2018,10
 41,Lady Gaga & Bradley Cooper,Shallow,Interscope,1,41,2018-10-05,2018-10-11,2018,10
-42,Namika feat. Black M,Je ne parle pas français (Beatgees Remix),Jive Germany,25,1,2018-10-05,2018-10-11,2018,10
+42,Namika feat. Black M,Je ne parle pas franÃ§ais (Beatgees Remix),Jive Germany,25,1,2018-10-05,2018-10-11,2018,10
 43,David Guetta feat. Anne-Marie,Don't Leave Me Alone,Parlophone Label Group,10,32,2018-10-05,2018-10-11,2018,10
 44,Bushido,Mephisto,Bushido,3,7,2018-10-05,2018-10-11,2018,10
 45,Bushido,Stiche,Bushido,1,45,2018-10-05,2018-10-11,2018,10
@@ -68,7 +68,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 67,AK Ausserkontrolle feat. Veysel,Unterwegs,Universal Domestic Vertigo,5,26,2018-10-05,2018-10-11,2018,10
 68,Bushido,Das Leben,Bushido,1,68,2018-10-05,2018-10-11,2018,10
 69,Anne-Marie,2002,Atlantic,20,18,2018-10-05,2018-10-11,2018,10
-70,Bushido,Hyänen,Bushido,1,70,2018-10-05,2018-10-11,2018,10
+70,Bushido,HyÃ¤nen,Bushido,1,70,2018-10-05,2018-10-11,2018,10
 71,Bushido,Est. 1998,Bushido,1,71,2018-10-05,2018-10-11,2018,10
 72,LSD (Labrinth / Sia / Diplo),Thunderclouds,Columbia,5,56,2018-10-05,2018-10-11,2018,10
 73,6ix9ine feat. Nicki Minaj & Murda Beatz,Fefe,ScumGang Records,11,16,2018-10-05,2018-10-11,2018,10
@@ -91,7 +91,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 90,Jay Samuelz,No Lie,Peak Nice,1,90,2018-10-05,2018-10-11,2018,10
 91,Rea Garvey,Kiss Me,Universal Domestic Island,2,91,2018-10-05,2018-10-11,2018,10
 92,Bushido feat. Samra,Hades,Bushido,7,8,2018-10-05,2018-10-11,2018,10
-93,Tiësto & Dzeko feat. Preme & Post Malone,Jackie Chan,Virgin Records,16,25,2018-10-05,2018-10-11,2018,10
+93,TiÃ«sto & Dzeko feat. Preme & Post Malone,Jackie Chan,Virgin Records,16,25,2018-10-05,2018-10-11,2018,10
 94,Fynn Kliemann,Morgen,Recordjet,1,94,2018-10-05,2018-10-11,2018,10
 95,Bushido feat. Akon,Unsterblichkeit,Bushido,1,95,2018-10-05,2018-10-11,2018,10
 96,Mert,Ruf mich nicht an,Husla Music,2,57,2018-10-05,2018-10-11,2018,10

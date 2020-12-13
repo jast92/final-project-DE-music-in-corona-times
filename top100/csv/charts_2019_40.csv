@@ -5,13 +5,13 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 4,Apache 207,200 km/h,SME - Two Sides,2,4,2019-10-04,2019-10-10,2019,10
 5,The Cratez & Bonez MC,Honda Civic,SME - RBK,1,5,2019-10-04,2019-10-10,2019,10
 6,Sido feat. Apache 207,2002,Universal Domestic Urban,1,6,2019-10-04,2019-10-10,2019,10
-7,RIN,Fabergé,SME - Division,1,7,2019-10-04,2019-10-10,2019,10
+7,RIN,FabergÃ©,SME - Division,1,7,2019-10-04,2019-10-10,2019,10
 8,SSIO,Hash Hash,Alles Oder Nix Records,1,8,2019-10-04,2019-10-10,2019,10
 9,Summer Cem feat. Luciano,Summer Cem,Banger Musik,2,6,2019-10-04,2019-10-10,2019,10
 10,RAF Camora,Adriana,Indipendenza,2,7,2019-10-04,2019-10-10,2019,10
 11,Loredana feat. Mero,Kein Plan,Loredana,4,1,2019-10-04,2019-10-10,2019,10
 12,Loredana,Genick,Loredana,3,3,2019-10-04,2019-10-10,2019,10
-13,Shawn Mendes & Camila Cabello,Señorita,Island,15,1,2019-10-04,2019-10-10,2019,10
+13,Shawn Mendes & Camila Cabello,SeÃ±orita,Island,15,1,2019-10-04,2019-10-10,2019,10
 14,Tim Bendzko,Hoch,SME - Jive Germany,7,14,2019-10-04,2019-10-10,2019,10
 15,Bushido - Animus,Ronin,SME - Bushido,2,5,2019-10-04,2019-10-10,2019,10
 16,Samra x Capital Bra,Huracan,Universal Domestic Urban,4,3,2019-10-04,2019-10-10,2019,10
@@ -68,7 +68,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 67,RAF Camora,Vendetta,Indipendenza,5,5,2019-10-04,2019-10-10,2019,10
 68,Sam Smith,How Do You Sleep?,Capitol,11,43,2019-10-04,2019-10-10,2019,10
 69,Gringo x RAF Camora,Barcelona,SME - SLS Music,3,21,2019-10-04,2019-10-10,2019,10
-70,Mark Forster,194 Länder,SME - Four Music,2,70,2019-10-04,2019-10-10,2019,10
+70,Mark Forster,194 LÃ¤nder,SME - Four Music,2,70,2019-10-04,2019-10-10,2019,10
 71,Summer Cem feat. Capital Bra,Diamonds,Banger Musik,16,3,2019-10-04,2019-10-10,2019,10
 72,OneRepublic,Rescue Me,SME - Interscope,20,24,2019-10-04,2019-10-10,2019,10
 73,Eren Can & Batu,Junior Neymar,SQP,5,40,2019-10-04,2019-10-10,2019,10
@@ -78,17 +78,17 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 77,Mabel [UK],Mad Love,Polydor,14,54,2019-10-04,2019-10-10,2019,10
 78,Lil Tecca,Ran$om,Republic Records,9,44,2019-10-04,2019-10-10,2019,10
 79,Bausa,Mary,Warner Music Germany,27,8,2019-10-04,2019-10-10,2019,10
-80,Miami Yacine,Intro Résumé,KMN Gang,6,5,2019-10-04,2019-10-10,2019,10
+80,Miami Yacine,Intro RÃ©sumÃ©,KMN Gang,6,5,2019-10-04,2019-10-10,2019,10
 81,Bonez MC & RAF Camora,500 PS,Universal Domestic Vertigo,61,1,2019-10-04,2019-10-10,2019,10
-82,Seeed,G€ld,BMG,2,66,2019-10-04,2019-10-10,2019,10
+82,Seeed,Gâ‚¬ld,BMG,2,66,2019-10-04,2019-10-10,2019,10
 83,K-Fly & MCN,Wenn du da bist,iGroove Music,1,83,2019-10-04,2019-10-10,2019,10
 84,Mabel [UK],Don't Call Me Up,Polydor,33,10,2019-10-04,2019-10-10,2019,10
 85,Lauv feat. Anne-Marie,"F**k, I'm Lonely",Lauv,6,81,2019-10-04,2019-10-10,2019,10
 86,SDP feat. Capital Bra,Viva la Dealer,Berliner Plattenbau,21,38,2019-10-04,2019-10-10,2019,10
 87,Camila Cabello,Liar,SME - Syco Music,4,63,2019-10-04,2019-10-10,2019,10
 88,Lady Gaga & Bradley Cooper,Shallow,SME - Interscope,53,4,2019-10-04,2019-10-10,2019,10
-89,Shirin David feat. Maître Gims,On Off,Juicy Money Records,14,3,2019-10-04,2019-10-10,2019,10
-90,Robin Schulz feat. Harlœ,All This Love,Warner Music Germany,21,24,2019-10-04,2019-10-10,2019,10
+89,Shirin David feat. MaÃ®tre Gims,On Off,Juicy Money Records,14,3,2019-10-04,2019-10-10,2019,10
+90,Robin Schulz feat. HarlÅ“,All This Love,Warner Music Germany,21,24,2019-10-04,2019-10-10,2019,10
 91,Luciano [DE],Yeah,Universal Domestic Urban,7,3,2019-10-04,2019-10-10,2019,10
 92,Maroon 5,Memories,222 Records,2,92,2019-10-04,2019-10-10,2019,10
 93,18 Karat feat. Nura,Verliebt in einen Gangster 2,Banger Musik,5,23,2019-10-04,2019-10-10,2019,10

@@ -1,5 +1,5 @@
 current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
-1,Shawn Mendes & Camila Cabello,Señorita,Island,5,1,2019-07-26,2019-08-01,2019,7
+1,Shawn Mendes & Camila Cabello,SeÃ±orita,Island,5,1,2019-07-26,2019-08-01,2019,7
 2,KC Rebell & RAF Camora,Neptun,Rebell Army,1,2,2019-07-26,2019-08-01,2019,7
 3,Samra x Capital Bra,Zombie,Universal Domestic Urban,2,1,2019-07-26,2019-08-01,2019,7
 4,Lil Nas X,Old Town Road,SME - Columbia,17,1,2019-07-26,2019-08-01,2019,7
@@ -16,7 +16,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 15,DJ Snake & J Balvin feat. Tyga,Loco contigo,Geffen Records,6,15,2019-07-26,2019-08-01,2019,7
 16,Shindy,Raffaello,SME - Friends With Money,2,4,2019-07-26,2019-08-01,2019,7
 17,Samra & Capital Bra,Wieder Lila,Universal Domestic Urban,10,1,2019-07-26,2019-08-01,2019,7
-18,Shirin David feat. Maître Gims,On Off,Shirin David Music,4,3,2019-07-26,2019-08-01,2019,7
+18,Shirin David feat. MaÃ®tre Gims,On Off,Shirin David Music,4,3,2019-07-26,2019-08-01,2019,7
 19,Younotus & Janieck & Senex,Narcotic,B1 Recordings,7,19,2019-07-26,2019-08-01,2019,7
 20,Sido feat. Luciano,Energie,Universal Domestic Urban,2,10,2019-07-26,2019-08-01,2019,7
 21,Summer Cem x Gringo,Yallah Goodbye,Banger Musik,3,5,2019-07-26,2019-08-01,2019,7
@@ -26,12 +26,12 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 25,Post Malone feat. Young Thug,Goodbyes,Republic Records,3,16,2019-07-26,2019-08-01,2019,7
 26,Daddy Yankee feat. Snow,Con calma,Universal,23,6,2019-07-26,2019-08-01,2019,7
 27,OneRepublic,Rescue Me,Interscope,10,24,2019-07-26,2019-08-01,2019,7
-28,Robin Schulz feat. Harlœ,All This Love,Warner Music Germany,11,28,2019-07-26,2019-08-01,2019,7
+28,Robin Schulz feat. HarlÅ“,All This Love,Warner Music Germany,11,28,2019-07-26,2019-08-01,2019,7
 29,Vize feat. Laniia,Stars,Kontor Records,5,29,2019-07-26,2019-08-01,2019,7
 30,Kygo x Whitney Houston,Higher Love,SME - RCA International,4,30,2019-07-26,2019-08-01,2019,7
 31,R3hab x A Touch Of Class,All Around The World (La La La),Virgin Records,8,29,2019-07-26,2019-08-01,2019,7
 32,Bausa,Mary,Warner Music Germany,17,8,2019-07-26,2019-08-01,2019,7
-33,Pedro Capó,Calma,Sony Music,8,33,2019-07-26,2019-08-01,2019,7
+33,Pedro CapÃ³,Calma,Sony Music,8,33,2019-07-26,2019-08-01,2019,7
 34,Lewis Capaldi,Someone You Loved,Universal Domestic Vertigo,25,18,2019-07-26,2019-08-01,2019,7
 35,Ed Sheeran feat. Chance The Rapper & PnB Rock,Cross Me,Atlantic,9,23,2019-07-26,2019-08-01,2019,7
 36,Martin Garrix feat. Macklemore & Patrick Stump of Fall Out Boy,Summer Days,SME - Epic,12,24,2019-07-26,2019-08-01,2019,7
@@ -59,7 +59,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 58,Shindy,Affalterbach,SME - Friends With Money,16,3,2019-07-26,2019-08-01,2019,7
 59,Loredana,Labyrinth,Loredana,7,10,2019-07-26,2019-08-01,2019,7
 60,Farid Bang feat. French Montana & Khaled,Maghreb Gang,Banger Musik,7,4,2019-07-26,2019-08-01,2019,7
-61,Leon Machère & Kay One feat. Tilly,Portofino,PMR Music,4,18,2019-07-26,2019-08-01,2019,7
+61,Leon MachÃ¨re & Kay One feat. Tilly,Portofino,PMR Music,4,18,2019-07-26,2019-08-01,2019,7
 62,"AriBeatz, Fero47 & YL",Amphetamin,SME - RBK,1,62,2019-07-26,2019-08-01,2019,7
 63,Ed Sheeran feat. Eminem & 50 Cent,Remember The Name,Atlantic,2,29,2019-07-26,2019-08-01,2019,7
 64,Rammstein,Deutschland,Rammstein,17,1,2019-07-26,2019-08-01,2019,7
@@ -87,7 +87,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 86,Nico Santos,Unforgettable,Virgin Records,10,66,2019-07-26,2019-08-01,2019,7
 87,Taylor Swift,You Need To Calm Down,Universal,6,36,2019-07-26,2019-08-01,2019,7
 88,Dardan feat. Eno,Wer macht Para 2,Universal Domestic Urban,5,5,2019-07-26,2019-08-01,2019,7
-89,Kontra K,Letzte Träne,BMG,10,6,2019-07-26,2019-08-01,2019,7
+89,Kontra K,Letzte TrÃ¤ne,BMG,10,6,2019-07-26,2019-08-01,2019,7
 90,Shindy,EFH,SME - Friends With Money,5,8,2019-07-26,2019-08-01,2019,7
 91,Shawn Mendes,If I Can't Have You,Island,12,14,2019-07-26,2019-08-01,2019,7
 92,Y2K & bbno$,Lalala,SME - Columbia,1,92,2019-07-26,2019-08-01,2019,7

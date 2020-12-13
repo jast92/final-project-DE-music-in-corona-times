@@ -1,7 +1,7 @@
 current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 1,24kGoldn feat. Iann Dior,Mood,SME - Columbia,9,1,2020-10-23,2020-10-29,2020,10
 2,Internet Money & Gunna feat. Don Toliver & Nav,Lemonade,Internet Money,10,2,2020-10-23,2020-10-29,2020,10
-3,Mero feat. Nimo,Désolé,Groove Attack TraX,1,3,2020-10-23,2020-10-29,2020,10
+3,Mero feat. Nimo,DÃ©solÃ©,Groove Attack TraX,1,3,2020-10-23,2020-10-29,2020,10
 4,Vize x Joker Bra x Leony,Paradise,Kontor Records,9,4,2020-10-23,2020-10-29,2020,10
 5,Joel Corry feat. MNEK,Head & Heart,Atlantic,14,4,2020-10-23,2020-10-29,2020,10
 6,Ofenbach & Quarterhead feat. Norma Jean Martine,Head Shoulders Knees & Toes,Spinnin' Records,12,6,2020-10-23,2020-10-29,2020,10
@@ -23,7 +23,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 22,Dardan & Hava,Mailbox,Hypnotize Entertainment,3,7,2020-10-23,2020-10-29,2020,10
 23,HVME,Goosebumps,B1 Recordings,5,23,2020-10-23,2020-10-29,2020,10
 24,The Weeknd,Blinding Lights,Republic Records,47,1,2020-10-23,2020-10-29,2020,10
-25,Apache 207,Bläulich,SME - Four Music / Two Sides,16,1,2020-10-23,2020-10-29,2020,10
+25,Apache 207,BlÃ¤ulich,SME - Four Music / Two Sides,16,1,2020-10-23,2020-10-29,2020,10
 26,Bausa x Juju,2012,Warner Music Germany,9,2,2020-10-23,2020-10-29,2020,10
 27,Gentleman x Luciano x Ezhel,Devam,Urban,5,9,2020-10-23,2020-10-29,2020,10
 28,Bozza,Elbe,Def Jam Germany,4,12,2020-10-23,2020-10-29,2020,10
@@ -32,13 +32,13 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 31,Felix Jaehn feat. Nea & Bryn Christopher,No Therapy,Virgin Records,8,31,2020-10-23,2020-10-29,2020,10
 32,Tate McRae,You Broke Me First,SME - RCA International,9,32,2020-10-23,2020-10-29,2020,10
 33,DaBaby feat. Roddy Ricch,Rockstar,Interscope,27,3,2020-10-23,2020-10-29,2020,10
-34,Capital Bra x Cro,Frühstück in Paris,Urban,9,1,2020-10-23,2020-10-29,2020,10
+34,Capital Bra x Cro,FrÃ¼hstÃ¼ck in Paris,Urban,9,1,2020-10-23,2020-10-29,2020,10
 35,Pop Smoke feat. Lil Baby & DaBaby,For The Night,Victor Victor Worldwide,11,28,2020-10-23,2020-10-29,2020,10
 36,Dennis Lloyd,Alien,SME - Arista,8,36,2020-10-23,2020-10-29,2020,10
 37,Kool Savas x Alies,AMG,SME - Essah Media GmbH,11,19,2020-10-23,2020-10-29,2020,10
 38,Justin Bieber feat. Chance The Rapper,Holy,RBMG/Def Jam,5,22,2020-10-23,2020-10-29,2020,10
 39,LX feat. Estikay,Hennessy,187 Strassenbande,1,39,2020-10-23,2020-10-29,2020,10
-40,Mark Forster,Übermorgen,SME - Marecs,25,7,2020-10-23,2020-10-29,2020,10
+40,Mark Forster,Ãœbermorgen,SME - Marecs,25,7,2020-10-23,2020-10-29,2020,10
 41,Cardi B feat. Megan Thee Stallion,WAP,Atlantic,11,12,2020-10-23,2020-10-29,2020,10
 42,AK Ausserkontrolle x Bonez MC,In meinem Benz,XY Records,21,1,2020-10-23,2020-10-29,2020,10
 43,Tujamo - Vize - Majan,Lonely,Virgin Records,16,34,2020-10-23,2020-10-29,2020,10
@@ -84,9 +84,9 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 83,Ufo361,Zweifel,Stay High,3,12,2020-10-23,2020-10-29,2020,10
 84,Apache 207,Fame,SME - Four Music / Two Sides,24,1,2020-10-23,2020-10-29,2020,10
 85,WIER,Best Of Us,MOKOH Music GmbH,4,85,2020-10-23,2020-10-29,2020,10
-86,Chapo102 x Kasimir1441,Wach,Chucky die Mördertruppe,2,51,2020-10-23,2020-10-29,2020,10
+86,Chapo102 x Kasimir1441,Wach,Chucky die MÃ¶rdertruppe,2,51,2020-10-23,2020-10-29,2020,10
 87,LUM!X & Gabry Ponte,Monster,Spinnin' Records,65,20,2020-10-23,2020-10-29,2020,10
-88,Ramo & Joker Bra,Frank Lucas,Qualität'er Music,1,88,2020-10-23,2020-10-29,2020,10
+88,Ramo & Joker Bra,Frank Lucas,QualitÃ¤t'er Music,1,88,2020-10-23,2020-10-29,2020,10
 89,Ali471,In meinem Kopf,Ali471,1,89,2020-10-23,2020-10-29,2020,10
 90,Pop Smoke feat. A Boogie Wit Da Hoodie,Hello,Victor Victor Worldwide,4,87,2020-10-23,2020-10-29,2020,10
 91,Kontra K,Freunde,BMG,5,10,2020-10-23,2020-10-29,2020,10
@@ -94,7 +94,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 93,Kool Savas x Sido x Nessi,Dicka was,SME - Essah Media GmbH,5,14,2020-10-23,2020-10-29,2020,10
 94,DJ Khaled feat. Drake,Greece,SME - Ovo,14,28,2020-10-23,2020-10-29,2020,10
 95,Drake feat. Lil Durk,Laugh Now Cry Later,Ovo,10,25,2020-10-23,2020-10-29,2020,10
-96,Badmómzjay,Supernova,Universal Domestic Vertigo,2,96,2020-10-23,2020-10-29,2020,10
+96,BadmÃ³mzjay,Supernova,Universal Domestic Vertigo,2,96,2020-10-23,2020-10-29,2020,10
 97,Lucky Luke,Cooler Than Me,B1 Recordings,17,43,2020-10-23,2020-10-29,2020,10
 98,Ufo361,Games,Stay High,7,4,2020-10-23,2020-10-29,2020,10
 99,Miksu / Macloud / Summer Cem / Luciano / Jamule,XXL,Futura,17,2,2020-10-23,2020-10-29,2020,10

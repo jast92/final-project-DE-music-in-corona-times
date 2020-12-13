@@ -7,7 +7,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 6,Sun Diego,Eloah,BBM Records,1,6,2018-04-13,2018-04-19,2018,4
 7,Ramz,Barking,Polydor,7,5,2018-04-13,2018-04-19,2018,4
 8,Drake,God's Plan,Motown,12,1,2018-04-13,2018-04-19,2018,4
-9,Luis Fonsi & Demi Lovato,Échame la culpa,Universal,21,6,2018-04-13,2018-04-19,2018,4
+9,Luis Fonsi & Demi Lovato,Ã‰chame la culpa,Universal,21,6,2018-04-13,2018-04-19,2018,4
 10,Tom Walker,Leave A Light On,Relentless Records,15,8,2018-04-13,2018-04-19,2018,4
 11,The Chainsmokers,Sick Boy,Columbia,12,5,2018-04-13,2018-04-19,2018,4
 12,Sean Paul + David Guetta feat. Becky G,Mad Love,Island,8,10,2018-04-13,2018-04-19,2018,4
@@ -17,7 +17,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 16,Dennis Lloyd,Nevermind,Warner Music International,3,16,2018-04-13,2018-04-19,2018,4
 17,Robin Schulz & Marc Scibilia,Unforgettable,Warner Music Germany,8,17,2018-04-13,2018-04-19,2018,4
 18,Zedd / Maren Morris / Grey,The Middle,Interscope,11,15,2018-04-13,2018-04-19,2018,4
-19,Gzuz feat. LX,Drück drück,Universal Domestic Vertigo,2,11,2018-04-13,2018-04-19,2018,4
+19,Gzuz feat. LX,DrÃ¼ck drÃ¼ck,Universal Domestic Vertigo,2,11,2018-04-13,2018-04-19,2018,4
 20,Calvin Harris & Dua Lipa,One Kiss,Columbia,1,20,2018-04-13,2018-04-19,2018,4
 21,Bausa,Was du Liebe nennst,Warner Music Germany,28,1,2018-04-13,2018-04-19,2018,4
 22,Post Malone feat. Ty Dolla $ign,Psycho,Universal,7,6,2018-04-13,2018-04-19,2018,4
@@ -43,7 +43,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 42,Martin Garrix & David Guetta feat. Jamie Scott & Romy Dya,So Far Away,B1 Recordings,19,8,2018-04-13,2018-04-19,2018,4
 43,Jason Derulo feat. French Montana,Tip Toe,Beluga Heights,22,11,2018-04-13,2018-04-19,2018,4
 44,Liam Payne & Rita Ora,For You (Fifty Shades Freed),Republic Records,14,1,2018-04-13,2018-04-19,2018,4
-45,Azet,Überlebt,KMN Gang,2,28,2018-04-13,2018-04-19,2018,4
+45,Azet,Ãœberlebt,KMN Gang,2,28,2018-04-13,2018-04-19,2018,4
 46,Alvaro Soler,La cintura,Airforce1,2,46,2018-04-13,2018-04-19,2018,4
 47,Post Malone feat. 21 Savage,Rockstar,Universal,30,2,2018-04-13,2018-04-19,2018,4
 48,George Ezra,Paradise,Columbia,6,48,2018-04-13,2018-04-19,2018,4
@@ -57,7 +57,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 56,Luis Fonsi feat. Daddy Yankee,Despacito,Universal,63,1,2018-04-13,2018-04-19,2018,4
 57,Bebe Rexha feat. Florida Georgia Line,Meant To Be,Warner Music International,14,57,2018-04-13,2018-04-19,2018,4
 58,James Hype feat. Kelli-Leigh,More Than Friends,Warner Music International,20,23,2018-04-13,2018-04-19,2018,4
-59,Kay One feat. Pietro Lombardi,Señorita,Princekayone GmbH,31,1,2018-04-13,2018-04-19,2018,4
+59,Kay One feat. Pietro Lombardi,SeÃ±orita,Princekayone GmbH,31,1,2018-04-13,2018-04-19,2018,4
 60,Logic & Marshmello,Everyday,Def Jam,6,48,2018-04-13,2018-04-19,2018,4
 61,Ofenbach vs. Nick Waterhouse,Katchi,Warner Music International,24,9,2018-04-13,2018-04-19,2018,4
 62,Daddy Yankee,Dura,EMI,7,61,2018-04-13,2018-04-19,2018,4
@@ -73,29 +73,29 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 72,Axwell Λ Ingrosso,More Than You Know,Virgin Records,44,1,2018-04-13,2018-04-19,2018,4
 73,Selena Gomez x Marshmello,Wolves,Universal,24,11,2018-04-13,2018-04-19,2018,4
 74,Nura feat. Sam,Babebabe,Jinx Music,1,74,2018-04-13,2018-04-19,2018,4
-75,Zuna,Ayé,KMN Gang,6,23,2018-04-13,2018-04-19,2018,4
+75,Zuna,AyÃ©,KMN Gang,6,23,2018-04-13,2018-04-19,2018,4
 76,Marshmello feat. Khalid,Silence,RCA International,34,6,2018-04-13,2018-04-19,2018,4
 77,A$AP Rocky feat. Moby,A$AP Forever,A$AP Worldwide,1,77,2018-04-13,2018-04-19,2018,4
 78,Kendrick Lamar & SZA,All The Stars,Universal,14,27,2018-04-13,2018-04-19,2018,4
-79,Justin Bieber + BloodPop®,Friends,Republic Records,34,4,2018-04-13,2018-04-19,2018,4
+79,Justin Bieber + BloodPopÂ®,Friends,Republic Records,34,4,2018-04-13,2018-04-19,2018,4
 80,RAF Camora,Corleone,Indipendenza,7,13,2018-04-13,2018-04-19,2018,4
 81,Dua Lipa,New Rules,Universal Domestic Urban,37,9,2018-04-13,2018-04-19,2018,4
 82,NF,Let You Down,Capitol,25,9,2018-04-13,2018-04-19,2018,4
 83,Zayn feat. Sia,Dusk Till Dawn,RCA International,31,3,2018-04-13,2018-04-19,2018,4
 84,Bonez MC & RAF Camora feat. Maxwell,Ohne mein Team,Auf!Keinen!Fall!,84,7,2018-04-13,2018-04-19,2018,4
 85,The Weeknd & Kendrick Lamar,Pray For Me,Universal,10,24,2018-04-13,2018-04-19,2018,4
-86,Hailee Steinfeld x BloodPop®,Capital Letters,Republic Records,9,32,2018-04-13,2018-04-19,2018,4
+86,Hailee Steinfeld x BloodPopÂ®,Capital Letters,Republic Records,9,32,2018-04-13,2018-04-19,2018,4
 87,French Montana feat. Swae Lee,Unforgettable,Epic,52,6,2018-04-13,2018-04-19,2018,4
 88,Camila Cabello,Never Be The Same,Epic,13,30,2018-04-13,2018-04-19,2018,4
-89,Yonii,Direction,FürDichMama,3,80,2018-04-13,2018-04-19,2018,4
-90,Kontra K,Zwischen Himmel & Hölle,BMG,6,15,2018-04-13,2018-04-19,2018,4
+89,Yonii,Direction,FÃ¼rDichMama,3,80,2018-04-13,2018-04-19,2018,4
+90,Kontra K,Zwischen Himmel & HÃ¶lle,BMG,6,15,2018-04-13,2018-04-19,2018,4
 91,Rich The Kid,Plug Walk,Universal,2,91,2018-04-13,2018-04-19,2018,4
 92,Azet,Villa in weiss,KMN Gang,2,47,2018-04-13,2018-04-19,2018,4
 93,Imagine Dragons,Thunder,Interscope,50,2,2018-04-13,2018-04-19,2018,4
 94,Migos feat. Drake,Walk It Talk It,Universal,1,94,2018-04-13,2018-04-19,2018,4
 95,Ufo361,Beverly Hills,Stay High,10,4,2018-04-13,2018-04-19,2018,4
-96,Trettmann feat. Gzuz,Knöcheltief,SoulForce Records,30,31,2018-04-13,2018-04-19,2018,4
-97,Summer Cem,200 Düsen,Banger Musik,2,94,2018-04-13,2018-04-19,2018,4
+96,Trettmann feat. Gzuz,KnÃ¶cheltief,SoulForce Records,30,31,2018-04-13,2018-04-19,2018,4
+97,Summer Cem,200 DÃ¼sen,Banger Musik,2,94,2018-04-13,2018-04-19,2018,4
 98,Kylie Minogue,Dancing,BMG,1,98,2018-04-13,2018-04-19,2018,4
 99,Jason Derulo,Colors,Beluga Heights,2,75,2018-04-13,2018-04-19,2018,4
 100,Nimo,Heute mit mir,Universal Domestic Urban,44,10,2018-04-13,2018-04-19,2018,4

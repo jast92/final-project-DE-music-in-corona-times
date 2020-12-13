@@ -1,5 +1,5 @@
 current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
-1,Shawn Mendes & Camila Cabello,Señorita,Island,7,1,2019-08-09,2019-08-15,2019,8
+1,Shawn Mendes & Camila Cabello,SeÃ±orita,Island,7,1,2019-08-09,2019-08-15,2019,8
 2,Loredana feat. Mozzik,Eiskalt,Loredana,1,2,2019-08-09,2019-08-15,2019,8
 3,Pietro Lombardi,Macarena,Universal Domestic Polydor,1,3,2019-08-09,2019-08-15,2019,8
 4,Lil Nas X,Old Town Road,SME - Columbia,19,1,2019-08-09,2019-08-15,2019,8
@@ -13,7 +13,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 12,Ufo361 feat. RAF Camora,Nummer,Stay High,2,2,2019-08-09,2019-08-15,2019,8
 13,Loredana,Jetzt rufst du an,Loredana,5,2,2019-08-09,2019-08-15,2019,8
 14,Juju feat. Henning May,Vermissen,Jinx Music,14,1,2019-08-09,2019-08-15,2019,8
-15,"Trettmann, KitschKrieg & Gzuz",Du weißt,SoulForce Records,1,15,2019-08-09,2019-08-15,2019,8
+15,"Trettmann, KitschKrieg & Gzuz",Du weiÃŸt,SoulForce Records,1,15,2019-08-09,2019-08-15,2019,8
 16,Sarah Connor,Vincent,Universal Domestic Polydor,18,9,2019-08-09,2019-08-15,2019,8
 17,Younotus & Janieck & Senex,Narcotic,SME - B1 Recordings,9,17,2019-08-09,2019-08-15,2019,8
 18,KC Rebell & RAF Camora,Neptun,Rebell Army,3,2,2019-08-09,2019-08-15,2019,8
@@ -23,9 +23,9 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 22,Sido feat. Monchi,Leben vor dem Tod,Universal Domestic Urban,1,22,2019-08-09,2019-08-15,2019,8
 23,Ariana Grande & Social House,Boyfriend,Republic Records,1,23,2019-08-09,2019-08-15,2019,8
 24,Kygo x Whitney Houston,Higher Love,SME - RCA International,6,24,2019-08-09,2019-08-15,2019,8
-25,Shirin David feat. Maître Gims,On Off,Shirin David Music,6,3,2019-08-09,2019-08-15,2019,8
+25,Shirin David feat. MaÃ®tre Gims,On Off,Shirin David Music,6,3,2019-08-09,2019-08-15,2019,8
 26,Summer Cem feat. Capital Bra,Diamonds,Banger Musik,8,3,2019-08-09,2019-08-15,2019,8
-27,Robin Schulz feat. Harlœ,All This Love,Warner Music Germany,13,26,2019-08-09,2019-08-15,2019,8
+27,Robin Schulz feat. HarlÅ“,All This Love,Warner Music Germany,13,26,2019-08-09,2019-08-15,2019,8
 28,Mero,Mein Kopf,Groove Attack TraX,2,11,2019-08-09,2019-08-15,2019,8
 29,Post Malone feat. Young Thug,Goodbyes,Republic Records,5,16,2019-08-09,2019-08-15,2019,8
 30,OneRepublic,Rescue Me,Interscope,12,24,2019-08-09,2019-08-15,2019,8
@@ -34,11 +34,11 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 33,R3hab x A Touch Of Class,All Around The World (La La La),Virgin Records,10,29,2019-08-09,2019-08-15,2019,8
 34,Luciano [DE],Im Film,Universal Domestic Urban,3,12,2019-08-09,2019-08-15,2019,8
 35,Azet,Money Money,KMN Gang,2,16,2019-08-09,2019-08-15,2019,8
-36,Pedro Capó,Calma,SME - Sony Music,10,33,2019-08-09,2019-08-15,2019,8
+36,Pedro CapÃ³,Calma,SME - Sony Music,10,33,2019-08-09,2019-08-15,2019,8
 37,Summer Cem x Gringo,Yallah Goodbye,Banger Musik,5,5,2019-08-09,2019-08-15,2019,8
 38,Bausa,Mary,Warner Music Germany,19,8,2019-08-09,2019-08-15,2019,8
 39,Ufo361 feat. Data Luv,Shot,Stay High,6,4,2019-08-09,2019-08-15,2019,8
-40,Farid Bang,Millionär,Banger Musik,1,40,2019-08-09,2019-08-15,2019,8
+40,Farid Bang,MillionÃ¤r,Banger Musik,1,40,2019-08-09,2019-08-15,2019,8
 41,Butrint Imeri & Nimo,Dream Girl,Universal Domestic Urban,1,41,2019-08-09,2019-08-15,2019,8
 42,Martin Garrix feat. Macklemore & Patrick Stump of Fall Out Boy,Summer Days,SME - Epic,14,24,2019-08-09,2019-08-15,2019,8
 43,Sero el Mero,Nokia,Groove Attack TraX,1,43,2019-08-09,2019-08-15,2019,8
@@ -80,7 +80,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 79,Blanco Brown,The Git Up,Broken Bow Records,1,79,2019-08-09,2019-08-15,2019,8
 80,Bonez MC & RAF Camora,500 PS,Universal Domestic Vertigo,53,1,2019-08-09,2019-08-15,2019,8
 81,Loredana,Labyrinth,Loredana,9,10,2019-08-09,2019-08-15,2019,8
-82,Leon Machère & Kay One feat. Tilly,Portofino,PMR Music,6,18,2019-08-09,2019-08-15,2019,8
+82,Leon MachÃ¨re & Kay One feat. Tilly,Portofino,PMR Music,6,18,2019-08-09,2019-08-15,2019,8
 83,"Kalazh44, Capital Bra & Samra feat. Nimo & Luciano",Royal Rumble,Kalazh44,8,1,2019-08-09,2019-08-15,2019,8
 84,Ed Sheeran with Travis Scott,Antisocial,Atlantic,4,23,2019-08-09,2019-08-15,2019,8
 85,Apache 207,2 Minuten,SME - Two Sides,4,35,2019-08-09,2019-08-15,2019,8

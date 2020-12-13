@@ -14,14 +14,14 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 13,Apache 207,Roller,SME - Two Sides,33,1,2020-04-10,2020-04-16,2020,4
 14,Symba [DE],Angels sippen,SME - Symba,2,14,2020-04-10,2020-04-16,2020,4
 15,Kontra K,Puste sie weg,BMG,2,4,2020-04-10,2020-04-16,2020,4
-16,Kayef,Ich würd' lügen,Recordjet,1,16,2020-04-10,2020-04-16,2020,4
+16,Kayef,Ich wÃ¼rd' lÃ¼gen,Recordjet,1,16,2020-04-10,2020-04-16,2020,4
 17,Dua Lipa,Physical,Urban,10,14,2020-04-10,2020-04-16,2020,4
 18,Dua Lipa,Don't Start Now,Urban,23,10,2020-04-10,2020-04-16,2020,4
 19,Nea,Some Say,SME - Milkshake,10,17,2020-04-10,2020-04-16,2020,4
 20,Powfu feat. Beabadoobee,Death Bed,SME - Independently Popular.,5,20,2020-04-10,2020-04-16,2020,4
 21,Farid Bang feat. 18 Karat & AK Ausserkontrolle,Loco,Farid Bang,1,21,2020-04-10,2020-04-16,2020,4
 22,Roddy Ricch,The Box,Atlantic,14,12,2020-04-10,2020-04-16,2020,4
-23,Céline [DE],Tränen aus Kajal,BTGS,1,23,2020-04-10,2020-04-16,2020,4
+23,CÃ©line [DE],TrÃ¤nen aus Kajal,BTGS,1,23,2020-04-10,2020-04-16,2020,4
 24,Luciano [DE],Trippin',Urban,2,8,2020-04-10,2020-04-16,2020,4
 25,Shindy,Sony Pictures,SME - Friends With Money,1,25,2020-04-10,2020-04-16,2020,4
 26,Alicia Keys,Underdog,SME - RCA International,5,26,2020-04-10,2020-04-16,2020,4
@@ -52,7 +52,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 51,Apache 207,200 km/h,SME - Two Sides,29,4,2020-04-10,2020-04-16,2020,4
 52,Ava Max,Kings & Queens,Atlantic,4,52,2020-04-10,2020-04-16,2020,4
 53,Capital Bra x Samra & Lea,110,Urban,29,1,2020-04-10,2020-04-16,2020,4
-54,Pietro Lombardi,Kämpferherz,Universal Domestic Polydor,3,13,2020-04-10,2020-04-16,2020,4
+54,Pietro Lombardi,KÃ¤mpferherz,Universal Domestic Polydor,3,13,2020-04-10,2020-04-16,2020,4
 55,Chiara D'Amico,Eine Nacht,Electrola,1,55,2020-04-10,2020-04-16,2020,4
 56,Megan Thee Stallion,Savage,300 Entertainment,2,56,2020-04-10,2020-04-16,2020,4
 57,Surfaces,Sunday Best,Caroline Records,6,52,2020-04-10,2020-04-16,2020,4
@@ -68,9 +68,9 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 67,Ali Gatie,What If I Told You That I Love You,Li$N,11,8,2020-04-10,2020-04-16,2020,4
 68,The Weeknd,In Your Eyes,Republic Records,1,68,2020-04-10,2020-04-16,2020,4
 69,Silbermond,Machen wir das Beste draus,SME - Verschwende Deine Zeit,2,69,2020-04-10,2020-04-16,2020,4
-70,Mark Forster,194 Länder,SME - Four Music,29,13,2020-04-10,2020-04-16,2020,4
+70,Mark Forster,194 LÃ¤nder,SME - Four Music,29,13,2020-04-10,2020-04-16,2020,4
 71,Lil Lano,Kein Grund,AnanasSquad,2,32,2020-04-10,2020-04-16,2020,4
-72,Céline [DE],Für mich,BTGS,3,72,2020-04-10,2020-04-16,2020,4
+72,CÃ©line [DE],FÃ¼r mich,BTGS,3,72,2020-04-10,2020-04-16,2020,4
 73,Future feat. Drake,Life Is Good,SME - Epic,13,8,2020-04-10,2020-04-16,2020,4
 74,Ufo361,"Bad Girls, Good Vibes",Stay High,4,4,2020-04-10,2020-04-16,2020,4
 75,Halsey,You Should Be Sad,Capitol,13,43,2020-04-10,2020-04-16,2020,4
@@ -86,7 +86,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 85,Luciano [DE],Mios mit Bars,Urban,8,2,2020-04-10,2020-04-16,2020,4
 86,Pop Smoke,Dior,Victor Victor Worldwide,4,59,2020-04-10,2020-04-16,2020,4
 87,Alan Walker & Ava Max,"Alone, Pt. II",SME - Mer Recordings,12,47,2020-04-10,2020-04-16,2020,4
-88,Monet192 feat. Hatik,Dämon,Warner Music Germany,1,88,2020-04-10,2020-04-16,2020,4
+88,Monet192 feat. Hatik,DÃ¤mon,Warner Music Germany,1,88,2020-04-10,2020-04-16,2020,4
 89,Kygo & Sasha Sloan,I'll Wait,SME - Kygo,1,89,2020-04-10,2020-04-16,2020,4
 90,Post Malone,Circles,Republic Records,32,17,2020-04-10,2020-04-16,2020,4
 91,Black Eyed Peas x J Balvin,Ritmo (Bad Boys For Life),SME - Epic,23,24,2020-04-10,2020-04-16,2020,4
@@ -98,4 +98,4 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 97,Arizona Zervas,Roxanne,SME - Arizona Zervas,22,27,2020-04-10,2020-04-16,2020,4
 98,Lady Gaga,Stupid Love,Interscope,6,21,2020-04-10,2020-04-16,2020,4
 99,Eminem feat. Juice WRLD,Godzilla,Interscope,10,16,2020-04-10,2020-04-16,2020,4
-100,Shawn Mendes & Camila Cabello,Señorita,Island,39,1,2020-04-10,2020-04-16,2020,4
+100,Shawn Mendes & Camila Cabello,SeÃ±orita,Island,39,1,2020-04-10,2020-04-16,2020,4

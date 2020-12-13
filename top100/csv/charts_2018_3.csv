@@ -6,14 +6,14 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 5,Nico Santos,Rooftop,Virgin Records,10,5,2018-01-19,2018-01-25,2018,1
 6,G-Eazy & Halsey,Him & I,RCA International,7,6,2018-01-19,2018-01-25,2018,1
 7,Post Malone feat. 21 Savage,Rockstar,Universal,18,2,2018-01-19,2018-01-25,2018,1
-8,Justin Bieber + BloodPop®,Friends,Republic Records,22,4,2018-01-19,2018-01-25,2018,1
+8,Justin Bieber + BloodPopÂ®,Friends,Republic Records,22,4,2018-01-19,2018-01-25,2018,1
 9,Ofenbach vs. Nick Waterhouse,Katchi,Warner Music International,12,9,2018-01-19,2018-01-25,2018,1
 10,Martin Garrix & David Guetta feat. Jamie Scott & Romy Dya,So Far Away,Epic,7,10,2018-01-19,2018-01-25,2018,1
 11,NF,Let You Down,Capitol,13,9,2018-01-19,2018-01-25,2018,1
 12,Azet feat. RAF Camora,Qa bone,KMN Gang,4,12,2018-01-19,2018-01-25,2018,1
 13,Azet,9 Milly,KMN Gang,1,13,2018-01-19,2018-01-25,2018,1
 14,Marshmello feat. Khalid,Silence,RCA International,22,6,2018-01-19,2018-01-25,2018,1
-15,Luis Fonsi & Demi Lovato,Échame la culpa,Universal,9,15,2018-01-19,2018-01-25,2018,1
+15,Luis Fonsi & Demi Lovato,Ã‰chame la culpa,Universal,9,15,2018-01-19,2018-01-25,2018,1
 16,Jason Derulo feat. French Montana,Tip Toe,Beluga Heights,10,16,2018-01-19,2018-01-25,2018,1
 17,Selena Gomez x Marshmello,Wolves,Universal,12,11,2018-01-19,2018-01-25,2018,1
 18,Zayn feat. Sia,Dusk Till Dawn,RCA International,19,3,2018-01-19,2018-01-25,2018,1
@@ -26,7 +26,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 25,Imagine Dragons,Whatever It Takes,Interscope,16,7,2018-01-19,2018-01-25,2018,1
 26,Ed Sheeran,Shape Of You,Atlantic,54,1,2018-01-19,2018-01-25,2018,1
 27,Dua Lipa,New Rules,Universal Domestic Vertigo,25,9,2018-01-19,2018-01-25,2018,1
-28,Kay One feat. Pietro Lombardi,Señorita,Princekayone GmbH,19,1,2018-01-19,2018-01-25,2018,1
+28,Kay One feat. Pietro Lombardi,SeÃ±orita,Princekayone GmbH,19,1,2018-01-19,2018-01-25,2018,1
 29,Kygo feat. Justin Jesso,Stargazing,B1 Recordings,17,14,2018-01-19,2018-01-25,2018,1
 30,Camila Cabello,Never Be The Same,Syco Music,1,30,2018-01-19,2018-01-25,2018,1
 31,Axwell Λ Ingrosso,More Than You Know,Virgin Records,32,1,2018-01-19,2018-01-25,2018,1
@@ -52,14 +52,14 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 51,Charlie Puth,How Long,Artist Partner Group,15,42,2018-01-19,2018-01-25,2018,1
 52,Robin Schulz & Hugel,I Believe I'm Fine,Warner Music Germany,19,29,2018-01-19,2018-01-25,2018,1
 53,Jazn,Bombay,Optimaluxus,3,53,2018-01-19,2018-01-25,2018,1
-54,Veysel,Kleiner Cabrón,Bela Boyz,20,18,2018-01-19,2018-01-25,2018,1
+54,Veysel,Kleiner CabrÃ³n,Bela Boyz,20,18,2018-01-19,2018-01-25,2018,1
 55,RIN,Monica Bellucci,Division,23,15,2018-01-19,2018-01-25,2018,1
 56,Azzi Memo x Eno,AMG2,Generation Azzlack,9,8,2018-01-19,2018-01-25,2018,1
 57,Kontra K,Soldaten 2.0,BMG,14,16,2018-01-19,2018-01-25,2018,1
 58,Clean Bandit feat. Julia Michaels,I Miss You,Atlantic,10,52,2018-01-19,2018-01-25,2018,1
 59,Jax Jones feat. Ina Wroldsen,Breathe,Polydor,2,59,2018-01-19,2018-01-25,2018,1
 60,Helene Fischer,Herzbeben,Universal Domestic Polydor,29,6,2018-01-19,2018-01-25,2018,1
-61,Gestört aber GeiL feat. Lea,Wohin willst du,Kontor Records,32,11,2018-01-19,2018-01-25,2018,1
+61,GestÃ¶rt aber GeiL feat. Lea,Wohin willst du,Kontor Records,32,11,2018-01-19,2018-01-25,2018,1
 62,Keala Settle & The Greatest Showman Ensemble,This Is Me,Atlantic,2,62,2018-01-19,2018-01-25,2018,1
 63,P!nk,What About Us,RCA International,23,3,2018-01-19,2018-01-25,2018,1
 64,Kollegah & Farid Bang,One Night Stand,Banger Musik,3,51,2018-01-19,2018-01-25,2018,1
@@ -83,7 +83,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 82,Olexesh,MOB,385ideal,4,58,2018-01-19,2018-01-25,2018,1
 83,Robin Schulz feat. James Blunt,OK,Warner Music Germany,35,2,2018-01-19,2018-01-25,2018,1
 84,Ed Sheeran,Galway Girl,Atlantic,46,5,2018-01-19,2018-01-25,2018,1
-85,Trettmann feat. Gzuz,Knöcheltief,SoulForce Records,22,31,2018-01-19,2018-01-25,2018,1
+85,Trettmann feat. Gzuz,KnÃ¶cheltief,SoulForce Records,22,31,2018-01-19,2018-01-25,2018,1
 86,The Cranberries,Zombie,Island,28,1,2018-01-19,2018-01-25,2018,1
 87,Troye Sivan,My My My!,EMI,1,87,2018-01-19,2018-01-25,2018,1
 88,Azet,Gjynah,KMN Gang,6,8,2018-01-19,2018-01-25,2018,1
@@ -91,9 +91,9 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 90,Hailee Steinfeld & Alesso feat. Florida Georgia Line & Watt,Let Me Go,Universal,4,84,2018-01-19,2018-01-25,2018,1
 91,Kollegah & Farid Bang,Ave Maria,Banger Musik,7,5,2018-01-19,2018-01-25,2018,1
 92,Jonas Blue feat. William Singe,Mama,Virgin Records,34,5,2018-01-19,2018-01-25,2018,1
-93,Capital Bra feat. RAF Camora & Joshi Mizu,Olé olé,Auf!Keinen!Fall!,21,36,2018-01-19,2018-01-25,2018,1
+93,Capital Bra feat. RAF Camora & Joshi Mizu,OlÃ© olÃ©,Auf!Keinen!Fall!,21,36,2018-01-19,2018-01-25,2018,1
 94,Imagine Dragons,Believer,Interscope,45,23,2018-01-19,2018-01-25,2018,1
-95,Capo & Nimo,Mon chéri,Warner Music Germany,10,9,2018-01-19,2018-01-25,2018,1
+95,Capo & Nimo,Mon chÃ©ri,Warner Music Germany,10,9,2018-01-19,2018-01-25,2018,1
 96,Bonez MC / RAF Camora / GZUZ / Maxwell,Kontrollieren,Indipendenza,29,11,2018-01-19,2018-01-25,2018,1
 97,Macklemore feat. Skylar Grey,Glorious,Bendo LLC,26,15,2018-01-19,2018-01-25,2018,1
 98,Jason Derulo feat. Nicki Minaj & Ty Dolla $ign,Swalla,Beluga Heights,42,4,2018-01-19,2018-01-25,2018,1

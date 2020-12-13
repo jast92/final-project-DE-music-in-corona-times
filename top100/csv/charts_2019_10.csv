@@ -6,7 +6,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 5,Shindy,Road2Goat,SME - Friends With Money,1,5,2019-03-08,2019-03-14,2019,3
 6,Capital Bra,Capital Bra je m'appelle,Universal Domestic Urban,2,3,2019-03-08,2019-03-14,2019,3
 7,Calvin Harris & Rag'n'Bone Man,Giant,SME - Columbia,8,7,2019-03-08,2019-03-14,2019,3
-8,Eno feat. MERO,Ferrari,Alles Oder Nix Records,4,1,2019-03-08,2019-03-14,2019,3
+8,Eno feat. Mero,Ferrari,Alles Oder Nix Records,4,1,2019-03-08,2019-03-14,2019,3
 9,Capital Bra,Prinzessa,Universal Domestic Urban,6,1,2019-03-08,2019-03-14,2019,3
 10,Ariana Grande,7 Rings,Republic Records,7,4,2019-03-08,2019-03-14,2019,3
 11,Azet & Zuna,Fragen,KMN Gang,2,4,2019-03-08,2019-03-14,2019,3
@@ -25,7 +25,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 24,Mark Ronson feat. Miley Cyrus,Nothing Breaks Like A Heart,SME - Columbia,14,16,2019-03-08,2019-03-14,2019,3
 25,Kool Savas feat. Nessi,Deine Mutter,SME - Essah Entertainment ,7,16,2019-03-08,2019-03-14,2019,3
 26,Ariana Grande,"Break Up With Your Girlfriend, I'm Bored",Republic Records,4,8,2019-03-08,2019-03-14,2019,3
-27,Josh.,Cordula Grün,Warner Music Germany,24,27,2019-03-08,2019-03-14,2019,3
+27,Josh.,Cordula GrÃ¼n,Warner Music Germany,24,27,2019-03-08,2019-03-14,2019,3
 28,Alle Farben & Ilira,Fading,B1 Recordings,18,16,2019-03-08,2019-03-14,2019,3
 29,Halsey,Without Me,Capitol,22,11,2019-03-08,2019-03-14,2019,3
 30,Dynoro & Gigi D'Agostino,In My Mind,B1 Recordings,39,1,2019-03-08,2019-03-14,2019,3
@@ -57,11 +57,11 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 56,"KitschKrieg feat. Cro, AnnenMayKantereit & Trettmann",5 Minuten,Soulforce/BMG,4,10,2019-03-08,2019-03-14,2019,3
 57,"NOTD, Felix Jaehn & Captain Cuts feat. Georgia Ku",So Close,Virgin Records,6,45,2019-03-08,2019-03-14,2019,3
 58,Lena,Thank You,Universal Domestic Polydor,13,40,2019-03-08,2019-03-14,2019,3
-59,Die Draufgänger,Cordula Grün,Electrola,1,59,2019-03-08,2019-03-14,2019,3
+59,Die DraufgÃ¤nger,Cordula GrÃ¼n,Electrola,1,59,2019-03-08,2019-03-14,2019,3
 60,Loud Luxury feat. Brando,Body,Kontor Records,41,7,2019-03-08,2019-03-14,2019,3
 61,P!nk,Walk Me Home,SME - RCA International,2,33,2019-03-08,2019-03-14,2019,3
 62,King Khalil feat. Lil Lano & M.O.030,G-Klasse,SME - Team Kuku,2,58,2019-03-08,2019-03-14,2019,3
-63,Leon Machère,Copacabana,PMR Music,31,13,2019-03-08,2019-03-14,2019,3
+63,Leon MachÃ¨re,Copacabana,PMR Music,31,13,2019-03-08,2019-03-14,2019,3
 64,Nimo & Capo,Planlos,Universal Domestic Urban,1,64,2019-03-08,2019-03-14,2019,3
 65,Gaullin,Moonlight,B1 Recordings,3,65,2019-03-08,2019-03-14,2019,3
 66,Juju [DE],Intro,Jinx Music,1,66,2019-03-08,2019-03-14,2019,3
@@ -71,7 +71,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 70,Calvin Harris & Sam Smith,Promises,SME - Columbia,29,2,2019-03-08,2019-03-14,2019,3
 71,Post Malone & Swae Lee,Sunflower,Universal,19,36,2019-03-08,2019-03-14,2019,3
 72,Bonez MC & RAF Camora feat. Gzuz,Kokain,Universal Domestic Vertigo,25,1,2019-03-08,2019-03-14,2019,3
-73,Gent feat. Kollegah,Paramilitär,Alpha Empire,1,73,2019-03-08,2019-03-14,2019,3
+73,Gent feat. Kollegah,ParamilitÃ¤r,Alpha Empire,1,73,2019-03-08,2019-03-14,2019,3
 74,Samra,Cataleya,SME - Bushido,17,1,2019-03-08,2019-03-14,2019,3
 75,Rita Ora,Let You Love Me,Atlantic,24,12,2019-03-08,2019-03-14,2019,3
 76,Jamule feat. PA Sports,Sex Sells,Life Is Pain,1,76,2019-03-08,2019-03-14,2019,3
@@ -83,7 +83,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 82,Azet & Zuna,Wenn die Sonne untergeht,KMN Gang,7,7,2019-03-08,2019-03-14,2019,3
 83,Armin van Buuren,Blah Blah Blah,Kontor Records,34,11,2019-03-08,2019-03-14,2019,3
 84,Lady Gaga,Always Remember Us This Way,Universal,3,84,2019-03-08,2019-03-14,2019,3
-85,Gestört Aber GeiL feat. Adel Tawil,Vielleicht,Universal Domestic Polydor,2,38,2019-03-08,2019-03-14,2019,3
+85,GestÃ¶rt Aber GeiL feat. Adel Tawil,Vielleicht,Universal Domestic Polydor,2,38,2019-03-08,2019-03-14,2019,3
 86,LEA x Cyril,Immer wenn wir uns sehn,SME - Four Music,29,16,2019-03-08,2019-03-14,2019,3
 87,Capo feat. Nimo,Lambo Diablo GT,Warner Music Germany,36,21,2019-03-08,2019-03-14,2019,3
 88,Azet & Zuna,Lelele,KMN Gang,11,6,2019-03-08,2019-03-14,2019,3
@@ -93,7 +93,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 92,Queen,Bohemian Rhapsody,Island,28,7,2019-03-08,2019-03-14,2019,3
 93,RAF Camora & AriBeatz feat. Sofiane,Perfekt,SME - Andere Liga,16,5,2019-03-08,2019-03-14,2019,3
 94,Kontra K feat. Jah Khalib,Nur ein Grund,BMG,3,18,2019-03-08,2019-03-14,2019,3
-95,Brings,Kölsche Jung,Rhingtön,13,26,2019-03-08,2019-03-14,2019,3
+95,Brings,KÃ¶lsche Jung,RhingtÃ¶n,13,26,2019-03-08,2019-03-14,2019,3
 96,Ed Sheeran,Perfect,Atlantic,83,1,2019-03-08,2019-03-14,2019,3
 97,Nimo & Capo,Zoey,Universal Domestic Urban,12,8,2019-03-08,2019-03-14,2019,3
 98,Andreas Gabalier,Hulapalu,Electrola,91,13,2019-03-08,2019-03-14,2019,3

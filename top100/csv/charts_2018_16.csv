@@ -5,7 +5,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 4,Ramz,Barking,Polydor,8,4,2018-04-20,2018-04-26,2018,4
 5,"Rudimental feat. Jess Glynne, Macklemore & Dan Caplen",These Days,Atlantic,13,3,2018-04-20,2018-04-26,2018,4
 6,Calvin Harris & Dua Lipa,One Kiss,Columbia,2,6,2018-04-20,2018-04-26,2018,4
-7,Luis Fonsi & Demi Lovato,Échame la culpa,Universal,22,6,2018-04-20,2018-04-26,2018,4
+7,Luis Fonsi & Demi Lovato,Ã‰chame la culpa,Universal,22,6,2018-04-20,2018-04-26,2018,4
 8,Drake,God's Plan,Motown,13,1,2018-04-20,2018-04-26,2018,4
 9,Drake,Nice For What,Young Money,2,9,2018-04-20,2018-04-26,2018,4
 10,Dennis Lloyd,Nevermind,Warner Music International,4,10,2018-04-20,2018-04-26,2018,4
@@ -30,7 +30,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 29,Rooz x MoTrip,Immer wieder,Universal Domestic Urban,6,25,2018-04-20,2018-04-26,2018,4
 30,Bausa,Was du Liebe nennst,Warner Music Germany,29,1,2018-04-20,2018-04-26,2018,4
 31,Sarah,Genau hier,Universal Domestic Polydor,1,31,2018-04-20,2018-04-26,2018,4
-32,Gzuz feat. LX,Drück drück,Universal Domestic Vertigo,3,11,2018-04-20,2018-04-26,2018,4
+32,Gzuz feat. LX,DrÃ¼ck drÃ¼ck,Universal Domestic Vertigo,3,11,2018-04-20,2018-04-26,2018,4
 33,Post Malone feat. Ty Dolla $ign,Psycho,Universal,8,6,2018-04-20,2018-04-26,2018,4
 34,Luciano [DE],Roli,Universal Domestic Urban,1,34,2018-04-20,2018-04-26,2018,4
 35,George Ezra,Paradise,Columbia,7,35,2018-04-20,2018-04-26,2018,4
@@ -56,17 +56,17 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 55,Alvaro Soler,La cintura,Airforce1,3,46,2018-04-20,2018-04-26,2018,4
 56,Nico Santos,Rooftop,Virgin Records,23,5,2018-04-20,2018-04-26,2018,4
 57,Post Malone feat. 21 Savage,Rockstar,Universal,31,2,2018-04-20,2018-04-26,2018,4
-58,Azet,Überlebt,KMN Gang,3,28,2018-04-20,2018-04-26,2018,4
+58,Azet,Ãœberlebt,KMN Gang,3,28,2018-04-20,2018-04-26,2018,4
 59,Martin Garrix & David Guetta feat. Jamie Scott & Romy Dya,So Far Away,B1 Recordings,20,8,2018-04-20,2018-04-26,2018,4
 60,Ufo361,Stay High 2.0,Stay High,1,60,2018-04-20,2018-04-26,2018,4
 61,Ufo361,Balenciaga,Stay High,6,16,2018-04-20,2018-04-26,2018,4
 62,Khalid x Normani,Love Lies,RCA International,9,36,2018-04-20,2018-04-26,2018,4
-63,Ufo361,Alpträume,Stay High,1,63,2018-04-20,2018-04-26,2018,4
+63,Ufo361,AlptrÃ¤ume,Stay High,1,63,2018-04-20,2018-04-26,2018,4
 64,Bazzi,Mine,ZZZ Entertainment,10,25,2018-04-20,2018-04-26,2018,4
 65,Luis Fonsi feat. Daddy Yankee,Despacito,Universal,64,1,2018-04-20,2018-04-26,2018,4
 66,Katja Krasavice,Dicke Lippen,PMR Music,2,4,2018-04-20,2018-04-26,2018,4
 67,XXXTentacion,Sad!,Bad Vibes Forever,7,33,2018-04-20,2018-04-26,2018,4
-68,Namika feat. Black M,Je ne parle pas français (Beatgees Remix),Jive Germany,1,68,2018-04-20,2018-04-26,2018,4
+68,Namika feat. Black M,Je ne parle pas franÃ§ais (Beatgees Remix),Jive Germany,1,68,2018-04-20,2018-04-26,2018,4
 69,Ed Sheeran,Shape Of You,Atlantic,67,1,2018-04-20,2018-04-26,2018,4
 70,"Cardi B, Bad Bunny & J Balvin",I Like It,Atlantic,1,70,2018-04-20,2018-04-26,2018,4
 71,Kylie Minogue,Dancing,BMG,2,71,2018-04-20,2018-04-26,2018,4
@@ -80,7 +80,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 79,Ufo361,Gewinn,Stay High,1,79,2018-04-20,2018-04-26,2018,4
 80,Rita Ora,Anywhere,Atlantic,22,18,2018-04-20,2018-04-26,2018,4
 81,Ufo361,Superstar,Stay High,1,81,2018-04-20,2018-04-26,2018,4
-82,Kay One feat. Pietro Lombardi,Señorita,Princekayone GmbH,32,1,2018-04-20,2018-04-26,2018,4
+82,Kay One feat. Pietro Lombardi,SeÃ±orita,Princekayone GmbH,32,1,2018-04-20,2018-04-26,2018,4
 83,MC Fioti / Future / J Balvin / Stefflon Don / Juan Magan,Bum bum tam tam,Kontor Records,13,51,2018-04-20,2018-04-26,2018,4
 84,Logic & Marshmello,Everyday,Def Jam,7,48,2018-04-20,2018-04-26,2018,4
 85,Veysel & Mozzik,Ti amo,Bela Boyz,13,42,2018-04-20,2018-04-26,2018,4
@@ -93,7 +93,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 92,Zayn,Let Me,RCA International,1,92,2018-04-20,2018-04-26,2018,4
 93,BlocBoy JB feat. Drake,Look Alive,OVO Sound,10,48,2018-04-20,2018-04-26,2018,4
 94,Portugal. The Man,Feel It Still,Atlantic,31,7,2018-04-20,2018-04-26,2018,4
-95,Revolverheld,Immer noch fühlen,Columbia,1,95,2018-04-20,2018-04-26,2018,4
+95,Revolverheld,Immer noch fÃ¼hlen,Columbia,1,95,2018-04-20,2018-04-26,2018,4
 96,G-Eazy & Halsey,Him & I,RCA International,20,6,2018-04-20,2018-04-26,2018,4
 97,Axwell Λ Ingrosso,More Than You Know,Virgin Records,45,1,2018-04-20,2018-04-26,2018,4
 98,Dua Lipa,New Rules,Universal Domestic Urban,38,9,2018-04-20,2018-04-26,2018,4

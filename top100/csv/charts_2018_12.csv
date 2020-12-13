@@ -7,7 +7,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 6,The Chainsmokers,Sick Boy,Columbia,9,5,2018-03-23,2018-03-29,2018,3
 7,Ufo361 feat. Capital Bra,Power,Stay High,1,7,2018-03-23,2018-03-29,2018,3
 8,Tom Walker,Leave A Light On,Relentless Records,12,8,2018-03-23,2018-03-29,2018,3
-9,Luis Fonsi & Demi Lovato,Échame la culpa,Universal,18,6,2018-03-23,2018-03-29,2018,3
+9,Luis Fonsi & Demi Lovato,Ã‰chame la culpa,Universal,18,6,2018-03-23,2018-03-29,2018,3
 10,Bausa,Was du Liebe nennst,Warner Music Germany,25,1,2018-03-23,2018-03-29,2018,3
 11,Justin Timberlake feat. Chris Stapleton,Say Something,RCA International,8,11,2018-03-23,2018-03-29,2018,3
 12,Eminem feat. Ed Sheeran,River,Interscope,14,2,2018-03-23,2018-03-29,2018,3
@@ -50,19 +50,19 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 49,Felix Jaehn feat. Marc E. Bassy & Gucci Mane,Cool,Virgin Records,6,44,2018-03-23,2018-03-29,2018,3
 50,Ed Sheeran,Shape Of You,Atlantic,63,1,2018-03-23,2018-03-29,2018,3
 51,BlocBoy JB feat. Drake,Look Alive,OVO Sound,6,48,2018-03-23,2018-03-29,2018,3
-52,Zuna,Ayé,KMN Gang,3,23,2018-03-23,2018-03-29,2018,3
+52,Zuna,AyÃ©,KMN Gang,3,23,2018-03-23,2018-03-29,2018,3
 53,Rea Garvey feat. Kool Savas,Is It Love?,Universal Domestic Island,8,53,2018-03-23,2018-03-29,2018,3
 54,Rita Ora,Anywhere,Atlantic,18,18,2018-03-23,2018-03-29,2018,3
-55,Hailee Steinfeld x BloodPop®,Capital Letters,Republic Records,6,32,2018-03-23,2018-03-29,2018,3
+55,Hailee Steinfeld x BloodPopÂ®,Capital Letters,Republic Records,6,32,2018-03-23,2018-03-29,2018,3
 56,RAF Camora,Primo,Indipendenza,30,6,2018-03-23,2018-03-29,2018,3
-57,Kontra K,Zwischen Himmel & Hölle,BMG,3,15,2018-03-23,2018-03-29,2018,3
+57,Kontra K,Zwischen Himmel & HÃ¶lle,BMG,3,15,2018-03-23,2018-03-29,2018,3
 58,MC Fioti / Future / J Balvin / Stefflon Don / Juan Magan,Bum bum tam tam,Kontor Records,9,51,2018-03-23,2018-03-29,2018,3
 59,Portugal. The Man,Feel It Still,Atlantic,27,7,2018-03-23,2018-03-29,2018,3
 60,Marshmello feat. Khalid,Silence,RCA International,31,6,2018-03-23,2018-03-29,2018,3
-61,Kay One feat. Pietro Lombardi,Señorita,Princekayone GmbH,28,1,2018-03-23,2018-03-29,2018,3
+61,Kay One feat. Pietro Lombardi,SeÃ±orita,Princekayone GmbH,28,1,2018-03-23,2018-03-29,2018,3
 62,Ufo361,Balenciaga,Stay High,4,16,2018-03-23,2018-03-29,2018,3
 63,Camila Cabello,Never Be The Same,Epic,10,30,2018-03-23,2018-03-29,2018,3
-64,Justin Bieber + BloodPop®,Friends,Republic Records,31,4,2018-03-23,2018-03-29,2018,3
+64,Justin Bieber + BloodPopÂ®,Friends,Republic Records,31,4,2018-03-23,2018-03-29,2018,3
 65,Bebe Rexha feat. Florida Georgia Line,Meant To Be,Warner Music International,11,62,2018-03-23,2018-03-29,2018,3
 66,Luis Fonsi feat. Daddy Yankee,Despacito,Universal,60,1,2018-03-23,2018-03-29,2018,3
 67,James Arthur,Naked,Columbia Domestic,17,23,2018-03-23,2018-03-29,2018,3
@@ -80,7 +80,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 79,French Montana feat. Swae Lee,Unforgettable,Epic,49,6,2018-03-23,2018-03-29,2018,3
 80,Clean Bandit feat. Julia Michaels,I Miss You,Atlantic,19,49,2018-03-23,2018-03-29,2018,3
 81,Lil Dicky feat. Chris Brown,Freaky Friday,Commission Records,1,81,2018-03-23,2018-03-29,2018,3
-82,Niska,Réseaux,Capitol,9,41,2018-03-23,2018-03-29,2018,3
+82,Niska,RÃ©seaux,Capitol,9,41,2018-03-23,2018-03-29,2018,3
 83,Julia Michaels,Heaven,Republic Records,4,71,2018-03-23,2018-03-29,2018,3
 84,Imagine Dragons,Thunder,Interscope,47,2,2018-03-23,2018-03-29,2018,3
 85,RAF Camora,Gotham City,Indipendenza,14,9,2018-03-23,2018-03-29,2018,3
@@ -88,12 +88,12 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 87,Nimo,Heute mit mir,Universal Domestic Urban,41,10,2018-03-23,2018-03-29,2018,3
 88,Dardan x Luciano,Airmax gegen Kopf,Universal Domestic Urban,7,28,2018-03-23,2018-03-29,2018,3
 89,XXXTentacion,Moonlight,Bad Vibes Forever,1,89,2018-03-23,2018-03-29,2018,3
-90,Gzuz,¿Was hast du gedacht?,187 Strassenbande,6,5,2018-03-23,2018-03-29,2018,3
+90,Gzuz,Â¿Was hast du gedacht?,187 Strassenbande,6,5,2018-03-23,2018-03-29,2018,3
 91,Kygo feat. Justin Jesso,Stargazing,B1 Recordings,26,14,2018-03-23,2018-03-29,2018,3
 92,RAF Camora,Sag nix,Indipendenza,15,6,2018-03-23,2018-03-29,2018,3
 93,Bruno Mars,Finesse,Atlantic,11,31,2018-03-23,2018-03-29,2018,3
-94,Gestört aber GeiL feat. Lea,Wohin willst du,Kontor Records,41,11,2018-03-23,2018-03-29,2018,3
-95,Trettmann feat. Gzuz,Knöcheltief,SoulForce Records,28,31,2018-03-23,2018-03-29,2018,3
+94,GestÃ¶rt aber GeiL feat. Lea,Wohin willst du,Kontor Records,41,11,2018-03-23,2018-03-29,2018,3
+95,Trettmann feat. Gzuz,KnÃ¶cheltief,SoulForce Records,28,31,2018-03-23,2018-03-29,2018,3
 96,Big Shaq,Man's Not Hot,Island,20,26,2018-03-23,2018-03-29,2018,3
 97,Imagine Dragons,Believer,Interscope,50,23,2018-03-23,2018-03-29,2018,3
 98,Avicii feat. Rita Ora,Lonely Together,Virgin Records,27,24,2018-03-23,2018-03-29,2018,3

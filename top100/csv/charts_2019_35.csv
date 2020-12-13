@@ -1,9 +1,9 @@
 current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 1,Capital Bra x Samra,Nummer 1,Universal Domestic Urban,1,1,2019-08-30,2019-09-05,2019,8
 2,Apache 207,Roller,SME - Two Sides,1,2,2019-08-30,2019-09-05,2019,8
-3,Shawn Mendes & Camila Cabello,Señorita,Island,10,1,2019-08-30,2019-09-05,2019,8
+3,Shawn Mendes & Camila Cabello,SeÃ±orita,Island,10,1,2019-08-30,2019-09-05,2019,8
 4,Shirin David,Brillis,Juicy Money Records,1,4,2019-08-30,2019-09-05,2019,8
-5,Miami Yacine,Intro Résumé,KMN Gang,1,5,2019-08-30,2019-09-05,2019,8
+5,Miami Yacine,Intro RÃ©sumÃ©,KMN Gang,1,5,2019-08-30,2019-09-05,2019,8
 6,Loredana feat. Mozzik,Eiskalt,Loredana,4,2,2019-08-30,2019-09-05,2019,8
 7,DJ Snake & J Balvin feat. Tyga,Loco contigo,Geffen Records,11,3,2019-08-30,2019-09-05,2019,8
 8,Tones And I,Dance Monkey,Bad Batch Records,3,8,2019-08-30,2019-09-05,2019,8
@@ -31,20 +31,20 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 30,The Chainsmokers & Illenium feat. Lennon Stella,Takeaway,SME - Columbia,5,30,2019-08-30,2019-09-05,2019,8
 31,OneRepublic,Rescue Me,Interscope,15,24,2019-08-30,2019-09-05,2019,8
 32,Post Malone feat. Young Thug,Goodbyes,Republic Records,8,16,2019-08-30,2019-09-05,2019,8
-33,Robin Schulz feat. Harlœ,All This Love,Warner Music Germany,16,24,2019-08-30,2019-09-05,2019,8
-34,Shirin David feat. Maître Gims,On Off,Shirin David Music,9,3,2019-08-30,2019-09-05,2019,8
+33,Robin Schulz feat. HarlÅ“,All This Love,Warner Music Germany,16,24,2019-08-30,2019-09-05,2019,8
+34,Shirin David feat. MaÃ®tre Gims,On Off,Shirin David Music,9,3,2019-08-30,2019-09-05,2019,8
 35,Noah [DE],Kal kal,SQP,1,35,2019-08-30,2019-09-05,2019,8
 36,Lewis Capaldi,Someone You Loved,Universal Domestic Vertigo,30,18,2019-08-30,2019-09-05,2019,8
 37,Summer Cem feat. Capital Bra,Diamonds,Banger Musik,11,3,2019-08-30,2019-09-05,2019,8
 38,R3hab x A Touch Of Class,All Around The World (La La La),Virgin Records,13,29,2019-08-30,2019-09-05,2019,8
 39,Daddy Yankee feat. Snow,Con calma,Universal,28,6,2019-08-30,2019-09-05,2019,8
-40,Pedro Capó,Calma,Sony Music,13,33,2019-08-30,2019-09-05,2019,8
+40,Pedro CapÃ³,Calma,Sony Music,13,33,2019-08-30,2019-09-05,2019,8
 41,Samra x Capital Bra,Zombie,Universal Domestic Urban,7,1,2019-08-30,2019-09-05,2019,8
 42,Lena x Nico Santos,Better,Universal Domestic Polydor,2,29,2019-08-30,2019-09-05,2019,8
 43,Blanco Brown,The Git Up,Broken Bow Records,4,42,2019-08-30,2019-09-05,2019,8
 44,AriBeatz x Nimo x Lacrim,J-Lo,SME - RBK,1,44,2019-08-30,2019-09-05,2019,8
 45,Fler,Shirinbae,Maskulin,2,45,2019-08-30,2019-09-05,2019,8
-46,Mero x Brado,Olé Olé,Groove Attack TraX,3,13,2019-08-30,2019-09-05,2019,8
+46,Mero x Brado,OlÃ© OlÃ©,Groove Attack TraX,3,13,2019-08-30,2019-09-05,2019,8
 47,Lil Tecca,Ran$om,Republic Records,4,44,2019-08-30,2019-09-05,2019,8
 48,Tim Bendzko,Hoch,SME - Jive Germany,2,48,2019-08-30,2019-09-05,2019,8
 49,Ufo361,04:30,Stay High,1,49,2019-08-30,2019-09-05,2019,8
@@ -67,7 +67,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 66,Apache 207,Kein Problem,SME - Two Sides,1,66,2019-08-30,2019-09-05,2019,8
 67,Ariana Grande & Social House,Boyfriend,Republic Records,4,23,2019-08-30,2019-09-05,2019,8
 68,Martin Garrix feat. Macklemore & Patrick Stump of Fall Out Boy,Summer Days,SME - Epic,17,24,2019-08-30,2019-09-05,2019,8
-69,"Trettmann, KitschKrieg & Gzuz",Du weißt,Soulforce/BMG,4,15,2019-08-30,2019-09-05,2019,8
+69,"Trettmann, KitschKrieg & Gzuz",Du weiÃŸt,Soulforce/BMG,4,15,2019-08-30,2019-09-05,2019,8
 70,Taylor Swift,You Need To Calm Down,Universal,8,36,2019-08-30,2019-09-05,2019,8
 71,Vize,Glad You Came,Kontor Records,13,44,2019-08-30,2019-09-05,2019,8
 72,Lil Lano,Fische,AnanasSquad,1,72,2019-08-30,2019-09-05,2019,8
@@ -90,7 +90,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 89,Nash feat. Azet,Leben schnell,KMN Gang,2,58,2019-08-30,2019-09-05,2019,8
 90,Lauv feat. Anne-Marie,"F**k, I'm Lonely",Lauv,1,90,2019-08-30,2019-09-05,2019,8
 91,Dardan,Coco Mama,Hypnotize Entertainment,21,4,2019-08-30,2019-09-05,2019,8
-92,Olexesh feat. A Boogie Wit Da Hoodie,Ouh Mädchen,385ideal,3,38,2019-08-30,2019-09-05,2019,8
+92,Olexesh feat. A Boogie Wit Da Hoodie,Ouh MÃ¤dchen,385ideal,3,38,2019-08-30,2019-09-05,2019,8
 93,Jonas Brothers,Sucker,Jonas Brothers Recording,26,20,2019-08-30,2019-09-05,2019,8
 94,Rammstein,Deutschland,Rammstein,22,1,2019-08-30,2019-09-05,2019,8
 95,Luciano [DE],Im Film,Universal Domestic Urban,6,12,2019-08-30,2019-09-05,2019,8

@@ -2,7 +2,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 1,Ed Sheeran,Perfect,Atlantic,23,1,2018-01-05,2018-01-11,2018,1
 2,Bausa,Was du Liebe nennst,Warner Music Germany,14,1,2018-01-05,2018-01-11,2018,1
 3,Camila Cabello feat. Young Thug,Havana,Epic,20,2,2018-01-05,2018-01-11,2018,1
-4,Justin Bieber + BloodPop®,Friends,Republic Records,20,4,2018-01-05,2018-01-11,2018,1
+4,Justin Bieber + BloodPopÂ®,Friends,Republic Records,20,4,2018-01-05,2018-01-11,2018,1
 5,Eminem feat. Ed Sheeran,River,Universal,3,3,2018-01-05,2018-01-11,2018,1
 6,Nico Santos,Rooftop,Virgin Records,8,6,2018-01-05,2018-01-11,2018,1
 7,Post Malone feat. 21 Savage,Rockstar,Universal,16,2,2018-01-05,2018-01-11,2018,1
@@ -19,13 +19,13 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 18,Imagine Dragons,Whatever It Takes,Interscope,14,7,2018-01-05,2018-01-11,2018,1
 19,Luis Fonsi feat. Daddy Yankee,Despacito,Universal,49,1,2018-01-05,2018-01-11,2018,1
 20,Dua Lipa,New Rules,Universal Domestic Vertigo,23,9,2018-01-05,2018-01-11,2018,1
-21,Kay One feat. Pietro Lombardi,Señorita,Princekayone GmbH,17,1,2018-01-05,2018-01-11,2018,1
+21,Kay One feat. Pietro Lombardi,SeÃ±orita,Princekayone GmbH,17,1,2018-01-05,2018-01-11,2018,1
 22,J Balvin & Willy William,Mi gente,B1 Recordings,27,3,2018-01-05,2018-01-11,2018,1
 23,Kygo feat. Justin Jesso,Stargazing,B1 Recordings,15,14,2018-01-05,2018-01-11,2018,1
 24,Jason Derulo feat. French Montana,Tip Toe,Beluga Heights,8,24,2018-01-05,2018-01-11,2018,1
 25,Martin Garrix & David Guetta feat. Jamie Scott & Romy Dya,So Far Away,Epic,5,25,2018-01-05,2018-01-11,2018,1
 26,Big Shaq,Man's Not Hot,Island,9,26,2018-01-05,2018-01-11,2018,1
-27,Luis Fonsi & Demi Lovato,Échame la culpa,Universal,7,21,2018-01-05,2018-01-11,2018,1
+27,Luis Fonsi & Demi Lovato,Ã‰chame la culpa,Universal,7,21,2018-01-05,2018-01-11,2018,1
 28,French Montana feat. Swae Lee,Unforgettable,Epic,38,6,2018-01-05,2018-01-11,2018,1
 29,Maroon 5 feat. SZA,What Lovers Do,A&M Records,18,17,2018-01-05,2018-01-11,2018,1
 30,RAF Camora,Sag nix,Indipendenza,4,6,2018-01-05,2018-01-11,2018,1
@@ -42,7 +42,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 41,Rita Ora,Your Song,Atlantic,32,13,2018-01-05,2018-01-11,2018,1
 42,"Machine Gun Kelly, X Ambassadors & Bebe Rexha",Home,Atlantic,7,42,2018-01-05,2018-01-11,2018,1
 43,"RAF Camora feat. Bonez MC, Gzuz & Ufo361",Waffen,Indipendenza,3,21,2018-01-05,2018-01-11,2018,1
-44,Gestört aber GeiL feat. Lea,Wohin willst du,Kontor Records,30,11,2018-01-05,2018-01-11,2018,1
+44,GestÃ¶rt aber GeiL feat. Lea,Wohin willst du,Kontor Records,30,11,2018-01-05,2018-01-11,2018,1
 45,The Chainsmokers & Coldplay,Something Just Like This,Columbia,44,4,2018-01-05,2018-01-11,2018,1
 46,Robin Schulz feat. James Blunt,OK,Warner Music Germany,33,2,2018-01-05,2018-01-11,2018,1
 47,RIN,Monica Bellucci,Division,21,15,2018-01-05,2018-01-11,2018,1
@@ -66,7 +66,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 65,Azzi Memo x Eno,AMG2,Generation Azzlack,7,8,2018-01-05,2018-01-11,2018,1
 66,Miami Yacine,Bon voyage,KMN Gang,25,5,2018-01-05,2018-01-11,2018,1
 67,Macklemore feat. Skylar Grey,Glorious,Bendo LLC,24,15,2018-01-05,2018-01-11,2018,1
-68,Veysel,Kleiner Cabrón,Bela Boyz,18,18,2018-01-05,2018-01-11,2018,1
+68,Veysel,Kleiner CabrÃ³n,Bela Boyz,18,18,2018-01-05,2018-01-11,2018,1
 69,James Hype feat. Kelli-Leigh,More Than Friends,Warner Music International,6,69,2018-01-05,2018-01-11,2018,1
 70,Andreas Gabalier,Hulapalu,Electrola,86,13,2018-01-05,2018-01-11,2018,1
 71,Charlie Puth,Attention,Artist Partner Group,34,9,2018-01-05,2018-01-11,2018,1
@@ -86,10 +86,10 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 85,Olexesh,MOB,385ideal,2,58,2018-01-05,2018-01-11,2018,1
 86,G-Eazy feat. A$AP Rocky & Cardi B,No Limit,RCA International,1,86,2018-01-05,2018-01-11,2018,1
 87,Imagine Dragons,Believer,Interscope,43,23,2018-01-05,2018-01-11,2018,1
-88,Trettmann feat. Gzuz,Knöcheltief,SoulForce Records,20,31,2018-01-05,2018-01-11,2018,1
-89,Capital Bra feat. RAF Camora & Joshi Mizu,Olé olé,Auf!Keinen!Fall!,19,36,2018-01-05,2018-01-11,2018,1
+88,Trettmann feat. Gzuz,KnÃ¶cheltief,SoulForce Records,20,31,2018-01-05,2018-01-11,2018,1
+89,Capital Bra feat. RAF Camora & Joshi Mizu,OlÃ© olÃ©,Auf!Keinen!Fall!,19,36,2018-01-05,2018-01-11,2018,1
 90,Khalid,Young Dumb & Broke,RCA International,9,56,2018-01-05,2018-01-11,2018,1
-91,Capo & Nimo,Mon chéri,Warner Music Germany,8,9,2018-01-05,2018-01-11,2018,1
+91,Capo & Nimo,Mon chÃ©ri,Warner Music Germany,8,9,2018-01-05,2018-01-11,2018,1
 92,Mark Forster,Sowieso,Four Music,31,22,2018-01-05,2018-01-11,2018,1
 93,Kygo & Selena Gomez,It Ain't Me,B1 Recordings,31,2,2018-01-05,2018-01-11,2018,1
 94,"Felix Jaehn, Hight & Alex Aiono",Hot2Touch,Virgin Records,26,12,2018-01-05,2018-01-11,2018,1

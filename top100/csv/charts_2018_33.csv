@@ -6,7 +6,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 5,Clean Bandit feat. Demi Lovato,Solo,Atlantic,13,1,2018-08-17,2018-08-23,2018,8
 6,Katja Krasavice,Sex Tape,PMR Music,1,6,2018-08-17,2018-08-23,2018,8
 7,Loud Luxury feat. Brando,Body,Kontor Records,12,7,2018-08-17,2018-08-23,2018,8
-8,Namika feat. Black M,Je ne parle pas français (Beatgees Remix),Jive Germany,18,1,2018-08-17,2018-08-23,2018,8
+8,Namika feat. Black M,Je ne parle pas franÃ§ais (Beatgees Remix),Jive Germany,18,1,2018-08-17,2018-08-23,2018,8
 9,Jonas Blue feat. Jack & Jack,Rise,Virgin Records,12,8,2018-08-17,2018-08-23,2018,8
 10,Drake,In My Feelings,Republic Records,7,4,2018-08-17,2018-08-23,2018,8
 11,Maroon 5 feat. Cardi B,Girls Like You,Interscope,11,11,2018-08-17,2018-08-23,2018,8
@@ -23,11 +23,11 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 22,Robin Schulz & Piso 21,Oh Child,Warner Music Germany,8,19,2018-08-17,2018-08-23,2018,8
 23,"DJ Khaled feat. Justin Bieber, Chance The Rapper & Quavo",No Brainer,Epic,3,15,2018-08-17,2018-08-23,2018,8
 24,Nico Santos,Safe,Virgin Records,7,24,2018-08-17,2018-08-23,2018,8
-25,Bushido feat. Samra & Capital Bra,Für euch alle,Bushido,6,1,2018-08-17,2018-08-23,2018,8
+25,Bushido feat. Samra & Capital Bra,FÃ¼r euch alle,Bushido,6,1,2018-08-17,2018-08-23,2018,8
 26,Kygo & Imagine Dragons,Born To Be Yours,B1 Recordings,9,22,2018-08-17,2018-08-23,2018,8
 27,Anne-Marie,2002,Atlantic,13,18,2018-08-17,2018-08-23,2018,8
-28,Leon Machère,Copacabana,PMR Music,3,28,2018-08-17,2018-08-23,2018,8
-29,Tiësto & Dzeko feat. Preme & Post Malone,Jackie Chan,Virgin Records,9,25,2018-08-17,2018-08-23,2018,8
+28,Leon MachÃ¨re,Copacabana,PMR Music,3,28,2018-08-17,2018-08-23,2018,8
+29,TiÃ«sto & Dzeko feat. Preme & Post Malone,Jackie Chan,Virgin Records,9,25,2018-08-17,2018-08-23,2018,8
 30,"Alle Farben, Kelvin Jones & Younotus",Only Thing We Know,B1 Recordings,7,30,2018-08-17,2018-08-23,2018,8
 31,Capital Bra,One Night Stand,Team Kuku,12,1,2018-08-17,2018-08-23,2018,8
 32,Luciano [DE],Ballin,Universal Domestic Urban,5,10,2018-08-17,2018-08-23,2018,8
@@ -66,7 +66,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 65,Nicky Jam x J Balvin,X,Sony Music,24,13,2018-08-17,2018-08-23,2018,8
 66,Ariana Grande,God Is A Woman,Universal,5,20,2018-08-17,2018-08-23,2018,8
 67,Azzi Memo x Capo,Flouz,Generation Azzlack,2,34,2018-08-17,2018-08-23,2018,8
-68,Luis Fonsi & Demi Lovato,Échame la culpa,Universal,39,6,2018-08-17,2018-08-23,2018,8
+68,Luis Fonsi & Demi Lovato,Ã‰chame la culpa,Universal,39,6,2018-08-17,2018-08-23,2018,8
 69,Liam Payne & J Balvin,Familiar,Capitol,16,50,2018-08-17,2018-08-23,2018,8
 70,"Jugglerz feat. Miami Yacine, Bausa, Nura & Joshi Mizu",Fokus,Jugglerz Records,1,70,2018-08-17,2018-08-23,2018,8
 71,Panic! At The Disco,High Hopes,DCD2,2,71,2018-08-17,2018-08-23,2018,8
@@ -78,10 +78,10 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 77,Summer Cem feat. RAF Camora,Molotov,Banger Musik,3,27,2018-08-17,2018-08-23,2018,8
 78,Capital Bra feat. King Khalil,Kennzeichen B-TK,Team Kuku,8,4,2018-08-17,2018-08-23,2018,8
 79,Kontra K feat. RAF Camora,Fame,BMG,15,6,2018-08-17,2018-08-23,2018,8
-80,Zedd & Elley Duhé,Happy Now,Umgri,4,80,2018-08-17,2018-08-23,2018,8
+80,Zedd & Elley DuhÃ©,Happy Now,Umgri,4,80,2018-08-17,2018-08-23,2018,8
 81,Max Giesinger,Legenden,BMG,13,38,2018-08-17,2018-08-23,2018,8
 82,Ed Sheeran,Shape Of You,Atlantic,84,1,2018-08-17,2018-08-23,2018,8
-83,Pietro Lombardi,Phänomenal,Universal Domestic Polydor,13,1,2018-08-17,2018-08-23,2018,8
+83,Pietro Lombardi,PhÃ¤nomenal,Universal Domestic Polydor,13,1,2018-08-17,2018-08-23,2018,8
 84,Wincent Weiss,An Wunder,Universal Domestic Vertigo,18,12,2018-08-17,2018-08-23,2018,8
 85,Luis Fonsi feat. Daddy Yankee,Despacito,Universal,81,1,2018-08-17,2018-08-23,2018,8
 86,Kollegah & Farid Bang,Mitternacht 2,Banger Musik,4,19,2018-08-17,2018-08-23,2018,8

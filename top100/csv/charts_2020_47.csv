@@ -32,12 +32,12 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 31,Bozza,Elbe,Def Jam Germany,8,12,2020-11-20,2020-11-26,2020,11
 32,Felix Jaehn feat. Nea & Bryn Christopher,No Therapy,Virgin Records,12,31,2020-11-20,2020-11-26,2020,11
 33,Meduza feat. Dermot Kennedy,Paradise,Virgin Records,3,33,2020-11-20,2020-11-26,2020,11
-34,Tiësto,The Business,Atlantic,3,34,2020-11-20,2020-11-26,2020,11
+34,TiÃ«sto,The Business,Atlantic,3,34,2020-11-20,2020-11-26,2020,11
 35,Capo,Geisterstadt,Warner Music Germany,1,35,2020-11-20,2020-11-26,2020,11
 36,David Guetta & Sia,Let's Love,Parlophone Label Group,10,30,2020-11-20,2020-11-26,2020,11
 37,Bonez MC,Jetski,187 Strassenbande,2,15,2020-11-20,2020-11-26,2020,11
 38,Loredana & Delara,Checka,Loredana,8,2,2020-11-20,2020-11-26,2020,11
-39,Mark Forster,Übermorgen,SME - Marecs,29,7,2020-11-20,2020-11-26,2020,11
+39,Mark Forster,Ãœbermorgen,SME - Marecs,29,7,2020-11-20,2020-11-26,2020,11
 40,Dennis Lloyd,Alien,SME - Arista,12,32,2020-11-20,2020-11-26,2020,11
 41,Topic feat. A7S,Breaking Me,Virgin Records,46,3,2020-11-20,2020-11-26,2020,11
 42,DaBaby feat. Roddy Ricch,Rockstar,Interscope,31,3,2020-11-20,2020-11-26,2020,11
@@ -46,7 +46,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 45,BTS,Dynamite,2020 BigHit Entertainment,13,8,2020-11-20,2020-11-26,2020,11
 46,Justin Bieber feat. Chance The Rapper,Holy,Def Jam,9,22,2020-11-20,2020-11-26,2020,11
 47,Dermot Kennedy,Giants,Interscope,7,45,2020-11-20,2020-11-26,2020,11
-48,Apache 207,Bläulich,SME - Four Music / TwoSides,20,1,2020-11-20,2020-11-26,2020,11
+48,Apache 207,BlÃ¤ulich,SME - Four Music / TwoSides,20,1,2020-11-20,2020-11-26,2020,11
 49,Clean Bandit and Mabel feat. 24kGoldn,Tick Tock,Atlantic,10,48,2020-11-20,2020-11-26,2020,11
 50,Vize & Tom Gregory,Never Let Me Down,Kontor Records,30,8,2020-11-20,2020-11-26,2020,11
 51,Apache 207,Roller,SME - Four Music / TwoSides,65,1,2020-11-20,2020-11-26,2020,11
@@ -55,7 +55,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 54,Tones And I,Dance Monkey,Bad Batch Records,67,1,2020-11-20,2020-11-26,2020,11
 55,Bausa x Juju,2012,Warner Music Germany,13,2,2020-11-20,2020-11-26,2020,11
 56,Gentleman x Luciano x Ezhel,Devam,Urban,9,9,2020-11-20,2020-11-26,2020,11
-57,Monet192 feat. Takt32 & Badmómzjay,Sorry Not Sorry,Warner Music Germany,2,21,2020-11-20,2020-11-26,2020,11
+57,Monet192 feat. Takt32 & BadmÃ³mzjay,Sorry Not Sorry,Warner Music Germany,2,21,2020-11-20,2020-11-26,2020,11
 58,Nea,Some Say,SME - Milkshake,42,15,2020-11-20,2020-11-26,2020,11
 59,Harry Styles,Watermelon Sugar,SME - Columbia,23,15,2020-11-20,2020-11-26,2020,11
 60,Headie One feat. AJ Tracey & Stormzy,Ain't It Different,SME - Relentless Records,2,53,2020-11-20,2020-11-26,2020,11
@@ -70,16 +70,16 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 69,Samra,Rohdiamant II,Urban,7,1,2020-11-20,2020-11-26,2020,11
 70,Cardi B feat. Megan Thee Stallion,WAP,Atlantic,15,12,2020-11-20,2020-11-26,2020,11
 71,AC/DC,Realize,SME - Columbia,1,71,2020-11-20,2020-11-26,2020,11
-72,Maluma & The Weeknd,Hawái (Remix),SME - Sony Music,2,62,2020-11-20,2020-11-26,2020,11
-73,Mero feat. Nimo,Désolé,Groove Attack TraX,5,3,2020-11-20,2020-11-26,2020,11
+72,Maluma & The Weeknd,HawÃ¡i (Remix),SME - Sony Music,2,62,2020-11-20,2020-11-26,2020,11
+73,Mero feat. Nimo,DÃ©solÃ©,Groove Attack TraX,5,3,2020-11-20,2020-11-26,2020,11
 74,Clueso,Flugmodus,SME - Epic Domestic,15,62,2020-11-20,2020-11-26,2020,11
-75,Fousheé,Deep End,SME - Sony Music,4,75,2020-11-20,2020-11-26,2020,11
+75,FousheÃ©,Deep End,SME - Sony Music,4,75,2020-11-20,2020-11-26,2020,11
 76,Symba [DE],Battlefield Freestyle,SME - Symba,2,20,2020-11-20,2020-11-26,2020,11
 77,Tujamo - Vize - Majan,Lonely,Virgin Records,20,34,2020-11-20,2020-11-26,2020,11
 78,Ava Max,Kings & Queens,Atlantic,36,16,2020-11-20,2020-11-26,2020,11
 79,AC/DC,Shot In The Dark,SME - Columbia,2,79,2020-11-20,2020-11-26,2020,11
 80,Pashanim,Airwaves,Urban,27,2,2020-11-20,2020-11-26,2020,11
-81,Capital Bra x Cro,Frühstück in Paris,Urban,13,1,2020-11-20,2020-11-26,2020,11
+81,Capital Bra x Cro,FrÃ¼hstÃ¼ck in Paris,Urban,13,1,2020-11-20,2020-11-26,2020,11
 82,Celo & Abdi feat. Brudi030 & HK,Veteranos,385ideal,1,82,2020-11-20,2020-11-26,2020,11
 83,Ava Max,Who's Laughing Now?,Atlantic,15,65,2020-11-20,2020-11-26,2020,11
 84,Georg Stengel,Mars,We Love Music,15,68,2020-11-20,2020-11-26,2020,11

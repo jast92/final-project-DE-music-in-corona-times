@@ -1,5 +1,5 @@
 current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
-1,Namika feat. Black M,Je ne parle pas français (Beatgees Remix),Jive Germany,11,1,2018-06-29,2018-07-05,2018,6
+1,Namika feat. Black M,Je ne parle pas franÃ§ais (Beatgees Remix),Jive Germany,11,1,2018-06-29,2018-07-05,2018,6
 2,Die Fantastischen Vier feat. Clueso,Zusammen,Columbia,14,2,2018-06-29,2018-07-05,2018,6
 3,Clean Bandit feat. Demi Lovato,Solo,Atlantic,6,3,2018-06-29,2018-07-05,2018,6
 4,Capital Bra feat. King Khalil,Kennzeichen B-TK,Team Kuku,1,4,2018-06-29,2018-07-05,2018,6
@@ -13,12 +13,12 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 12,XXXTentacion,Sad!,Bad Vibes Forever,10,12,2018-06-29,2018-07-05,2018,6
 13,XXXTentacion,Changes,Bad Vibes Forever,3,13,2018-06-29,2018-07-05,2018,6
 14,Loredana,Sonnenbrille,Loredana,2,12,2018-06-29,2018-07-05,2018,6
-15,Pietro Lombardi,Phänomenal,Universal Domestic Polydor,6,1,2018-06-29,2018-07-05,2018,6
+15,Pietro Lombardi,PhÃ¤nomenal,Universal Domestic Polydor,6,1,2018-06-29,2018-07-05,2018,6
 16,David Guetta & Sia,Flames,Parlophone Label Group,14,7,2018-06-29,2018-07-05,2018,6
 17,Alvaro Soler,La cintura,Airforce1,13,8,2018-06-29,2018-07-05,2018,6
 18,Capital Bra feat. Capital T,Wann dann,Team Kuku,1,18,2018-06-29,2018-07-05,2018,6
 19,Post Malone,Better Now,Universal,9,11,2018-06-29,2018-07-05,2018,6
-20,Capital Bra,Giselle Bündchen,Team Kuku,1,20,2018-06-29,2018-07-05,2018,6
+20,Capital Bra,Giselle BÃ¼ndchen,Team Kuku,1,20,2018-06-29,2018-07-05,2018,6
 21,Dynoro & Gigi D'Agostino,In My Mind,B1 Recordings,3,17,2018-06-29,2018-07-05,2018,6
 22,Xatar feat. Azet,Balla,Alles Oder Nix Records,1,22,2018-06-29,2018-07-05,2018,6
 23,Capital Bra feat. AK Ausserkontrolle,Darby,Team Kuku,1,23,2018-06-29,2018-07-05,2018,6
@@ -50,8 +50,8 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 49,Kygo feat. Miguel,Remind Me To Forget,B1 Recordings,15,14,2018-06-29,2018-07-05,2018,6
 50,Jason Derulo,Colors,Beluga Heights,13,47,2018-06-29,2018-07-05,2018,6
 51,Olexesh feat. Edin,Magisch,385ideal,19,1,2018-06-29,2018-07-05,2018,6
-52,Luis Fonsi & Demi Lovato,Échame la culpa,Universal,32,6,2018-06-29,2018-07-05,2018,6
-53,Tiësto & Dzeko feat. Preme & Post Malone,Jackie Chan,Virgin Records,2,53,2018-06-29,2018-07-05,2018,6
+52,Luis Fonsi & Demi Lovato,Ã‰chame la culpa,Universal,32,6,2018-06-29,2018-07-05,2018,6
+53,TiÃ«sto & Dzeko feat. Preme & Post Malone,Jackie Chan,Virgin Records,2,53,2018-06-29,2018-07-05,2018,6
 54,Max Giesinger,Legenden,BMG,6,38,2018-06-29,2018-07-05,2018,6
 55,Summer Cem,Crew,Banger Musik,2,28,2018-06-29,2018-07-05,2018,6
 56,Marshmello & Anne-Marie,Friends,Atlantic,20,1,2018-06-29,2018-07-05,2018,6
@@ -96,6 +96,6 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 95,Sean Paul + David Guetta feat. Becky G,Mad Love,Island,19,10,2018-06-29,2018-07-05,2018,6
 96,Rita Ora / Cardi B / Bebe Rexha / Charli XCX,Girls,Atlantic,6,69,2018-06-29,2018-07-05,2018,6
 97,Michael Schulte,You Let Me Walk Alone,Very Us Records,8,3,2018-06-29,2018-07-05,2018,6
-98,"Gzuz feat. Bonez MC, Maxwell & Ufo361",Über Nacht,Universal Domestic Vertigo,6,6,2018-06-29,2018-07-05,2018,6
+98,"Gzuz feat. Bonez MC, Maxwell & Ufo361",Ãœber Nacht,Universal Domestic Vertigo,6,6,2018-06-29,2018-07-05,2018,6
 99,OneRepublic feat. Logic,Start Again,Umgri,2,87,2018-06-29,2018-07-05,2018,6
 100,Ed Sheeran,Shape Of You,Atlantic,77,1,2018-06-29,2018-07-05,2018,6

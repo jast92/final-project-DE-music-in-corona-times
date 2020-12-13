@@ -7,7 +7,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 6,Melanie Thornton,Wonderful Dream (Holidays Are Coming),X-Cell,119,3,2020-12-04,2020-12-10,2020,12
 7,Chris Rea,Driving Home For Christmas,Warner Music International,60,5,2020-12-04,2020-12-10,2020,12
 8,Lune,Gebe auf.,Lune,8,2,2020-12-04,2020-12-10,2020,12
-9,Michael Bublé,It's Beginning To Look A Lot Like Christmas,Reprise Records,17,9,2020-12-04,2020-12-10,2020,12
+9,Michael BublÃ©,It's Beginning To Look A Lot Like Christmas,Reprise Records,17,9,2020-12-04,2020-12-10,2020,12
 10,Shakin' Stevens,Merry Christmas Everyone,Epic,18,7,2020-12-04,2020-12-10,2020,12
 11,Ariana Grande,Santa Tell Me,Universal,15,11,2020-12-04,2020-12-10,2020,12
 12,Zuna,1 Stunde,KMN Gang,1,12,2020-12-04,2020-12-10,2020,12
@@ -16,9 +16,9 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 15,Kelly Clarkson,Underneath The Tree,RCA International,11,15,2020-12-04,2020-12-10,2020,12
 16,Internet Money & Gunna feat. Don Toliver & Nav,Lemonade,Internet Money,16,2,2020-12-04,2020-12-10,2020,12
 17,Billie Eilish,Therefore I Am,Interscope,3,5,2020-12-04,2020-12-10,2020,12
-18,Luciano [DE],AQUA,Urban,1,18,2020-12-04,2020-12-10,2020,12
+18,Luciano [DE],Aqua,Urban,1,18,2020-12-04,2020-12-10,2020,12
 19,Ofenbach & Quarterhead feat. Norma Jean Martine,Head Shoulders Knees & Toes,Spinnin' Records,18,6,2020-12-04,2020-12-10,2020,12
-20,Rolf Zuckowski und seine Freunde,In der Weihnachtsbäckerei,Musik für Dich,16,20,2020-12-04,2020-12-10,2020,12
+20,Rolf Zuckowski und seine Freunde,In der WeihnachtsbÃ¤ckerei,Musik fÃ¼r Dich,16,20,2020-12-04,2020-12-10,2020,12
 21,Shawn Mendes / Justin Bieber,Monster,Shawn Mendes LP4-5 PS,2,6,2020-12-04,2020-12-10,2020,12
 22,Robin Schulz feat. Kiddo,All We Got,Warner Music Germany,7,14,2020-12-04,2020-12-10,2020,12
 23,Vize x Joker Bra x Leony,Paradise,Kontor Records,15,4,2020-12-04,2020-12-10,2020,12
@@ -28,7 +28,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 27,Justin Bieber,Mistletoe,Island,14,27,2020-12-04,2020-12-10,2020,12
 28,Band Aid,Do They Know It's Christmas?,Mercury,49,1,2020-12-04,2020-12-10,2020,12
 29,Mark Forster x Vize,Bist du okay,Four Music,10,11,2020-12-04,2020-12-10,2020,12
-30,reezy feat. Nimo,Trance,Four Music / TwoSides,1,30,2020-12-04,2020-12-10,2020,12
+30,Reezy feat. Nimo,Trance,Four Music / TwoSides,1,30,2020-12-04,2020-12-10,2020,12
 31,The Weeknd,Blinding Lights,Republic Records,53,1,2020-12-04,2020-12-10,2020,12
 32,Miley Cyrus feat. Dua Lipa,Prisoner,RCA International,2,20,2020-12-04,2020-12-10,2020,12
 33,Purple Disco Machine & Sophie And The Giants,Hypnotized,Columbia,18,18,2020-12-04,2020-12-10,2020,12
@@ -39,8 +39,8 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 38,Queen,Thank God It's Christmas,Universal,19,16,2020-12-04,2020-12-10,2020,12
 39,Justin Bieber & Benny Blanco,Lonely,Def Jam,7,9,2020-12-04,2020-12-10,2020,12
 40,Pentatonix,Hallelujah,RCA International,24,4,2020-12-04,2020-12-10,2020,12
-41,Tiësto,The Business,Atlantic,5,34,2020-12-04,2020-12-10,2020,12
-42,José Feliciano,Feliz Navidad,RCA International,45,15,2020-12-04,2020-12-10,2020,12
+41,TiÃ«sto,The Business,Atlantic,5,34,2020-12-04,2020-12-10,2020,12
+42,JosÃ© Feliciano,Feliz Navidad,RCA International,45,15,2020-12-04,2020-12-10,2020,12
 43,Casar,Habibi,Urban,4,9,2020-12-04,2020-12-10,2020,12
 44,Ariana Grande,Positions,Republic Records,6,9,2020-12-04,2020-12-10,2020,12
 45,Bozza x Sido,Woher,Def Jam Germany,2,9,2020-12-04,2020-12-10,2020,12
@@ -60,7 +60,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 59,Samra,Kennst du das?!,Urban,3,1,2020-12-04,2020-12-10,2020,12
 60,CJ,Whoopty,Equity Distribution,4,51,2020-12-04,2020-12-10,2020,12
 61,Dennis Lloyd,Alien,Sony Music,14,32,2020-12-04,2020-12-10,2020,12
-62,Mark Forster,Übermorgen,Four Music,31,7,2020-12-04,2020-12-10,2020,12
+62,Mark Forster,Ãœbermorgen,Four Music,31,7,2020-12-04,2020-12-10,2020,12
 63,Dean Martin,Let It Snow! Let It Snow! Let It Snow!,Capitol,7,52,2020-12-04,2020-12-10,2020,12
 64,BTS,Dynamite,2020 BigHit Entertainment,15,8,2020-12-04,2020-12-10,2020,12
 65,Felix Jaehn feat. Nea & Bryn Christopher,No Therapy,Virgin Records,14,31,2020-12-04,2020-12-10,2020,12
@@ -74,14 +74,14 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 73,SAINt JHN,Roses (Imanbek Remix),Columbia / B1,53,3,2020-12-04,2020-12-10,2020,12
 74,Tones And I,Dance Monkey,Bad Batch Records,69,1,2020-12-04,2020-12-10,2020,12
 75,Ufo361,Emotions,Stay High,32,1,2020-12-04,2020-12-10,2020,12
-76,Apache 207,Bläulich,Four Music / TwoSides,22,1,2020-12-04,2020-12-10,2020,12
+76,Apache 207,BlÃ¤ulich,Four Music / TwoSides,22,1,2020-12-04,2020-12-10,2020,12
 77,Lil Nas X,Holiday,Columbia,1,77,2020-12-04,2020-12-10,2020,12
 78,Jason Derulo x Nuka,Love Not War (The Tampa Beat),Columbia,2,72,2020-12-04,2020-12-10,2020,12
 79,Meghan Trainor,I'll Be Home,Epic,4,45,2020-12-04,2020-12-10,2020,12
 80,Pop Smoke feat. Lil Baby & DaBaby,For The Night,Republic Records,17,28,2020-12-04,2020-12-10,2020,12
 81,Studio Killers,Jenny,Studio Killers Records,1,81,2020-12-04,2020-12-10,2020,12
 82,Pashanim,Airwaves,Urban,29,2,2020-12-04,2020-12-10,2020,12
-83,Michael Bublé,White Christmas,Reprise Records,1,83,2020-12-04,2020-12-10,2020,12
+83,Michael BublÃ©,White Christmas,Reprise Records,1,83,2020-12-04,2020-12-10,2020,12
 84,Vize & Tom Gregory,Never Let Me Down,Kontor Records,32,8,2020-12-04,2020-12-10,2020,12
 85,Clean Bandit and Mabel feat. 24kGoldn,Tick Tock,Atlantic,12,48,2020-12-04,2020-12-10,2020,12
 86,Dermot Kennedy,Giants,Interscope,9,45,2020-12-04,2020-12-10,2020,12
@@ -95,7 +95,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 94,Clueso,Flugmodus,Epic,17,62,2020-12-04,2020-12-10,2020,12
 95,Michael Schulte,For A Second,Very Us Records,6,61,2020-12-04,2020-12-10,2020,12
 96,The Ronettes,Sleigh Ride,Sony Music,3,75,2020-12-04,2020-12-10,2020,12
-97,The Kingdom Choir feat. Camélia Jordana & Namika,Holidays Are Coming,Sony Music,3,97,2020-12-04,2020-12-10,2020,12
+97,The Kingdom Choir feat. CamÃ©lia Jordana & Namika,Holidays Are Coming,Sony Music,3,97,2020-12-04,2020-12-10,2020,12
 98,Gentleman x Luciano x Ezhel,Devam,Urban,11,9,2020-12-04,2020-12-10,2020,12
 99,Kool Savas x Alies,AMG,Sony Music / Essah Media GmbH,17,19,2020-12-04,2020-12-10,2020,12
-100,Michael Bublé,Holly Jolly Christmas,Reprise Records,3,69,2020-12-04,2020-12-10,2020,12
+100,Michael BublÃ©,Holly Jolly Christmas,Reprise Records,3,69,2020-12-04,2020-12-10,2020,12

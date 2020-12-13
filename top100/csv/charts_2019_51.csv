@@ -22,7 +22,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 21,Dua Lipa,Don't Start Now,Urban,7,16,2019-12-20,2019-12-26,2019,12
 22,Melanie Thornton,Wonderful Dream (Holidays Are Coming),X-Cell,116,3,2019-12-20,2019-12-26,2019,12
 23,Sido feat. Apache 207,2002,Urban,12,6,2019-12-20,2019-12-26,2019,12
-24,Mark Forster,194 Länder,SME - Four Music,13,13,2019-12-20,2019-12-26,2019,12
+24,Mark Forster,194 LÃ¤nder,SME - Four Music,13,13,2019-12-20,2019-12-26,2019,12
 25,Nimo,Karma,Urban,7,4,2019-12-20,2019-12-26,2019,12
 26,"The Cratez, Luciano & Kontra K",Himmel grau,SME - RBK,2,11,2019-12-20,2019-12-26,2019,12
 27,Juju feat. Henning May,Vermissen,Jinx Music,33,1,2019-12-20,2019-12-26,2019,12
@@ -44,25 +44,25 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 43,Veysel,Sorry,Urban,3,18,2019-12-20,2019-12-26,2019,12
 44,Apache 207,Sex mit dir,SME - Two Sides,6,13,2019-12-20,2019-12-26,2019,12
 45,Apache 207,Kein Problem,SME - Two Sides,17,17,2019-12-20,2019-12-26,2019,12
-46,Michael Bublé,It's Beginning To Look A Lot Like Christmas,Reprise,14,15,2019-12-20,2019-12-26,2019,12
+46,Michael BublÃ©,It's Beginning To Look A Lot Like Christmas,Reprise,14,15,2019-12-20,2019-12-26,2019,12
 47,Juice WRLD,Lucid Dreams (Forget Me),Juice WRLD Mixtape,23,36,2019-12-20,2019-12-26,2019,12
 48,Black Eyed Peas x J Balvin,Ritmo (Bad Boys For Life),Epic,7,44,2019-12-20,2019-12-26,2019,12
-49,José Feliciano,Feliz Navidad,SME - RCA International,43,19,2019-12-20,2019-12-26,2019,12
+49,JosÃ© Feliciano,Feliz Navidad,SME - RCA International,43,19,2019-12-20,2019-12-26,2019,12
 50,Lil Nas X,Old Town Road,SME - Columbia,38,1,2019-12-20,2019-12-26,2019,12
 51,Band Aid,Do They Know It's Christmas?,Mercury,47,1,2019-12-20,2019-12-26,2019,12
-52,Fero47,Désolé,SME - Epic,3,25,2019-12-20,2019-12-26,2019,12
+52,Fero47,DÃ©solÃ©,SME - Epic,3,25,2019-12-20,2019-12-26,2019,12
 53,Pentatonix,Hallelujah,SME - RCA International,22,4,2019-12-20,2019-12-26,2019,12
 54,Sarah Connor,Vincent,Universal Domestic Polydor,37,9,2019-12-20,2019-12-26,2019,12
 55,Jerome [DE],Light,Kontor Records,8,40,2019-12-20,2019-12-26,2019,12
 56,Paul McCartney,Wonderful Christmastime,Capitol,12,13,2019-12-20,2019-12-26,2019,12
 57,RIN,Bietigheimication,SME - Division,3,15,2019-12-20,2019-12-26,2019,12
-58,Shawn Mendes & Camila Cabello,Señorita,Island,26,1,2019-12-20,2019-12-26,2019,12
+58,Shawn Mendes & Camila Cabello,SeÃ±orita,Island,26,1,2019-12-20,2019-12-26,2019,12
 59,Tim Bendzko,Hoch,SME - Jive Germany,18,10,2019-12-20,2019-12-26,2019,12
 60,Queen,Thank God It's Christmas,Universal,17,16,2019-12-20,2019-12-26,2019,12
 61,Ed Sheeran feat. Camila Cabello & Cardi B,South Of The Border,Atlantic,14,33,2019-12-20,2019-12-26,2019,12
 62,The Cratez & Bonez MC,Honda Civic,SME - RBK,12,5,2019-12-20,2019-12-26,2019,12
 63,SAINt JHN,Roses (Imanbek Remix),B1 Recordings,3,63,2019-12-20,2019-12-26,2019,12
-64,Rolf Zuckowski und seine Freunde,In der Weihnachtsbäckerei,Musik für Dich,13,54,2019-12-20,2019-12-26,2019,12
+64,Rolf Zuckowski und seine Freunde,In der WeihnachtsbÃ¤ckerei,Musik fÃ¼r Dich,13,54,2019-12-20,2019-12-26,2019,12
 65,RIN,Vintage,SME - Division,10,6,2019-12-20,2019-12-26,2019,12
 66,Kelly Clarkson,Underneath The Tree,SME - RCA International,8,23,2019-12-20,2019-12-26,2019,12
 67,Selena Gomez,Lose You To Love Me,Interscope,9,7,2019-12-20,2019-12-26,2019,12
@@ -79,7 +79,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 78,Brenda Lee,Rockin' Around The Christmas Tree,Universal,8,26,2019-12-20,2019-12-26,2019,12
 79,Samra & Capital Bra,Wieder Lila,Urban,31,1,2019-12-20,2019-12-26,2019,12
 80,Reezy feat. Summer Cem,Phantom,SME - Two Sides,8,9,2019-12-20,2019-12-26,2019,12
-81,RIN,Fabergé,SME - Division,11,7,2019-12-20,2019-12-26,2019,12
+81,RIN,FabergÃ©,SME - Division,11,7,2019-12-20,2019-12-26,2019,12
 82,Harry Styles,Adore You,SME - Columbia,2,82,2019-12-20,2019-12-26,2019,12
 83,Dermot Kennedy,Outnumbered,Interscope,11,45,2019-12-20,2019-12-26,2019,12
 84,RAF Camora feat. Bonez MC,Unnormal,Indipendenza,7,13,2019-12-20,2019-12-26,2019,12
