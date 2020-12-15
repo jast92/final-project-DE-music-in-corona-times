@@ -1,5 +1,5 @@
 current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
-1,Die Ã„rzte,True Romance,Hot Action Records,1,1,2020-10-16,2020-10-22,2020,10
+1,Die Ärzte,True Romance,Hot Action Records,1,1,2020-10-16,2020-10-22,2020,10
 2,24kGoldn feat. Iann Dior,Mood,SME - Columbia,8,1,2020-10-16,2020-10-22,2020,10
 3,Internet Money & Gunna feat. Don Toliver & Nav,Lemonade,Internet Money,9,3,2020-10-16,2020-10-22,2020,10
 4,Joel Corry feat. MNEK,Head & Heart,Atlantic,13,4,2020-10-16,2020-10-22,2020,10
@@ -20,11 +20,11 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 19,Twocolors,Lovefool,Virgin Records,17,11,2020-10-16,2020-10-22,2020,10
 20,Lune,Gebe auf.,Lune,1,20,2020-10-16,2020-10-22,2020,10
 21,The Weeknd,Blinding Lights,Republic Records,46,1,2020-10-16,2020-10-22,2020,10
-22,Apache 207,BlÃ¤ulich,SME - Four Music / Two Sides,15,1,2020-10-16,2020-10-22,2020,10
+22,Apache 207,Bläulich,SME - Four Music / Two Sides,15,1,2020-10-16,2020-10-22,2020,10
 23,KC Rebell x Summer Cem,Anani bacini,Banger Musik,1,23,2020-10-16,2020-10-22,2020,10
 24,Bausa x Juju,2012,Warner Music Germany,8,2,2020-10-16,2020-10-22,2020,10
 25,Gentleman x Luciano x Ezhel,Devam,Urban,4,9,2020-10-16,2020-10-22,2020,10
-26,Capital Bra x Cro,FrÃ¼hstÃ¼ck in Paris,Urban,8,1,2020-10-16,2020-10-22,2020,10
+26,Capital Bra x Cro,Frühstück in Paris,Urban,8,1,2020-10-16,2020-10-22,2020,10
 27,Kool Savas x Alies,AMG,SME - Essah Media GmbH,10,19,2020-10-16,2020-10-22,2020,10
 28,Pop Smoke feat. Lil Baby & DaBaby,For The Night,Victor Victor Worldwide,10,28,2020-10-16,2020-10-22,2020,10
 29,DaBaby feat. Roddy Ricch,Rockstar,Interscope,26,3,2020-10-16,2020-10-22,2020,10
@@ -32,7 +32,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 31,Bozza,Elbe,Def Jam Germany,3,12,2020-10-16,2020-10-22,2020,10
 32,HVME,Goosebumps,B1 Recordings,4,32,2020-10-16,2020-10-22,2020,10
 33,Felix Jaehn feat. Nea & Bryn Christopher,No Therapy,Virgin Records,7,33,2020-10-16,2020-10-22,2020,10
-34,Mark Forster,Ãœbermorgen,SME - Marecs,24,7,2020-10-16,2020-10-22,2020,10
+34,Mark Forster,Übermorgen,SME - Marecs,24,7,2020-10-16,2020-10-22,2020,10
 35,Miley Cyrus,Midnight Sky,SME - RCA Domestic,9,35,2020-10-16,2020-10-22,2020,10
 36,Bonez MC,Fuckst mich nur ab,187 Strassenbande,6,1,2020-10-16,2020-10-22,2020,10
 37,Cardi B feat. Megan Thee Stallion,WAP,Atlantic,10,12,2020-10-16,2020-10-22,2020,10
@@ -49,7 +49,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 48,David Guetta & Sia,Let's Love,Parlophone Label Group,5,48,2020-10-16,2020-10-22,2020,10
 49,SAINt JHN,Roses (Imanbek Remix),B1 Recordings,46,3,2020-10-16,2020-10-22,2020,10
 50,BTS,Dynamite,2020 BigHit Entertainment,8,8,2020-10-16,2020-10-22,2020,10
-51,Chapo102 x Kasimir1441,Wach,Chucky die MÃ¶rdertruppe,1,51,2020-10-16,2020-10-22,2020,10
+51,Chapo102 x Kasimir1441,Wach,Chucky die Mördertruppe,1,51,2020-10-16,2020-10-22,2020,10
 52,Topic feat. A7S,Breaking Me,Virgin Records,41,3,2020-10-16,2020-10-22,2020,10
 53,Capital Bra,Einsam an der Spitze,Urban,4,2,2020-10-16,2020-10-22,2020,10
 54,Nea,Some Say,SME - Milkshake,37,15,2020-10-16,2020-10-22,2020,10
@@ -96,6 +96,6 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 95,Miksu / Macloud / Summer Cem / Luciano / Jamule,XXL,Futura,16,2,2020-10-16,2020-10-22,2020,10
 96,"Bonez MC feat. Gzuz, Maxwell, LX & SA4",187 Gang,187 Strassenbande,3,52,2020-10-16,2020-10-22,2020,10
 97,Travis Scott feat. Young Thug & M.I.A.,Franchise,SME - Epic,3,35,2020-10-16,2020-10-22,2020,10
-98,Kasimir1441 & Chapo102,Parkbank,Chucky die MÃ¶rdertruppe,3,37,2020-10-16,2020-10-22,2020,10
+98,Kasimir1441 & Chapo102,Parkbank,Chucky die Mördertruppe,3,37,2020-10-16,2020-10-22,2020,10
 99,Seeed,Hale-Bopp,BMG,11,55,2020-10-16,2020-10-22,2020,10
-100,BadmÃ³mzjay,Supernova,Universal Domestic Vertigo,1,100,2020-10-16,2020-10-22,2020,10
+100,Badmómzjay,Supernova,Universal Domestic Vertigo,1,100,2020-10-16,2020-10-22,2020,10

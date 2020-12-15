@@ -12,7 +12,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 11,Jonas Blue feat. Jack & Jack,Rise,Virgin Records,15,8,2018-09-07,2018-09-13,2018,9
 12,George Ezra,Shotgun,Columbia,7,12,2018-09-07,2018-09-13,2018,9
 13,Calvin Harris & Sam Smith,Promises,Columbia,3,13,2018-09-07,2018-09-13,2018,9
-14,Leon MachÃ¨re,Copacabana,PMR Music,6,14,2018-09-07,2018-09-13,2018,9
+14,Leon Machère,Copacabana,PMR Music,6,14,2018-09-07,2018-09-13,2018,9
 15,Armin van Buuren,Blah Blah Blah,Kontor Records,8,15,2018-09-07,2018-09-13,2018,9
 16,Summer Cem & Bausa,Casanova,Banger Musik,15,4,2018-09-07,2018-09-13,2018,9
 17,Bausa,Vagabund,Warner Music Germany,2,10,2018-09-07,2018-09-13,2018,9
@@ -20,7 +20,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 19,Eminem feat. Joyner Lucas,Lucky You,Interscope,1,19,2018-09-07,2018-09-13,2018,9
 20,"Alle Farben, Kelvin Jones & Younotus",Only Thing We Know,B1 Recordings,10,20,2018-09-07,2018-09-13,2018,9
 21,Eminem,The Ringer,Interscope,1,21,2018-09-07,2018-09-13,2018,9
-22,Namika feat. Black M,Je ne parle pas franÃ§ais (Beatgees Remix),Jive Germany,21,1,2018-09-07,2018-09-13,2018,9
+22,Namika feat. Black M,Je ne parle pas français (Beatgees Remix),Jive Germany,21,1,2018-09-07,2018-09-13,2018,9
 23,Drake,In My Feelings,Republic Records,10,4,2018-09-07,2018-09-13,2018,9
 24,Dennis Lloyd,Nevermind,Warner Music International,24,3,2018-09-07,2018-09-13,2018,9
 25,Eno,Mercedes,Alles Oder Nix Records,7,6,2018-09-07,2018-09-13,2018,9
@@ -33,7 +33,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 32,Anne-Marie,2002,Atlantic,16,18,2018-09-07,2018-09-13,2018,9
 33,Panic! At The Disco,High Hopes,Atlantic,5,33,2018-09-07,2018-09-13,2018,9
 34,"DJ Khaled feat. Justin Bieber, Chance The Rapper & Quavo",No Brainer,Epic,6,15,2018-09-07,2018-09-13,2018,9
-35,TiÃ«sto & Dzeko feat. Preme & Post Malone,Jackie Chan,Virgin Records,12,25,2018-09-07,2018-09-13,2018,9
+35,Tiësto & Dzeko feat. Preme & Post Malone,Jackie Chan,Virgin Records,12,25,2018-09-07,2018-09-13,2018,9
 36,Marshmello & Bastille,Happier,Astralwerk,3,36,2018-09-07,2018-09-13,2018,9
 37,Eminem,Fall,Interscope,1,37,2018-09-07,2018-09-13,2018,9
 38,Capital Bra,One Night Stand,Team Kuku,15,1,2018-09-07,2018-09-13,2018,9
@@ -48,7 +48,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 47,Katja Krasavice,Sex Tape,PMR Music,4,6,2018-09-07,2018-09-13,2018,9
 48,Miami Yacine,Testarossa,KMN Gang,3,21,2018-09-07,2018-09-13,2018,9
 49,Marteria & Casper,Chardonnay & Purple Haze,Zwei Bernds tanken super,2,44,2018-09-07,2018-09-13,2018,9
-50,Bushido feat. Samra & Capital Bra,FÃ¼r euch alle,Bushido,9,1,2018-09-07,2018-09-13,2018,9
+50,Bushido feat. Samra & Capital Bra,Für euch alle,Bushido,9,1,2018-09-07,2018-09-13,2018,9
 51,Felix Jaehn feat. R. City & Bori,Jennie,Virgin Records,12,40,2018-09-07,2018-09-13,2018,9
 52,Kay One,Es tut mir leid,Embassy Of Music,1,52,2018-09-07,2018-09-13,2018,9
 53,Eminem,Kamikaze,Interscope,1,53,2018-09-07,2018-09-13,2018,9
@@ -72,8 +72,8 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 71,Eminem,Normal,Interscope,1,71,2018-09-07,2018-09-13,2018,9
 72,Eli,Change Your Mind,Prime Entertainment Records,21,14,2018-09-07,2018-09-13,2018,9
 73,Marteria & Casper,Willkommen in der Vorstadt,Zwei Bernds tanken super,1,73,2018-09-07,2018-09-13,2018,9
-74,Zedd & Elley DuhÃ©,Happy Now,Umgri,7,64,2018-09-07,2018-09-13,2018,9
-75,Josh.,Cordula GrÃ¼n,echopilot music,2,75,2018-09-07,2018-09-13,2018,9
+74,Zedd & Elley Duhé,Happy Now,Umgri,7,64,2018-09-07,2018-09-13,2018,9
+75,Josh.,Cordula Grün,echopilot music,2,75,2018-09-07,2018-09-13,2018,9
 76,Noizy feat. RAF Camora,Toto,Warner Music Germany,12,18,2018-09-07,2018-09-13,2018,9
 77,6ix9ine feat. Anuel AA,Bebe,Caroline Distribution,1,77,2018-09-07,2018-09-13,2018,9
 78,Ariana Grande,Breathin,Universal,3,35,2018-09-07,2018-09-13,2018,9

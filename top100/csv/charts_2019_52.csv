@@ -12,8 +12,8 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 11,Ariana Grande,Santa Tell Me,Universal,13,11,2019-12-27,2020-01-02,2019,12
 12,Paul McCartney,Wonderful Christmastime,Capitol,13,12,2019-12-27,2020-01-02,2019,12
 13,Nimo & Hava,Kein Schlaf,Urban,3,1,2019-12-27,2020-01-02,2019,12
-14,Michael BublÃ©,It's Beginning To Look A Lot Like Christmas,Reprise,15,14,2019-12-27,2020-01-02,2019,12
-15,JosÃ© Feliciano,Feliz Navidad,SME - RCA International,44,15,2019-12-27,2020-01-02,2019,12
+14,Michael Bublé,It's Beginning To Look A Lot Like Christmas,Reprise,15,14,2019-12-27,2020-01-02,2019,12
+15,José Feliciano,Feliz Navidad,SME - RCA International,44,15,2019-12-27,2020-01-02,2019,12
 16,Queen,Thank God It's Christmas,Universal,18,16,2019-12-27,2020-01-02,2019,12
 17,Band Aid,Do They Know It's Christmas?,Mercury,48,1,2019-12-27,2020-01-02,2019,12
 18,Regard,Ride It,SME - B1 Recordings,14,7,2019-12-27,2020-01-02,2019,12
@@ -32,12 +32,12 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 31,Tyga,Ayy Macarena,SME - Columbia,6,12,2019-12-27,2020-01-02,2019,12
 32,Bobby Helms,Jingle Bell Rock,K-Tel,9,32,2019-12-27,2020-01-02,2019,12
 33,RIN,Alien,SME - Division,3,8,2019-12-27,2020-01-02,2019,12
-34,Mark Forster,194 LÃ¤nder,SME - Four Music,14,13,2019-12-27,2020-01-02,2019,12
+34,Mark Forster,194 Länder,SME - Four Music,14,13,2019-12-27,2020-01-02,2019,12
 35,Dua Lipa,Don't Start Now,Urban,8,16,2019-12-27,2020-01-02,2019,12
 36,Nimo & Luciano,Star,Urban,1,36,2019-12-27,2020-01-02,2019,12
 37,Capital Bra,Der Bratan bleibt der gleiche,Urban,4,1,2019-12-27,2020-01-02,2019,12
-38,Rolf Zuckowski und seine Freunde,In der WeihnachtsbÃ¤ckerei,Musik fÃ¼r Dich,14,38,2019-12-27,2020-01-02,2019,12
-39,Michael BublÃ© & Shania Twain,White Christmas,Reprise,5,35,2019-12-27,2020-01-02,2019,12
+38,Rolf Zuckowski und seine Freunde,In der Weihnachtsbäckerei,Musik für Dich,14,38,2019-12-27,2020-01-02,2019,12
+39,Michael Bublé & Shania Twain,White Christmas,Reprise,5,35,2019-12-27,2020-01-02,2019,12
 40,Andy Williams,It's The Most Wonderful Time Of The Year,SME - Sony Music,5,40,2019-12-27,2020-01-02,2019,12
 41,Daryl Hall & John Oates,Jingle Bell Rock (Daryl's Version),SME - Sony Music,3,30,2019-12-27,2020-01-02,2019,12
 42,Nimo,Karma,Urban,8,4,2019-12-27,2020-01-02,2019,12
@@ -56,7 +56,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 55,Sarah Connor,The Best Side Of Life,X-Cell,22,4,2019-12-27,2020-01-02,2019,12
 56,Arizona Zervas,Roxanne,SME - Arizona Zervas,7,35,2019-12-27,2020-01-02,2019,12
 57,Samra,95 BPM,Urban,2,16,2019-12-27,2020-01-02,2019,12
-58,Gzuz,Vor der TÃ¼r,187 Strassenbande,1,58,2019-12-27,2020-01-02,2019,12
+58,Gzuz,Vor der Tür,187 Strassenbande,1,58,2019-12-27,2020-01-02,2019,12
 59,Dean Martin,Let It Snow! Let It Snow! Let It Snow!,Capitol,6,52,2019-12-27,2020-01-02,2019,12
 60,Sia,Santa's Coming For Us,Atlantic,3,50,2019-12-27,2020-01-02,2019,12
 61,SAINt JHN,Roses (Imanbek Remix),SME - B1 Recordings,4,61,2019-12-27,2020-01-02,2019,12
@@ -67,7 +67,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 66,Slade,Merry Xmas Everybody,Polydor,16,4,2019-12-27,2020-01-02,2019,12
 67,Bing Crosby,White Christmas,Universal,11,53,2019-12-27,2020-01-02,2019,12
 68,Kylie Minogue,Santa Baby,Parlophone Label Group,2,60,2019-12-27,2020-01-02,2019,12
-69,Michael BublÃ©,Holly Jolly Christmas,Reprise,2,69,2019-12-27,2020-01-02,2019,12
+69,Michael Bublé,Holly Jolly Christmas,Reprise,2,69,2019-12-27,2020-01-02,2019,12
 70,Elton John,Step Into Christmas,Mercury,3,69,2019-12-27,2020-01-02,2019,12
 71,Meduza x Becky Hill x Goodboys,Lose Control,Virgin Records,11,32,2019-12-27,2020-01-02,2019,12
 72,Kianush & PA Sports,Casino Royal,Life Is Pain,3,28,2019-12-27,2020-01-02,2019,12
@@ -78,7 +78,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 77,Post Malone,Circles,Republic Records,17,17,2019-12-27,2020-01-02,2019,12
 78,Lil Nas X,Old Town Road,SME - Columbia,39,1,2019-12-27,2020-01-02,2019,12
 79,*N Sync,"Merry Christmas, Happy Holidays",SME - Sony Music,3,57,2019-12-27,2020-01-02,2019,12
-80,Michael BublÃ©,All I Want For Christmas Is You,Reprise,1,80,2019-12-27,2020-01-02,2019,12
+80,Michael Bublé,All I Want For Christmas Is You,Reprise,1,80,2019-12-27,2020-01-02,2019,12
 81,Jerome [DE],Light,Kontor Records,9,40,2019-12-27,2020-01-02,2019,12
 82,Sarah Connor,Vincent,Universal Domestic Polydor,38,9,2019-12-27,2020-01-02,2019,12
 83,The Ronettes,Sleigh Ride,SME - Sony Music,2,75,2019-12-27,2020-01-02,2019,12
@@ -91,11 +91,11 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 90,Capital Bra x Samra,Tilidin,Urban,27,1,2019-12-27,2020-01-02,2019,12
 91,Frank Sinatra,Santa Claus Is Coming To Town,SME - Sony Music,2,85,2019-12-27,2020-01-02,2019,12
 92,Band Aid 30,Do They Know It's Christmas? (2014),EMI,11,2,2019-12-27,2020-01-02,2019,12
-93,Shawn Mendes & Camila Cabello,SeÃ±orita,Island,27,1,2019-12-27,2020-01-02,2019,12
+93,Shawn Mendes & Camila Cabello,Señorita,Island,27,1,2019-12-27,2020-01-02,2019,12
 94,Tim Bendzko,Hoch,SME - Jive Germany,19,10,2019-12-27,2020-01-02,2019,12
-95,Eartha Kitt with Henri RenÃ© and his Orchestra,Santa Baby,SME - Columbia,3,73,2019-12-27,2020-01-02,2019,12
-96,Michael BublÃ©,Santa Claus Is Coming To Town,Reprise,2,66,2019-12-27,2020-01-02,2019,12
+95,Eartha Kitt with Henri René and his Orchestra,Santa Baby,SME - Columbia,3,73,2019-12-27,2020-01-02,2019,12
+96,Michael Bublé,Santa Claus Is Coming To Town,Reprise,2,66,2019-12-27,2020-01-02,2019,12
 97,Apache 207,Sex mit dir,SME - Two Sides,7,13,2019-12-27,2020-01-02,2019,12
 98,"The Cratez, Luciano & Kontra K",Himmel grau,SME - RBK,3,11,2019-12-27,2020-01-02,2019,12
-99,The Kingdom Choir feat. CamÃ©lia Jordana & Namika,Holidays Are Coming,SME - Sony Music,2,99,2019-12-27,2020-01-02,2019,12
+99,The Kingdom Choir feat. Camélia Jordana & Namika,Holidays Are Coming,SME - Sony Music,2,99,2019-12-27,2020-01-02,2019,12
 100,Boney M.,Mary's Boy Child / Oh My Lord,SME - Sony Music,14,1,2019-12-27,2020-01-02,2019,12

@@ -2,7 +2,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 1,Apache 207,Roller,SME - Two Sides,2,1,2019-09-06,2019-09-12,2019,9
 2,RIN,Up In Smoke,SME - Division,1,2,2019-09-06,2019-09-12,2019,9
 3,Tones And I,Dance Monkey,Bad Batch Records,4,3,2019-09-06,2019-09-12,2019,9
-4,Shawn Mendes & Camila Cabello,SeÃ±orita,Island,11,1,2019-09-06,2019-09-12,2019,9
+4,Shawn Mendes & Camila Cabello,Señorita,Island,11,1,2019-09-06,2019-09-12,2019,9
 5,RAF Camora,Vendetta,Indipendenza,1,5,2019-09-06,2019-09-12,2019,9
 6,Luciano feat. Ufo361 & Lil Baby,Fendi Drip,Universal Domestic Urban,1,6,2019-09-06,2019-09-12,2019,9
 7,Capital Bra x Samra,Nummer 1,Universal Domestic Urban,2,1,2019-09-06,2019-09-12,2019,9
@@ -10,7 +10,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 9,Summer Cem,Primetime,Banger Musik,1,9,2019-09-06,2019-09-12,2019,9
 10,DJ Snake & J Balvin feat. Tyga,Loco contigo,Geffen Records,12,3,2019-09-06,2019-09-12,2019,9
 11,Ed Sheeran feat. Khalid,Beautiful People,Atlantic,10,5,2019-09-06,2019-09-12,2019,9
-12,Miami Yacine,Intro RÃ©sumÃ©,KMN Gang,2,5,2019-09-06,2019-09-12,2019,9
+12,Miami Yacine,Intro Résumé,KMN Gang,2,5,2019-09-06,2019-09-12,2019,9
 13,Shirin David,Brillis,Juicy Money Records,2,4,2019-09-06,2019-09-12,2019,9
 14,Lil Nas X,Old Town Road,SME - Columbia,23,1,2019-09-06,2019-09-12,2019,9
 15,Meduza feat. Goodboys,Piece Of Your Heart,Virgin Records,18,4,2019-09-06,2019-09-12,2019,9
@@ -42,7 +42,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 41,Ufo361 feat. RAF Camora,Nummer,Stay High,6,2,2019-09-06,2019-09-12,2019,9
 42,Summer Cem feat. Capital Bra,Diamonds,Banger Musik,12,3,2019-09-06,2019-09-12,2019,9
 43,Summer Cem feat. KC Rebell,Rollerblades,Banger Musik,4,8,2019-09-06,2019-09-12,2019,9
-44,Robin Schulz feat. HarlÅ“,All This Love,Warner Music Germany,17,24,2019-09-06,2019-09-12,2019,9
+44,Robin Schulz feat. Harlœ,All This Love,Warner Music Germany,17,24,2019-09-06,2019-09-12,2019,9
 45,R3hab x A Touch Of Class,All Around The World (La La La),Virgin Records,14,29,2019-09-06,2019-09-12,2019,9
 46,Luciano [DE],La haine,Universal Domestic Urban,14,4,2019-09-06,2019-09-12,2019,9
 47,Y2K & bbno$,Lalala,SME - Columbia,7,47,2019-09-06,2019-09-12,2019,9
@@ -52,9 +52,9 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 51,Apache 207,Kein Problem,SME - Two Sides,2,51,2019-09-06,2019-09-12,2019,9
 52,Luciano [DE],Im Film,Universal Domestic Urban,7,12,2019-09-06,2019-09-12,2019,9
 53,Daddy Yankee feat. Snow,Con calma,Universal,29,6,2019-09-06,2019-09-12,2019,9
-54,Shirin David feat. MaÃ®tre Gims,On Off,Shirin David Music,10,3,2019-09-06,2019-09-12,2019,9
+54,Shirin David feat. Maître Gims,On Off,Shirin David Music,10,3,2019-09-06,2019-09-12,2019,9
 55,Sam Smith,How Do You Sleep?,Capitol,7,43,2019-09-06,2019-09-12,2019,9
-56,Pedro CapÃ³,Calma,Sony Music,14,33,2019-09-06,2019-09-12,2019,9
+56,Pedro Capó,Calma,Sony Music,14,33,2019-09-06,2019-09-12,2019,9
 57,Mero,No Name,Groove Attack TraX,2,17,2019-09-06,2019-09-12,2019,9
 58,Mabel [UK],Mad Love,Polydor,10,54,2019-09-06,2019-09-12,2019,9
 59,Bausa,Mary,Warner Music Germany,23,8,2019-09-06,2019-09-12,2019,9
@@ -94,8 +94,8 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 93,Luciano [DE],Im Plus,Universal Domestic Urban,6,12,2019-09-06,2019-09-12,2019,9
 94,Ava Max,Sweet But Psycho,Atlantic,45,1,2019-09-06,2019-09-12,2019,9
 95,Luciano x Samra,Ya salame,Universal Domestic Urban,7,5,2019-09-06,2019-09-12,2019,9
-96,Mero x Brado,OlÃ© OlÃ©,Groove Attack TraX,4,13,2019-09-06,2019-09-12,2019,9
-97,"Trettmann, KitschKrieg & Gzuz",Du weiÃŸt,Soulforce/BMG,5,15,2019-09-06,2019-09-12,2019,9
+96,Mero x Brado,Olé Olé,Groove Attack TraX,4,13,2019-09-06,2019-09-12,2019,9
+97,"Trettmann, KitschKrieg & Gzuz",Du weißt,Soulforce/BMG,5,15,2019-09-06,2019-09-12,2019,9
 98,Jonas Brothers,Sucker,Jonas Brothers Recording,27,20,2019-09-06,2019-09-12,2019,9
 99,Michael Schulte,Back To The Start,Very Us Records,19,33,2019-09-06,2019-09-12,2019,9
 100,Miley Cyrus,Slide Away,SME - RCA International,2,67,2019-09-06,2019-09-12,2019,9

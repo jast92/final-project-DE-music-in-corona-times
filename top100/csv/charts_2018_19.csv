@@ -1,7 +1,7 @@
 current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 1,Capital Bra feat. Ufo361,Neymar,Team Kuku,2,1,2018-05-11,2018-05-17,2018,5
 2,Calvin Harris & Dua Lipa,One Kiss,Columbia,5,1,2018-05-11,2018-05-17,2018,5
-3,Marie Wegener,KÃ¶niglich,Electrola,1,3,2018-05-11,2018-05-17,2018,5
+3,Marie Wegener,Königlich,Electrola,1,3,2018-05-11,2018-05-17,2018,5
 4,Dennis Lloyd,Nevermind,Warner Music International,7,4,2018-05-11,2018-05-17,2018,5
 5,Marshmello & Anne-Marie,Friends,Atlantic,13,1,2018-05-11,2018-05-17,2018,5
 6,Olexesh feat. Edin,Magisch,385ideal,12,1,2018-05-11,2018-05-17,2018,5
@@ -15,13 +15,13 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 14,Kygo feat. Miguel,Remind Me To Forget,Kygo,8,14,2018-05-11,2018-05-17,2018,5
 15,Ariana Grande,No Tears Left To Cry,Universal,3,2,2018-05-11,2018-05-17,2018,5
 16,Gzuz feat. Bonez MC,Was erlebt,Universal Domestic Vertigo,2,3,2018-05-11,2018-05-17,2018,5
-17,Luis Fonsi & Demi Lovato,Ã‰chame la culpa,Universal,25,6,2018-05-11,2018-05-17,2018,5
+17,Luis Fonsi & Demi Lovato,Échame la culpa,Universal,25,6,2018-05-11,2018-05-17,2018,5
 18,"Rudimental feat. Jess Glynne, Macklemore & Dan Caplen",These Days,Atlantic,16,3,2018-05-11,2018-05-17,2018,5
 19,Robin Schulz & Marc Scibilia,Unforgettable,Warner Music Germany,12,13,2018-05-11,2018-05-17,2018,5
 20,Die Fantastischen Vier feat. Clueso,Zusammen,Columbia,7,12,2018-05-11,2018-05-17,2018,5
 21,Eli,Change Your Mind,Prime Entertainment Records,4,21,2018-05-11,2018-05-17,2018,5
 22,Drake,Nice For What,Young Money,5,9,2018-05-11,2018-05-17,2018,5
-23,Namika feat. Black M,Je ne parle pas franÃ§ais (Beatgees Remix),Jive Germany,4,23,2018-05-11,2018-05-17,2018,5
+23,Namika feat. Black M,Je ne parle pas français (Beatgees Remix),Jive Germany,4,23,2018-05-11,2018-05-17,2018,5
 24,Sean Paul + David Guetta feat. Becky G,Mad Love,Island,12,10,2018-05-11,2018-05-17,2018,5
 25,Drake,God's Plan,Motown,16,1,2018-05-11,2018-05-17,2018,5
 26,Alvaro Soler,La cintura,Airforce1,6,26,2018-05-11,2018-05-17,2018,5
@@ -42,7 +42,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 41,Tom Walker,Leave A Light On,Relentless Records,19,8,2018-05-11,2018-05-17,2018,5
 42,Post Malone feat. Ty Dolla $ign,Psycho,Universal,11,6,2018-05-11,2018-05-17,2018,5
 43,Shawn Mendes feat. Khalid,Youth,Island,1,43,2018-05-11,2018-05-17,2018,5
-44,Azet,Ãœberlebt,KMN Gang,6,28,2018-05-11,2018-05-17,2018,5
+44,Azet,Überlebt,KMN Gang,6,28,2018-05-11,2018-05-17,2018,5
 45,Rooz x MoTrip,Immer wieder,Universal Domestic Urban,9,25,2018-05-11,2018-05-17,2018,5
 46,Shawn Mendes,In My Blood,Island,7,8,2018-05-11,2018-05-17,2018,5
 47,Kontra K feat. RAF Camora,Fame,BMG,1,47,2018-05-11,2018-05-17,2018,5
@@ -66,7 +66,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 65,Post Malone,Paranoid,Universal,2,51,2018-05-11,2018-05-17,2018,5
 66,Kontra K,Oder nicht,BMG,4,25,2018-05-11,2018-05-17,2018,5
 67,Liam Payne & J Balvin,Familiar,Capitol,2,67,2018-05-11,2018-05-17,2018,5
-68,Gzuz feat. LX,DrÃ¼ck drÃ¼ck,Universal Domestic Vertigo,6,11,2018-05-11,2018-05-17,2018,5
+68,Gzuz feat. LX,Drück drück,Universal Domestic Vertigo,6,11,2018-05-11,2018-05-17,2018,5
 69,Avicii,Wake Me Up!,Virgin Records,62,1,2018-05-11,2018-05-17,2018,5
 70,Eminem feat. Ed Sheeran,River,Interscope,21,2,2018-05-11,2018-05-17,2018,5
 71,Avicii feat. Rita Ora,Lonely Together,Virgin Records,30,24,2018-05-11,2018-05-17,2018,5
@@ -74,7 +74,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 73,Ed Sheeran,Shape Of You,Atlantic,70,1,2018-05-11,2018-05-17,2018,5
 74,The Weeknd,Call Out My Name,The Weeknd,6,7,2018-05-11,2018-05-17,2018,5
 75,Jason Derulo feat. French Montana,Tip Toe,Beluga Heights,26,11,2018-05-11,2018-05-17,2018,5
-76,Kay One feat. Pietro Lombardi,SeÃ±orita,Princekayone GmbH,35,1,2018-05-11,2018-05-17,2018,5
+76,Kay One feat. Pietro Lombardi,Señorita,Princekayone GmbH,35,1,2018-05-11,2018-05-17,2018,5
 77,Liam Payne & Rita Ora,For You (Fifty Shades Freed),Republic Records,18,1,2018-05-11,2018-05-17,2018,5
 78,Azet feat. Zuna & Noizy,Kriminell,KMN Gang,8,5,2018-05-11,2018-05-17,2018,5
 79,LSD (Labrinth / Sia / Diplo),Genius,Columbia,1,79,2018-05-11,2018-05-17,2018,5

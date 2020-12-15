@@ -22,7 +22,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 21,The Weeknd,Blinding Lights,Republic Records,49,1,2020-11-06,2020-11-12,2020,11
 22,KitschKrieg feat. Jamule,Unterwegs,SoulForce Records / BMG,13,1,2020-11-06,2020-11-12,2020,11
 23,LA Vision & Gigi D'Agostino,Hollywood,Universal Domestic Polydor,17,10,2020-11-06,2020-11-12,2020,11
-24,Mero feat. Nimo,DÃ©solÃ©,Groove Attack TraX,3,3,2020-11-06,2020-11-12,2020,11
+24,Mero feat. Nimo,Désolé,Groove Attack TraX,3,3,2020-11-06,2020-11-12,2020,11
 25,HVME,Goosebumps,B1 Recordings,7,23,2020-11-06,2020-11-12,2020,11
 26,Tate McRae,You Broke Me First,SME - RCA International,11,26,2020-11-06,2020-11-12,2020,11
 27,Bozza,Elbe,Def Jam Germany,6,12,2020-11-06,2020-11-12,2020,11
@@ -32,8 +32,8 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 31,David Guetta & Sia,Let's Love,Parlophone Label Group,8,30,2020-11-06,2020-11-12,2020,11
 32,Dennis Lloyd,Alien,SME - Arista,10,32,2020-11-06,2020-11-12,2020,11
 33,Felix Jaehn feat. Nea & Bryn Christopher,No Therapy,Virgin Records,10,31,2020-11-06,2020-11-12,2020,11
-34,Apache 207,BlÃ¤ulich,SME - Four Music / TwoSides,18,1,2020-11-06,2020-11-12,2020,11
-35,Mark Forster,Ãœbermorgen,SME - Marecs,27,7,2020-11-06,2020-11-12,2020,11
+34,Apache 207,Bläulich,SME - Four Music / TwoSides,18,1,2020-11-06,2020-11-12,2020,11
+35,Mark Forster,Übermorgen,SME - Marecs,27,7,2020-11-06,2020-11-12,2020,11
 36,Vize & Tom Gregory,Never Let Me Down,Kontor Records,28,8,2020-11-06,2020-11-12,2020,11
 37,DaBaby feat. Roddy Ricch,Rockstar,Interscope,29,3,2020-11-06,2020-11-12,2020,11
 38,Pop Smoke feat. Lil Baby & DaBaby,For The Night,Republic Records,13,28,2020-11-06,2020-11-12,2020,11
@@ -42,7 +42,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 41,Gentleman x Luciano x Ezhel,Devam,Urban,7,9,2020-11-06,2020-11-12,2020,11
 42,Robin Schulz feat. Kiddo,All We Got,Warner Music Germany,3,42,2020-11-06,2020-11-12,2020,11
 43,BTS,Dynamite,2020 BigHit Entertainment,11,8,2020-11-06,2020-11-12,2020,11
-44,Capital Bra x Cro,FrÃ¼hstÃ¼ck in Paris,Urban,11,1,2020-11-06,2020-11-12,2020,11
+44,Capital Bra x Cro,Frühstück in Paris,Urban,11,1,2020-11-06,2020-11-12,2020,11
 45,Dermot Kennedy,Giants,Interscope,5,45,2020-11-06,2020-11-12,2020,11
 46,Bausa x Juju,2012,Warner Music Germany,11,2,2020-11-06,2020-11-12,2020,11
 47,Dardan & Hava,Mailbox,Hypnotize Entertainment,5,7,2020-11-06,2020-11-12,2020,11
@@ -75,7 +75,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 74,Pashanim,Airwaves,Urban,25,2,2020-11-06,2020-11-12,2020,11
 75,Georg Stengel,Mars,We Love Music,13,68,2020-11-06,2020-11-12,2020,11
 76,Loredana,Rockstar,Loredana,2,17,2020-11-06,2020-11-12,2020,11
-77,NGEE,Deutsche & AuslÃ¤nder,SME - Epic Domestic,1,77,2020-11-06,2020-11-12,2020,11
+77,NGEE,Deutsche & Ausländer,SME - Epic Domestic,1,77,2020-11-06,2020-11-12,2020,11
 78,Machine Gun Kelly & Blackbear,My Ex's Best Friend,Interscope,8,68,2020-11-06,2020-11-12,2020,11
 79,WIER,Best Of Us,MOKOH Music GmbH,6,78,2020-11-06,2020-11-12,2020,11
 80,Lea x Majan,Beifahrersitz,SME - Four Music,8,48,2020-11-06,2020-11-12,2020,11
@@ -83,15 +83,15 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 82,Kygo x Tina Turner,What's Love Got To Do With It,SME - Kygo,16,26,2020-11-06,2020-11-12,2020,11
 83,Pop Smoke feat. Lil Tjay,Mood Swings,Republic Records,13,30,2020-11-06,2020-11-12,2020,11
 84,Capital Bra x Clueso x KC Rebell,Andere Welt,Urban,15,2,2020-11-06,2020-11-12,2020,11
-85,Dua Lipa feat. AngÃ¨le,Fever,Urban,1,85,2020-11-06,2020-11-12,2020,11
+85,Dua Lipa feat. Angèle,Fever,Urban,1,85,2020-11-06,2020-11-12,2020,11
 86,Apache 207,Fame,SME - Four Music / TwoSides,26,1,2020-11-06,2020-11-12,2020,11
-87,FousheÃ©,Deep End,Sony Music,2,87,2020-11-06,2020-11-12,2020,11
+87,Fousheé,Deep End,Sony Music,2,87,2020-11-06,2020-11-12,2020,11
 88,Zoe Wees,Control,Caroline Records,24,31,2020-11-06,2020-11-12,2020,11
 89,Lewis Capaldi,Someone You Loved,Universal Domestic Vertigo,78,18,2020-11-06,2020-11-12,2020,11
-90,CÃ©line [DE],Ãœberall,BTGS,2,89,2020-11-06,2020-11-12,2020,11
+90,Céline [DE],Überall,BTGS,2,89,2020-11-06,2020-11-12,2020,11
 91,Drake feat. Lil Durk,Laugh Now Cry Later,Ovo,12,25,2020-11-06,2020-11-12,2020,11
 92,Bonez MC,Papa ist in Hollywood,187 Strassenbande,6,42,2020-11-06,2020-11-12,2020,11
-93,TiÃ«sto,The Business,Atlantic,1,93,2020-11-06,2020-11-12,2020,11
+93,Tiësto,The Business,Atlantic,1,93,2020-11-06,2020-11-12,2020,11
 94,Capo feat. Veysel,Coco Chanel,Capo,2,22,2020-11-06,2020-11-12,2020,11
 95,Regard,Ride It,B1 Recordings/Ministry of Sound,54,4,2020-11-06,2020-11-12,2020,11
 96,Fleetwood Mac,Dreams,Warner,10,33,2020-11-06,2020-11-12,2020,11

@@ -11,7 +11,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 10,Clean Bandit feat. Demi Lovato,Solo,Atlantic,17,1,2018-09-14,2018-09-20,2018,9
 11,Armin van Buuren,Blah Blah Blah,Kontor Records,9,11,2018-09-14,2018-09-20,2018,9
 12,Maroon 5 feat. Cardi B,Girls Like You,Interscope,15,9,2018-09-14,2018-09-20,2018,9
-13,Leon MachÃ¨re,Copacabana,PMR Music,7,13,2018-09-14,2018-09-20,2018,9
+13,Leon Machère,Copacabana,PMR Music,7,13,2018-09-14,2018-09-20,2018,9
 14,Azzi Memo feat. Nimo,BlaBla,Generation Azzlack,1,14,2018-09-14,2018-09-20,2018,9
 15,Kanye West & Lil Pump,I Love It,Getting Out Our Dreams Inc.,1,15,2018-09-14,2018-09-20,2018,9
 16,Jonas Blue feat. Jack & Jack,Rise,Virgin Records,16,8,2018-09-14,2018-09-20,2018,9
@@ -24,7 +24,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 23,Marshmello & Bastille,Happier,Astralwerk,4,23,2018-09-14,2018-09-20,2018,9
 24,"Cro, Trettmann & KitschKrieg",10419,Truworks Records,1,24,2018-09-14,2018-09-20,2018,9
 25,Eno,Mercedes,Alles Oder Nix Records,8,6,2018-09-14,2018-09-20,2018,9
-26,Namika feat. Black M,Je ne parle pas franÃ§ais (Beatgees Remix),Jive Germany,22,1,2018-09-14,2018-09-20,2018,9
+26,Namika feat. Black M,Je ne parle pas français (Beatgees Remix),Jive Germany,22,1,2018-09-14,2018-09-20,2018,9
 27,"Cardi B, Bad Bunny & J Balvin",I Like It,Atlantic,22,14,2018-09-14,2018-09-20,2018,9
 28,Dennis Lloyd,Nevermind,Warner Music International,25,3,2018-09-14,2018-09-20,2018,9
 29,Drake,In My Feelings,Republic Records,11,4,2018-09-14,2018-09-20,2018,9
@@ -43,12 +43,12 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 42,Azet,Nike Pullover,KMN Gang,6,18,2018-09-14,2018-09-20,2018,9
 43,6ix9ine feat. Nicki Minaj & Murda Beatz,Fefe,ScumGang Records,8,16,2018-09-14,2018-09-20,2018,9
 44,Capital Bra feat. Ufo361,Neymar,Team Kuku,20,1,2018-09-14,2018-09-20,2018,9
-45,TiÃ«sto & Dzeko feat. Preme & Post Malone,Jackie Chan,Virgin Records,13,25,2018-09-14,2018-09-20,2018,9
+45,Tiësto & Dzeko feat. Preme & Post Malone,Jackie Chan,Virgin Records,13,25,2018-09-14,2018-09-20,2018,9
 46,Eminem,The Ringer,Interscope,2,21,2018-09-14,2018-09-20,2018,9
 47,Felix Jaehn feat. R. City & Bori,Jennie,Virgin Records,13,40,2018-09-14,2018-09-20,2018,9
 48,Dean Lewis,Be Alright,Universal,4,48,2018-09-14,2018-09-20,2018,9
 49,David Guetta feat. Anne-Marie,Don't Leave Me Alone,Parlophone Label Group,7,49,2018-09-14,2018-09-20,2018,9
-50,Bushido feat. Samra & Capital Bra,FÃ¼r euch alle,Bushido,10,1,2018-09-14,2018-09-20,2018,9
+50,Bushido feat. Samra & Capital Bra,Für euch alle,Bushido,10,1,2018-09-14,2018-09-20,2018,9
 51,Kris Kross Amsterdam x The Boy Next Door feat. Conor Maynard,Whenever,Spinnin' Records,2,51,2018-09-14,2018-09-20,2018,9
 52,Mert,Ekşi,Husla Music,1,52,2018-09-14,2018-09-20,2018,9
 53,Luciano [DE],Ballin,Universal Domestic Urban,9,10,2018-09-14,2018-09-20,2018,9
@@ -58,7 +58,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 57,Katja Krasavice,Sex Tape,PMR Music,5,6,2018-09-14,2018-09-20,2018,9
 58,Veysel,Habibo,Universal Domestic Urban,11,9,2018-09-14,2018-09-20,2018,9
 59,Post Malone,Better Now,Universal,20,11,2018-09-14,2018-09-20,2018,9
-60,Josh.,Cordula GrÃ¼n,echopilot music,3,60,2018-09-14,2018-09-20,2018,9
+60,Josh.,Cordula Grün,echopilot music,3,60,2018-09-14,2018-09-20,2018,9
 61,Lenny Kravitz,Low,BMG,1,61,2018-09-14,2018-09-20,2018,9
 62,Martin Garrix feat. Khalid,Ocean,B1 Recordings,13,38,2018-09-14,2018-09-20,2018,9
 63,Ed Sheeran,Perfect,Atlantic,59,1,2018-09-14,2018-09-20,2018,9
@@ -71,7 +71,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 70,Jason Derulo x David Guetta feat. Nicki Minaj and Willy William,Goodbye,Beluga Heights,3,55,2018-09-14,2018-09-20,2018,9
 71,Ariana Grande,God Is A Woman,Universal,9,20,2018-09-14,2018-09-20,2018,9
 72,Summer Cem,Tamam Tamam,Banger Musik,21,7,2018-09-14,2018-09-20,2018,9
-73,Zedd & Elley DuhÃ©,Happy Now,Umgri,8,64,2018-09-14,2018-09-20,2018,9
+73,Zedd & Elley Duhé,Happy Now,Umgri,8,64,2018-09-14,2018-09-20,2018,9
 74,Massiv feat. Capital Bra,Hubba Bubba,Al Massiva,2,43,2018-09-14,2018-09-20,2018,9
 75,Ufo361,40K,Stay High,5,13,2018-09-14,2018-09-20,2018,9
 76,Eli,Change Your Mind,Prime Entertainment Records,22,14,2018-09-14,2018-09-20,2018,9

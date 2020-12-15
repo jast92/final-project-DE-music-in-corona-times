@@ -1,7 +1,7 @@
 current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 1,Bonez MC & RAF Camora,500 PS,Universal Domestic Vertigo,10,1,2018-10-12,2018-10-18,2018,10
 2,Bonez MC & RAF Camora feat. Gzuz,Kokain,Universal Domestic Vertigo,4,1,2018-10-12,2018-10-18,2018,10
-3,Bonez MC & RAF Camora,Nummer unterdrÃ¼ckt,Universal Domestic Vertigo,1,3,2018-10-12,2018-10-18,2018,10
+3,Bonez MC & RAF Camora,Nummer unterdrückt,Universal Domestic Vertigo,1,3,2018-10-12,2018-10-18,2018,10
 4,Dynoro & Gigi D'Agostino,In My Mind,B1 Recordings,18,1,2018-10-12,2018-10-18,2018,10
 5,Bonez MC & RAF Camora,Ja Mann!,Universal Domestic Vertigo,1,5,2018-10-12,2018-10-18,2018,10
 6,Calvin Harris & Sam Smith,Promises,Columbia,8,2,2018-10-12,2018-10-18,2018,10
@@ -33,8 +33,8 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 32,LEA x Cyril,Immer wenn wir uns sehn,Four Music,8,17,2018-10-12,2018-10-18,2018,10
 33,El Profesor,Bella ciao (Hugel Remix),Kontor Records,22,2,2018-10-12,2018-10-18,2018,10
 34,Maroon 5 feat. Cardi B,Girls Like You,Interscope,19,9,2018-10-12,2018-10-18,2018,10
-35,Josh.,Cordula GrÃ¼n,echopilot music,7,27,2018-10-12,2018-10-18,2018,10
-36,Leon MachÃ¨re,Copacabana,PMR Music,11,13,2018-10-12,2018-10-18,2018,10
+35,Josh.,Cordula Grün,echopilot music,7,27,2018-10-12,2018-10-18,2018,10
+36,Leon Machère,Copacabana,PMR Music,11,13,2018-10-12,2018-10-18,2018,10
 37,Clean Bandit feat. Demi Lovato,Solo,Atlantic,21,1,2018-10-12,2018-10-18,2018,10
 38,Dean Lewis,Be Alright,Universal,8,32,2018-10-12,2018-10-18,2018,10
 39,"DJ Snake feat. Selena Gomez, Ozuna & Cardi B",Taki Taki,Geffen Records,2,30,2018-10-12,2018-10-18,2018,10
@@ -59,7 +59,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 58,Felix Jaehn feat. R. City & Bori,Jennie,Virgin Records,17,40,2018-10-12,2018-10-18,2018,10
 59,David Guetta feat. Anne-Marie,Don't Leave Me Alone,Parlophone Label Group,11,32,2018-10-12,2018-10-18,2018,10
 60,Mark Forster,Einmal,Four Music,1,60,2018-10-12,2018-10-18,2018,10
-61,Namika feat. Black M,Je ne parle pas franÃ§ais (Beatgees Remix),Jive Germany,26,1,2018-10-12,2018-10-18,2018,10
+61,Namika feat. Black M,Je ne parle pas français (Beatgees Remix),Jive Germany,26,1,2018-10-12,2018-10-18,2018,10
 62,Jason Derulo x David Guetta feat. Nicki Minaj and Willy William,Goodbye,Beluga Heights,7,47,2018-10-12,2018-10-18,2018,10
 63,Robin Schulz & Piso 21,Oh Child,Warner Music Germany,16,19,2018-10-12,2018-10-18,2018,10
 64,Kris Kross Amsterdam x The Boy Next Door feat. Conor Maynard,Whenever,Spinnin' Records,6,46,2018-10-12,2018-10-18,2018,10
@@ -68,10 +68,10 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 67,"Cardi B, Bad Bunny & J Balvin",I Like It,Atlantic,26,14,2018-10-12,2018-10-18,2018,10
 68,Olexesh,Von vorn,385ideal,1,68,2018-10-12,2018-10-18,2018,10
 69,Kygo & Imagine Dragons,Born To Be Yours,B1 Recordings,17,22,2018-10-12,2018-10-18,2018,10
-70,Bushido feat. Samra & Capital Bra,FÃ¼r euch alle,Bushido,14,1,2018-10-12,2018-10-18,2018,10
+70,Bushido feat. Samra & Capital Bra,Für euch alle,Bushido,14,1,2018-10-12,2018-10-18,2018,10
 71,Aya Nakamura feat. Loredana,Djadja (Remix),Rec. 118,1,71,2018-10-12,2018-10-18,2018,10
 72,Capital Bra,One Night Stand,Team Kuku,20,1,2018-10-12,2018-10-18,2018,10
-73,TiÃ«sto & Dzeko feat. Preme & Post Malone,Jackie Chan,Virgin Records,17,25,2018-10-12,2018-10-18,2018,10
+73,Tiësto & Dzeko feat. Preme & Post Malone,Jackie Chan,Virgin Records,17,25,2018-10-12,2018-10-18,2018,10
 74,Ed Sheeran,Perfect,Atlantic,63,1,2018-10-12,2018-10-18,2018,10
 75,Capital Bra feat. Ufo361,Neymar,Team Kuku,24,1,2018-10-12,2018-10-18,2018,10
 76,LSD (Labrinth / Sia / Diplo),Thunderclouds,Columbia,6,56,2018-10-12,2018-10-18,2018,10
@@ -91,7 +91,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 90,Kurdo,Wellou,Universal Domestic Urban,3,28,2018-10-12,2018-10-18,2018,10
 91,Eminem feat. Joyner Lucas,Lucky You,Interscope,6,19,2018-10-12,2018-10-18,2018,10
 92,Post Malone,Better Now,Universal,24,11,2018-10-12,2018-10-18,2018,10
-93,Herbert GrÃ¶nemeyer,SekundenglÃ¼ck,Universal Domestic Vertigo,2,36,2018-10-12,2018-10-18,2018,10
+93,Herbert Grönemeyer,Sekundenglück,Universal Domestic Vertigo,2,36,2018-10-12,2018-10-18,2018,10
 94,AK Ausserkontrolle,Bang Bang,Universal Domestic Vertigo,2,49,2018-10-12,2018-10-18,2018,10
 95,XXXTentacion,Sad!,Bad Vibes Forever,24,12,2018-10-12,2018-10-18,2018,10
 96,David Guetta & Sia,Flames,Parlophone Label Group,29,7,2018-10-12,2018-10-18,2018,10

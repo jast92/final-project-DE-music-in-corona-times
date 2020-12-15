@@ -15,9 +15,9 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 14,Capital Bra x Samra,Tilidin,Universal Domestic Urban,17,1,2019-10-18,2019-10-24,2019,10
 15,Kalim feat. Nimo,Lowrider,Universal Domestic Urban,1,15,2019-10-18,2019-10-24,2019,10
 16,Loredana feat. Mero,Kein Plan,Loredana,6,1,2019-10-18,2019-10-24,2019,10
-17,Shawn Mendes & Camila Cabello,SeÃ±orita,Island,17,1,2019-10-18,2019-10-24,2019,10
+17,Shawn Mendes & Camila Cabello,Señorita,Island,17,1,2019-10-18,2019-10-24,2019,10
 18,Loredana,Genick,Loredana,5,3,2019-10-18,2019-10-24,2019,10
-19,RIN,FabergÃ©,SME - Division,3,7,2019-10-18,2019-10-24,2019,10
+19,RIN,Fabergé,SME - Division,3,7,2019-10-18,2019-10-24,2019,10
 20,Samra x Capital Bra,Huracan,Universal Domestic Urban,6,3,2019-10-18,2019-10-24,2019,10
 21,Ed Sheeran feat. Khalid,Beautiful People,Atlantic,16,5,2019-10-18,2019-10-24,2019,10
 22,Loredana feat. Mozzik,Eiskalt,Loredana,11,2,2019-10-18,2019-10-24,2019,10
@@ -42,7 +42,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 41,Trettmann & KitschKrieg feat. Alli Neumann,Zeit steht,Soulforce/BMG,5,10,2019-10-18,2019-10-24,2019,10
 42,Capital Bra x Samra,Nummer 1,Universal Domestic Urban,8,1,2019-10-18,2019-10-24,2019,10
 43,Jamule,Moneyhoneydrip,Life Is Pain,3,23,2019-10-18,2019-10-24,2019,10
-44,Mark Forster,194 LÃ¤nder,SME - Four Music,4,44,2019-10-18,2019-10-24,2019,10
+44,Mark Forster,194 Länder,SME - Four Music,4,44,2019-10-18,2019-10-24,2019,10
 45,Dimitri Vegas & Like Mike / David Guetta / Daddy Yankee / Afro Bros / Natti Natasha,Instagram,SME - Epic,12,29,2019-10-18,2019-10-24,2019,10
 46,The Chainsmokers & Illenium feat. Lennon Stella,Takeaway,SME - Columbia,12,30,2019-10-18,2019-10-24,2019,10
 47,Ed Sheeran & Justin Bieber,I Don't Care,Atlantic,23,2,2019-10-18,2019-10-24,2019,10
@@ -59,13 +59,13 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 58,Sido feat. Johannes Oerding,Pyramiden,Universal Domestic Urban,4,38,2019-10-18,2019-10-24,2019,10
 59,Olexesh & Nimo,Augen Husky,385ideal,5,14,2019-10-18,2019-10-24,2019,10
 60,Ed Sheeran feat. Camila Cabello & Cardi B,South Of The Border,Atlantic,5,33,2019-10-18,2019-10-24,2019,10
-61,Kummer,Bei Dir,Eklat TontrÃ¤ger,2,61,2019-10-18,2019-10-24,2019,10
+61,Kummer,Bei Dir,Eklat Tonträger,2,61,2019-10-18,2019-10-24,2019,10
 62,Summer Cem,Primetime,Banger Musik,7,9,2019-10-18,2019-10-24,2019,10
 63,Dan + Shay / Justin Bieber,"10,000 Hours",Warner Music International,2,47,2019-10-18,2019-10-24,2019,10
 64,Sido feat. Monchi,Leben vor dem Tod,Universal Domestic Urban,11,22,2019-10-18,2019-10-24,2019,10
 65,Capo,Run Run Run,Warner Music Germany,11,6,2019-10-18,2019-10-24,2019,10
 66,Bausa & Zuna,Biturbo,Warner Music Germany,2,26,2019-10-18,2019-10-24,2019,10
-67,Seeed,Gâ‚¬ld,BMG,4,59,2019-10-18,2019-10-24,2019,10
+67,Seeed,G€ld,BMG,4,59,2019-10-18,2019-10-24,2019,10
 68,Younotus & Janieck & Senex,Narcotic,SME - B1 Recordings,19,16,2019-10-18,2019-10-24,2019,10
 69,Gringo,Pink Panther,SME - SLS Music,1,69,2019-10-18,2019-10-24,2019,10
 70,Apache 207,Brot nach Hause,SME - Two Sides,11,49,2019-10-18,2019-10-24,2019,10
@@ -91,7 +91,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 90,Summer Cem feat. Capital Bra,Diamonds,Banger Musik,18,3,2019-10-18,2019-10-24,2019,10
 91,Bausa,Mary,Warner Music Germany,29,8,2019-10-18,2019-10-24,2019,10
 92,Mabel [UK],Mad Love,Polydor,16,54,2019-10-18,2019-10-24,2019,10
-93,Kummer,Wie viel ist dein Outfit wert,Eklat TontrÃ¤ger,1,93,2019-10-18,2019-10-24,2019,10
+93,Kummer,Wie viel ist dein Outfit wert,Eklat Tonträger,1,93,2019-10-18,2019-10-24,2019,10
 94,SDP feat. Capital Bra,Viva la Dealer,Berliner Plattenbau,23,38,2019-10-18,2019-10-24,2019,10
 95,Lady Gaga & Bradley Cooper,Shallow,Interscope,55,4,2019-10-18,2019-10-24,2019,10
 96,Juju [DE],Hi Babe,Jinx Music,17,12,2019-10-18,2019-10-24,2019,10

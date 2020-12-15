@@ -10,7 +10,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 9,David Guetta & Sia,Flames,Parlophone Label Group,5,9,2018-04-27,2018-05-03,2018,4
 10,"Rudimental feat. Jess Glynne, Macklemore & Dan Caplen",These Days,Atlantic,14,3,2018-04-27,2018-05-03,2018,4
 11,RAF Camora,Maserati,Indipendenza,1,11,2018-04-27,2018-05-03,2018,4
-12,Luis Fonsi & Demi Lovato,Ã‰chame la culpa,Universal,23,6,2018-04-27,2018-05-03,2018,4
+12,Luis Fonsi & Demi Lovato,Échame la culpa,Universal,23,6,2018-04-27,2018-05-03,2018,4
 13,Avicii,Wake Me Up!,Virgin Records,60,1,2018-04-27,2018-05-03,2018,4
 14,Drake,Nice For What,Young Money,3,9,2018-04-27,2018-05-03,2018,4
 15,Nicky Jam x J Balvin,X,Sony Music,8,14,2018-04-27,2018-05-03,2018,4
@@ -41,7 +41,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 40,Avicii feat. Sandro Cavazza,Without You,Virgin Records,17,18,2018-04-27,2018-05-03,2018,4
 41,"Cardi B, Bad Bunny & J Balvin",I Like It,Atlantic,2,41,2018-04-27,2018-05-03,2018,4
 42,Camila Cabello feat. Young Thug,Havana,Epic,36,2,2018-04-27,2018-05-03,2018,4
-43,Gzuz feat. LX,DrÃ¼ck drÃ¼ck,Universal Domestic Vertigo,4,11,2018-04-27,2018-05-03,2018,4
+43,Gzuz feat. LX,Drück drück,Universal Domestic Vertigo,4,11,2018-04-27,2018-05-03,2018,4
 44,Felix Jaehn feat. Marc E. Bassy & Gucci Mane,Cool,Virgin Records,11,39,2018-04-27,2018-05-03,2018,4
 45,Wincent Weiss,An Wunder,Universal Domestic Vertigo,2,18,2018-04-27,2018-05-03,2018,4
 46,Moe Phoenix,Mama / Baba,Life Is Pain,1,46,2018-04-27,2018-05-03,2018,4
@@ -49,7 +49,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 48,The Weeknd,Call Out My Name,The Weeknd,4,7,2018-04-27,2018-05-03,2018,4
 49,Alvaro Soler,La cintura,Airforce1,4,46,2018-04-27,2018-05-03,2018,4
 50,Eli,Change Your Mind,Prime Entertainment Records,2,50,2018-04-27,2018-05-03,2018,4
-51,Namika feat. Black M,Je ne parle pas franÃ§ais (Beatgees Remix),Jive Germany,2,51,2018-04-27,2018-05-03,2018,4
+51,Namika feat. Black M,Je ne parle pas français (Beatgees Remix),Jive Germany,2,51,2018-04-27,2018-05-03,2018,4
 52,Avicii,Hey Brother,Virgin Records,40,1,2018-04-27,2018-05-03,2018,4
 53,Kontra K,Oder nicht,BMG,2,25,2018-04-27,2018-05-03,2018,4
 54,Lost Frequencies & Zonderling,Crazy,Kontor Records,18,13,2018-04-27,2018-05-03,2018,4
@@ -57,7 +57,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 56,Liam Payne & Rita Ora,For You (Fifty Shades Freed),Republic Records,16,1,2018-04-27,2018-05-03,2018,4
 57,Eminem feat. Ed Sheeran,River,Interscope,19,2,2018-04-27,2018-05-03,2018,4
 58,Jason Derulo feat. French Montana,Tip Toe,Beluga Heights,24,11,2018-04-27,2018-05-03,2018,4
-59,Azet,Ãœberlebt,KMN Gang,4,28,2018-04-27,2018-05-03,2018,4
+59,Azet,Überlebt,KMN Gang,4,28,2018-04-27,2018-05-03,2018,4
 60,Post Malone feat. 21 Savage,Rockstar,Universal,32,2,2018-04-27,2018-05-03,2018,4
 61,Khalid x Normani,Love Lies,RCA International,10,36,2018-04-27,2018-05-03,2018,4
 62,Nico Santos,Rooftop,Virgin Records,24,5,2018-04-27,2018-05-03,2018,4
@@ -81,7 +81,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 80,Liam Payne & J Balvin,Familiar,Capitol,1,80,2018-04-27,2018-05-03,2018,4
 81,Avicii,The Nights,Virgin Records,30,19,2018-04-27,2018-05-03,2018,4
 82,Ufo361 feat. Capital Bra,Power,Stay High,6,7,2018-04-27,2018-05-03,2018,4
-83,Kay One feat. Pietro Lombardi,SeÃ±orita,Princekayone GmbH,33,1,2018-04-27,2018-05-03,2018,4
+83,Kay One feat. Pietro Lombardi,Señorita,Princekayone GmbH,33,1,2018-04-27,2018-05-03,2018,4
 84,Jason Derulo,Colors,Beluga Heights,4,75,2018-04-27,2018-05-03,2018,4
 85,Kollegah & Farid Bang,All Eyez On Us,Banger Musik,2,39,2018-04-27,2018-05-03,2018,4
 86,Imagine Dragons,Whatever It Takes,Interscope,30,7,2018-04-27,2018-05-03,2018,4
@@ -98,4 +98,4 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 97,Veysel & Mozzik,Ti amo,Bela Boyz,14,42,2018-04-27,2018-05-03,2018,4
 98,G-Eazy & Halsey,Him & I,RCA International,21,6,2018-04-27,2018-05-03,2018,4
 99,Sarah,Genau hier,Universal Domestic Polydor,2,31,2018-04-27,2018-05-03,2018,4
-100,Justin Bieber + BloodPopÂ®,Friends,Republic Records,35,4,2018-04-27,2018-05-03,2018,4
+100,Justin Bieber + BloodPop®,Friends,Republic Records,35,4,2018-04-27,2018-05-03,2018,4

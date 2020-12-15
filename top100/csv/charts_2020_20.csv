@@ -11,7 +11,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 10,Surf Mesa feat. Emilee,ILY (I Love You Baby),Astralwerk,8,7,2020-05-15,2020-05-21,2020,5
 11,DaBaby feat. Roddy Ricch,Rockstar,Interscope,4,11,2020-05-15,2020-05-21,2020,5
 12,Topic feat. A7S,Breaking Me,Virgin Records,19,3,2020-05-15,2020-05-21,2020,5
-13,Kayef,Ich wÃ¼rd' lÃ¼gen,Recordjet,6,13,2020-05-15,2020-05-21,2020,5
+13,Kayef,Ich würd' lügen,Recordjet,6,13,2020-05-15,2020-05-21,2020,5
 14,Robin Schulz feat. Alida,In Your Eyes,Warner Music Germany,18,5,2020-05-15,2020-05-21,2020,5
 15,Kontra K,Namen,BMG,2,5,2020-05-15,2020-05-21,2020,5
 16,Apache 207,Roller,SME - Two Sides,38,1,2020-05-15,2020-05-21,2020,5
@@ -19,13 +19,13 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 18,Tones And I,Dance Monkey,Bad Batch Records,40,1,2020-05-15,2020-05-21,2020,5
 19,Ariana Grande & Justin Bieber,Stuck With U,Universal,1,19,2020-05-15,2020-05-21,2020,5
 20,Nea,Some Say,SME - Milkshake,15,15,2020-05-15,2020-05-21,2020,5
-21,CÃ©line [DE],TrÃ¤nen aus Kajal,BTGS,6,17,2020-05-15,2020-05-21,2020,5
+21,Céline [DE],Tränen aus Kajal,BTGS,6,17,2020-05-15,2020-05-21,2020,5
 22,Jamule,Scheiss drauf,Life Is Pain,1,22,2020-05-15,2020-05-21,2020,5
 23,Nimo & Rina,Trendsetter,385ideal,2,18,2020-05-15,2020-05-21,2020,5
 24,Samra,BaeBae,Urban,5,2,2020-05-15,2020-05-21,2020,5
 25,The Scotts [Travis Scott & Kid Cudi],The Scotts,SME - Epic,3,8,2020-05-15,2020-05-21,2020,5
 26,Ava Max,Kings & Queens,Atlantic,9,24,2020-05-15,2020-05-21,2020,5
-27,Mark Forster,Ãœbermorgen,SME - Marecs,2,26,2020-05-15,2020-05-21,2020,5
+27,Mark Forster,Übermorgen,SME - Marecs,2,26,2020-05-15,2020-05-21,2020,5
 28,Powfu feat. Beabadoobee,Death Bed,SME - Independently Popular.,10,18,2020-05-15,2020-05-21,2020,5
 29,Benee feat. Gus Dapperton,Supalonely,Universal,9,26,2020-05-15,2020-05-21,2020,5
 30,Nico Santos & Topic,Like I Love You,Virgin Records,4,30,2020-05-15,2020-05-21,2020,5
@@ -81,13 +81,13 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 80,Apache 207,Wieso tust Du dir das an?,SME - Two Sides,25,1,2020-05-15,2020-05-21,2020,5
 81,Lil Mosey,Blueberry Faygo,Interscope,8,37,2020-05-15,2020-05-21,2020,5
 82,Juice WRLD,Righteous,Universal,3,48,2020-05-15,2020-05-21,2020,5
-83,NGEE,Kinder der StraÃŸe,SME - Epic Domestic,2,83,2020-05-15,2020-05-21,2020,5
+83,NGEE,Kinder der Straße,SME - Epic Domestic,2,83,2020-05-15,2020-05-21,2020,5
 84,Gamper & Dadoni,Gimme! Gimme! Gimme!,Big Top Amsterdam,7,69,2020-05-15,2020-05-21,2020,5
 85,Travis Scott,Sicko Mode,SME - Epic,27,43,2020-05-15,2020-05-21,2020,5
 86,Samra,Weiss,Urban,14,3,2020-05-15,2020-05-21,2020,5
 87,Future feat. Drake,Life Is Good,SME - Epic,18,8,2020-05-15,2020-05-21,2020,5
 88,Felix Jaehn feat. Gashi & Faangs,Sicko,Virgin Records,1,88,2020-05-15,2020-05-21,2020,5
-89,Joel Brandenstein & Vanessa Mai,Der Himmel reiÃŸt auf,SME - Freie Musik,1,89,2020-05-15,2020-05-21,2020,5
+89,Joel Brandenstein & Vanessa Mai,Der Himmel reißt auf,SME - Freie Musik,1,89,2020-05-15,2020-05-21,2020,5
 90,Sam Feldt feat. Rani,Post Malone,Spinnin' Records,31,46,2020-05-15,2020-05-21,2020,5
 91,Tones And I,Never Seen The Rain,Elektra,12,51,2020-05-15,2020-05-21,2020,5
 92,Apache 207,Doch in der Nacht,SME - Two Sides,20,7,2020-05-15,2020-05-21,2020,5
@@ -97,5 +97,5 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 96,Jerome [DE],Light,Kontor Records,25,39,2020-05-15,2020-05-21,2020,5
 97,DripReport,Skechers,SME - Arista,5,41,2020-05-15,2020-05-21,2020,5
 98,Bausa x Joshi Mizu x Maxwell,Skifahren,SME - RBK,25,4,2020-05-15,2020-05-21,2020,5
-99,Mark Forster,194 LÃ¤nder,SME - Four Music,34,13,2020-05-15,2020-05-21,2020,5
+99,Mark Forster,194 Länder,SME - Four Music,34,13,2020-05-15,2020-05-21,2020,5
 100,Travis Scott feat. Kendrick Lamar,Goosebumps,SME - Epic,3,54,2020-05-15,2020-05-21,2020,5

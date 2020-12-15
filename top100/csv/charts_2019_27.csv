@@ -1,7 +1,7 @@
 current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 1,Capital Bra x Samra,Tilidin,Universal Domestic Urban,2,1,2019-07-05,2019-07-11,2019,7
-2,Shawn Mendes & Camila Cabello,SeÃ±orita,Island,2,2,2019-07-05,2019-07-11,2019,7
-3,Shirin David feat. MaÃ®tre Gims,On Off,Shirin David Music,1,3,2019-07-05,2019-07-11,2019,7
+2,Shawn Mendes & Camila Cabello,Señorita,Island,2,2,2019-07-05,2019-07-11,2019,7
+3,Shirin David feat. Maître Gims,On Off,Shirin David Music,1,3,2019-07-05,2019-07-11,2019,7
 4,Ufo361 feat. Data Luv,Shot,Stay High,1,4,2019-07-05,2019-07-11,2019,7
 5,Lil Nas X,Old Town Road,SME - Columbia,14,1,2019-07-05,2019-07-11,2019,7
 6,Ed Sheeran & Justin Bieber,I Don't Care,Atlantic,8,2,2019-07-05,2019-07-11,2019,7
@@ -16,7 +16,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 15,Dardan feat. Eno,Wer macht Para 2,Universal Domestic Urban,2,5,2019-07-05,2019-07-11,2019,7
 16,"Kalazh44, Capital Bra & Samra feat. Nimo & Luciano",Royal Rumble,Kalazh44,3,1,2019-07-05,2019-07-11,2019,7
 17,Daddy Yankee feat. Snow,Con calma,Universal,20,6,2019-07-05,2019-07-11,2019,7
-18,Leon MachÃ¨re & Kay One feat. Tilly,Portofino,PMR Music,1,18,2019-07-05,2019-07-11,2019,7
+18,Leon Machère & Kay One feat. Tilly,Portofino,PMR Music,1,18,2019-07-05,2019-07-11,2019,7
 19,Farid Bang feat. French Montana & Khaled,Maghreb Gang,Banger Musik,4,4,2019-07-05,2019-07-11,2019,7
 20,Sero el Mero,Dein Fahrer,Groove Attack TraX,2,13,2019-07-05,2019-07-11,2019,7
 21,Luciano [DE],La haine,Universal Domestic Urban,5,4,2019-07-05,2019-07-11,2019,7
@@ -30,11 +30,11 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 29,R3hab x A Touch Of Class,All Around The World (La La La),Virgin Records,5,29,2019-07-05,2019-07-11,2019,7
 30,Kygo x Whitney Houston,Higher Love,SME - Kygo,1,30,2019-07-05,2019-07-11,2019,7
 31,Loredana,Labyrinth,Loredana,4,10,2019-07-05,2019-07-11,2019,7
-32,Robin Schulz feat. HarlÅ“,All This Love,Warner Music Germany,8,32,2019-07-05,2019-07-11,2019,7
+32,Robin Schulz feat. Harlœ,All This Love,Warner Music Germany,8,32,2019-07-05,2019-07-11,2019,7
 33,OneRepublic,Rescue Me,Interscope,7,31,2019-07-05,2019-07-11,2019,7
 34,Shindy,EFH,SME - Friends With Money,2,8,2019-07-05,2019-07-11,2019,7
 35,Mabel [UK],Don't Call Me Up,Polydor,20,10,2019-07-05,2019-07-11,2019,7
-36,Pedro CapÃ³,Calma,Sony Music,5,34,2019-07-05,2019-07-11,2019,7
+36,Pedro Capó,Calma,Sony Music,5,34,2019-07-05,2019-07-11,2019,7
 37,DJ Snake & J Balvin feat. Tyga,Loco contigo,Geffen Records,3,37,2019-07-05,2019-07-11,2019,7
 38,Mero,Olabilir,Groove Attack TraX,3,6,2019-07-05,2019-07-11,2019,7
 39,Olexesh feat. Calo,Feuer,Universal Domestic Urban,1,39,2019-07-05,2019-07-11,2019,7
@@ -54,7 +54,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 53,Olexesh,Barrio,Universal Domestic Urban,7,17,2019-07-05,2019-07-11,2019,7
 54,Ufo361,Irina Shayk,Stay High,4,6,2019-07-05,2019-07-11,2019,7
 55,Shawn Mendes,If I Can't Have You,Island,9,14,2019-07-05,2019-07-11,2019,7
-56,Kontra K,Letzte TrÃ¤ne,BMG,7,6,2019-07-05,2019-07-11,2019,7
+56,Kontra K,Letzte Träne,BMG,7,6,2019-07-05,2019-07-11,2019,7
 57,Gamper & Dadoni feat. Emily Roberts,Bittersweet Symphony,Big Top Amsterdam,3,57,2019-07-05,2019-07-11,2019,7
 58,The Chainsmokers feat. Bebe Rexha,Call You Mine,SME - Columbia,5,55,2019-07-05,2019-07-11,2019,7
 59,RIN,Vintage,SME - Division,6,6,2019-07-05,2019-07-11,2019,7
@@ -62,7 +62,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 61,Fero47 feat. Kazad,Money,SME - Epic Domestic,2,45,2019-07-05,2019-07-11,2019,7
 62,Katy Perry,Never Really Over,Capitol,5,47,2019-07-05,2019-07-11,2019,7
 63,LX & Maxwell,Strassenbande,187 Strassenbande,2,30,2019-07-05,2019-07-11,2019,7
-64,Rammstein,AuslÃ¤nder,Rammstein,7,2,2019-07-05,2019-07-11,2019,7
+64,Rammstein,Ausländer,Rammstein,7,2,2019-07-05,2019-07-11,2019,7
 65,Capo,Alexander Wang,Warner Music Germany,3,25,2019-07-05,2019-07-11,2019,7
 66,Vize feat. Laniia,Stars,Kontor Records,2,66,2019-07-05,2019-07-11,2019,7
 67,C Arma,Yapma,C Arma,26,29,2019-07-05,2019-07-11,2019,7

@@ -1,6 +1,6 @@
 current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 1,Lil Nas X,Old Town Road,SME - Columbia,10,1,2019-06-07,2019-06-13,2019,6
-2,Rammstein,AuslÃ¤nder,Rammstein,3,2,2019-06-07,2019-06-13,2019,6
+2,Rammstein,Ausländer,Rammstein,3,2,2019-06-07,2019-06-13,2019,6
 3,Ed Sheeran & Justin Bieber,I Don't Care,Atlantic,4,3,2019-06-07,2019-06-13,2019,6
 4,Luciano [DE],La haine,Universal Domestic Urban,1,4,2019-06-07,2019-06-13,2019,6
 5,Samra & Capital Bra,Wieder Lila,Universal Domestic Urban,3,1,2019-06-07,2019-06-13,2019,6
@@ -13,7 +13,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 12,Daddy Yankee feat. Snow,Con calma,Universal,16,6,2019-06-07,2019-06-13,2019,6
 13,Shindy,Nautilus,SME - Friends With Money,4,2,2019-06-07,2019-06-13,2019,6
 14,Avicii feat. Aloe Blacc,SOS,Universal,8,8,2019-06-07,2019-06-13,2019,6
-15,Kontra K,Letzte TrÃ¤ne,BMG,3,6,2019-06-07,2019-06-13,2019,6
+15,Kontra K,Letzte Träne,BMG,3,6,2019-06-07,2019-06-13,2019,6
 16,Meduza feat. Goodboys,Piece Of Your Heart,Virgin Records,5,16,2019-06-07,2019-06-13,2019,6
 17,Bausa,Mary,Warner Music Germany,10,8,2019-06-07,2019-06-13,2019,6
 18,Mabel [UK],Don't Call Me Up,Polydor,16,10,2019-06-07,2019-06-13,2019,6
@@ -54,7 +54,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 53,Kontra K,Alles was sie will,BMG,2,25,2019-06-07,2019-06-13,2019,6
 54,Moe Phoenix feat. Eno,3%,Life Is Pain,2,44,2019-06-07,2019-06-13,2019,6
 55,The Prince Karma,Later Bitches,Kontor Records,16,36,2019-06-07,2019-06-13,2019,6
-56,Robin Schulz feat. HarlÅ“,All This Love,Warner Music Germany,4,49,2019-06-07,2019-06-13,2019,6
+56,Robin Schulz feat. Harlœ,All This Love,Warner Music Germany,4,49,2019-06-07,2019-06-13,2019,6
 57,Eno,Blackberry Sky,Alles Oder Nix Records,11,2,2019-06-07,2019-06-13,2019,6
 58,Lady Gaga & Bradley Cooper,Shallow,Interscope,36,4,2019-06-07,2019-06-13,2019,6
 59,Matt Simons,Open Up,Pias,7,59,2019-06-07,2019-06-13,2019,6
@@ -79,7 +79,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 78,Marshmello feat. Chvrches,Here With Me,Republic Records,12,49,2019-06-07,2019-06-13,2019,6
 79,Panic! At The Disco,High Hopes,Atlantic,44,5,2019-06-07,2019-06-13,2019,6
 80,KC Rebell,Quarterback,Rebell Army,7,8,2019-06-07,2019-06-13,2019,6
-81,Pedro CapÃ³,Calma,SME - Sony Music,1,81,2019-06-07,2019-06-13,2019,6
+81,Pedro Capó,Calma,SME - Sony Music,1,81,2019-06-07,2019-06-13,2019,6
 82,Miley Cyrus,Mother's Daughter,SME - RCA International,1,82,2019-06-07,2019-06-13,2019,6
 83,Alec Benjamin,Let Me Down Slowly,Atlantic,18,40,2019-06-07,2019-06-13,2019,6
 84,Bonez MC & RAF Camora,500 PS,Universal Domestic Vertigo,44,1,2019-06-07,2019-06-13,2019,6
@@ -96,6 +96,6 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 95,Apache 207,Brot nach Hause,SME - Two Sides,4,49,2019-06-07,2019-06-13,2019,6
 96,Mahmood,Soldi,Universal,3,32,2019-06-07,2019-06-13,2019,6
 97,The BossHoss feat. Mimi & Josy,Little Help,Universal Domestic Island,5,32,2019-06-07,2019-06-13,2019,6
-98,Gallo Nero & RAF Camora,HermÃ¨s,SME - Andere Liga,2,37,2019-06-07,2019-06-13,2019,6
+98,Gallo Nero & RAF Camora,Hermès,SME - Andere Liga,2,37,2019-06-07,2019-06-13,2019,6
 99,Jonas Blue feat. Theresa Rex,What I Like About You,Virgin Records,1,99,2019-06-07,2019-06-13,2019,6
 100,Lauv & Troye Sivan,I'm So Tired...,Lauv,19,42,2019-06-07,2019-06-13,2019,6

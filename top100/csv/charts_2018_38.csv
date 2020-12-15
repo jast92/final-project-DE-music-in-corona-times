@@ -15,7 +15,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 14,Clean Bandit feat. Demi Lovato,Solo,Atlantic,18,1,2018-09-21,2018-09-27,2018,9
 15,Armin van Buuren,Blah Blah Blah,Kontor Records,10,11,2018-09-21,2018-09-27,2018,9
 16,George Ezra,Shotgun,Columbia,9,12,2018-09-21,2018-09-27,2018,9
-17,Leon MachÃ¨re,Copacabana,PMR Music,8,13,2018-09-21,2018-09-27,2018,9
+17,Leon Machère,Copacabana,PMR Music,8,13,2018-09-21,2018-09-27,2018,9
 18,Maroon 5 feat. Cardi B,Girls Like You,Interscope,16,9,2018-09-21,2018-09-27,2018,9
 19,"Benny Blanco, Halsey & Khalid",Eastside,Universal,10,18,2018-09-21,2018-09-27,2018,9
 20,Jonas Blue feat. Jack & Jack,Rise,Virgin Records,17,8,2018-09-21,2018-09-27,2018,9
@@ -31,13 +31,13 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 30,"Alle Farben, Kelvin Jones & Younotus",Only Thing We Know,B1 Recordings,12,20,2018-09-21,2018-09-27,2018,9
 31,"Cardi B, Bad Bunny & J Balvin",I Like It,Atlantic,23,14,2018-09-21,2018-09-27,2018,9
 32,David Guetta feat. Anne-Marie,Don't Leave Me Alone,Parlophone Label Group,8,32,2018-09-21,2018-09-27,2018,9
-33,Namika feat. Black M,Je ne parle pas franÃ§ais (Beatgees Remix),Jive Germany,23,1,2018-09-21,2018-09-27,2018,9
+33,Namika feat. Black M,Je ne parle pas français (Beatgees Remix),Jive Germany,23,1,2018-09-21,2018-09-27,2018,9
 34,Dennis Lloyd,Nevermind,Warner Music International,26,3,2018-09-21,2018-09-27,2018,9
 35,Robin Schulz & Piso 21,Oh Child,Warner Music Germany,13,19,2018-09-21,2018-09-27,2018,9
 36,AK Ausserkontrolle feat. Veysel,Unterwegs,Universal Domestic Vertigo,3,26,2018-09-21,2018-09-27,2018,9
 37,Drake,In My Feelings,Republic Records,12,4,2018-09-21,2018-09-27,2018,9
 38,Calvin Harris & Dua Lipa,One Kiss,Columbia,24,1,2018-09-21,2018-09-27,2018,9
-39,Josh.,Cordula GrÃ¼n,echopilot music,4,39,2018-09-21,2018-09-27,2018,9
+39,Josh.,Cordula Grün,echopilot music,4,39,2018-09-21,2018-09-27,2018,9
 40,Capital Bra,One Night Stand,Team Kuku,17,1,2018-09-21,2018-09-27,2018,9
 41,Nico Santos,Safe,Virgin Records,12,24,2018-09-21,2018-09-27,2018,9
 42,Dean Lewis,Be Alright,Universal,5,42,2018-09-21,2018-09-27,2018,9
@@ -48,13 +48,13 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 47,Anne-Marie,2002,Atlantic,18,18,2018-09-21,2018-09-27,2018,9
 48,"Cro, Trettmann & KitschKrieg",10419,Truworks Records,2,24,2018-09-21,2018-09-27,2018,9
 49,Miami Yacine,Testarossa,KMN Gang,5,21,2018-09-21,2018-09-27,2018,9
-50,TiÃ«sto & Dzeko feat. Preme & Post Malone,Jackie Chan,Virgin Records,14,25,2018-09-21,2018-09-27,2018,9
+50,Tiësto & Dzeko feat. Preme & Post Malone,Jackie Chan,Virgin Records,14,25,2018-09-21,2018-09-27,2018,9
 51,"DJ Khaled feat. Justin Bieber, Chance The Rapper & Quavo",No Brainer,Epic,8,15,2018-09-21,2018-09-27,2018,9
 52,Felix Jaehn feat. R. City & Bori,Jennie,Virgin Records,14,40,2018-09-21,2018-09-27,2018,9
 53,Jason Derulo x David Guetta feat. Nicki Minaj and Willy William,Goodbye,Beluga Heights,4,53,2018-09-21,2018-09-27,2018,9
 54,LEA,Zu dir,Four Music,12,54,2018-09-21,2018-09-27,2018,9
 55,Alvaro Soler,La cintura,Airforce1,25,7,2018-09-21,2018-09-27,2018,9
-56,Bushido feat. Samra & Capital Bra,FÃ¼r euch alle,Bushido,11,1,2018-09-21,2018-09-27,2018,9
+56,Bushido feat. Samra & Capital Bra,Für euch alle,Bushido,11,1,2018-09-21,2018-09-27,2018,9
 57,Azet,Nike Pullover,KMN Gang,7,18,2018-09-21,2018-09-27,2018,9
 58,Imagine Dragons,Natural,Interscope,5,58,2018-09-21,2018-09-27,2018,9
 59,Luciano [DE],Ballin,Universal Domestic Urban,10,10,2018-09-21,2018-09-27,2018,9
@@ -72,7 +72,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 71,"David Guetta, Bebe Rexha & J Balvin",Say My Name,Parlophone Label Group,1,71,2018-09-21,2018-09-27,2018,9
 72,Katja Krasavice,Sex Tape,PMR Music,6,6,2018-09-21,2018-09-27,2018,9
 73,Summer Cem,Tamam Tamam,Banger Musik,22,7,2018-09-21,2018-09-27,2018,9
-74,Zedd & Elley DuhÃ©,Happy Now,Umgri,9,64,2018-09-21,2018-09-27,2018,9
+74,Zedd & Elley Duhé,Happy Now,Umgri,9,64,2018-09-21,2018-09-27,2018,9
 75,Eno,Penthouse,Alles Oder Nix Records,14,30,2018-09-21,2018-09-27,2018,9
 76,Eminem,The Ringer,Interscope,3,21,2018-09-21,2018-09-27,2018,9
 77,PA Sports,30 km/h,Universal Domestic Vertigo,1,77,2018-09-21,2018-09-27,2018,9

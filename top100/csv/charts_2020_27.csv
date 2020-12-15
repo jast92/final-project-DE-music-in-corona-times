@@ -7,8 +7,8 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 6,DaBaby feat. Roddy Ricch,Rockstar,Interscope,11,3,2020-07-03,2020-07-09,2020,7
 7,Kynda Gray + RIN,Ayo Technology,SME - Division,1,7,2020-07-03,2020-07-09,2020,7
 8,Bonez MC,Big Body Benz,187 Strassenbande,2,1,2020-07-03,2020-07-09,2020,7
-9,Capital Bra & Bozza,Ich weiÃŸ nicht mal wie sie heiÃŸt,Urban,2,3,2020-07-03,2020-07-09,2020,7
-10,Mark Forster,Ãœbermorgen,SME - Marecs,9,7,2020-07-03,2020-07-09,2020,7
+9,Capital Bra & Bozza,Ich weiß nicht mal wie sie heißt,Urban,2,3,2020-07-03,2020-07-09,2020,7
+10,Mark Forster,Übermorgen,SME - Marecs,9,7,2020-07-03,2020-07-09,2020,7
 11,Apache 207,Boot,SME - Two Sides,4,1,2020-07-03,2020-07-09,2020,7
 12,Vize & Tom Gregory,Never Let Me Down,Kontor Records,10,12,2020-07-03,2020-07-09,2020,7
 13,The Weeknd,Blinding Lights,Republic Records,31,1,2020-07-03,2020-07-09,2020,7
@@ -39,14 +39,14 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 38,Benee feat. Gus Dapperton,Supalonely,Universal,16,26,2020-07-03,2020-07-09,2020,7
 39,Drake,Toosie Slide,Republic Records,13,2,2020-07-03,2020-07-09,2020,7
 40,Harry Styles,Watermelon Sugar,SME - Columbia,3,40,2020-07-03,2020-07-09,2020,7
-41,Fero47,GlÃ¼ck,SME - Epic Domestic,1,41,2020-07-03,2020-07-09,2020,7
+41,Fero47,Glück,SME - Epic Domestic,1,41,2020-07-03,2020-07-09,2020,7
 42,Reezy x Bausa,Sandmann,SME - Two Sides,5,14,2020-07-03,2020-07-09,2020,7
 43,RIN,Das Rennen,SME - Division,4,6,2020-07-03,2020-07-09,2020,7
 44,Robin Schulz feat. Alida,In Your Eyes,Warner Music Germany,25,5,2020-07-03,2020-07-09,2020,7
-45,badmÃ³mzjay,Snowbunny,Universal Domestic Vertigo,2,26,2020-07-03,2020-07-09,2020,7
+45,badmómzjay,Snowbunny,Universal Domestic Vertigo,2,26,2020-07-03,2020-07-09,2020,7
 46,Michael Patrick Kelly,Beautiful Madness,SME - Columbia Domestic,7,46,2020-07-03,2020-07-09,2020,7
 47,Miami Yacine,Ghetto Karibik,KMN Gang,1,47,2020-07-03,2020-07-09,2020,7
-48,Kayef,Ich wÃ¼rd' lÃ¼gen,Recordjet,13,13,2020-07-03,2020-07-09,2020,7
+48,Kayef,Ich würd' lügen,Recordjet,13,13,2020-07-03,2020-07-09,2020,7
 49,Ava Max,Salt,Atlantic,20,10,2020-07-03,2020-07-09,2020,7
 50,Nico Santos & Topic,Like I Love You,Virgin Records,11,24,2020-07-03,2020-07-09,2020,7
 51,Felix Jaehn feat. Gashi & Faangs,Sicko,Virgin Records,8,42,2020-07-03,2020-07-09,2020,7
@@ -63,10 +63,10 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 62,Capital Bra x Loredana,Nicht verdient,Urban,9,1,2020-07-03,2020-07-09,2020,7
 63,Kontra K,Sonne,BMG,2,21,2020-07-03,2020-07-09,2020,7
 64,Kalim & Ufo361,SKRR,Urban,5,8,2020-07-03,2020-07-09,2020,7
-65,CÃ©line [DE],TrÃ¤nen aus Kajal,BTGS,13,17,2020-07-03,2020-07-09,2020,7
+65,Céline [DE],Tränen aus Kajal,BTGS,13,17,2020-07-03,2020-07-09,2020,7
 66,Blackpink,How You Like That,YG Entertainment,1,66,2020-07-03,2020-07-09,2020,7
 67,Kygo & OneRepublic,Lose Somebody,SME - Kygo,7,45,2020-07-03,2020-07-09,2020,7
-68,RosalÃ­a & Travis Scott,TKN,SME - Columbia,3,58,2020-07-03,2020-07-09,2020,7
+68,Rosalía & Travis Scott,TKN,SME - Columbia,3,58,2020-07-03,2020-07-09,2020,7
 69,StaySolidRocky,Party Girl,SME - Columbia,4,61,2020-07-03,2020-07-09,2020,7
 70,Apache 207,200 km/h,SME - Two Sides,41,4,2020-07-03,2020-07-09,2020,7
 71,Pashanim,Hauseingang,Urban,19,56,2020-07-03,2020-07-09,2020,7
@@ -78,7 +78,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 77,Dua Lipa,Physical,Urban,22,14,2020-07-03,2020-07-09,2020,7
 78,Capital Bra x Samra & Lea,110,Urban,41,1,2020-07-03,2020-07-09,2020,7
 79,LUM!X x Mokaby & D.T.E x Gabry Ponte,The Passenger (LaLaLa),Spinnin' Records,15,58,2020-07-03,2020-07-09,2020,7
-80,Olexesh,DÃ©jÃ vus im Kopf,385ideal,2,33,2020-07-03,2020-07-09,2020,7
+80,Olexesh,Déjàvus im Kopf,385ideal,2,33,2020-07-03,2020-07-09,2020,7
 81,LUM!X & Gabry Ponte,Monster,Spinnin' Records,49,20,2020-07-03,2020-07-09,2020,7
 82,Tom Gregory,Fingertips,Kontor Records,17,33,2020-07-03,2020-07-09,2020,7
 83,Luciano [DE],Late Night,Urban,9,7,2020-07-03,2020-07-09,2020,7
@@ -89,7 +89,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 88,Kalim,Dopeboy,Urban,2,30,2020-07-03,2020-07-09,2020,7
 89,David Puentez & Albert Neve,Superstar,,1,89,2020-07-03,2020-07-09,2020,7
 90,"Lost Frequencies, Zonderling & Kelvin Jones",Love To Go,Kontor Records,2,90,2020-07-03,2020-07-09,2020,7
-91,CÃ©line [DE],Wenn ich will,BTGS,5,41,2020-07-03,2020-07-09,2020,7
+91,Céline [DE],Wenn ich will,BTGS,5,41,2020-07-03,2020-07-09,2020,7
 92,Conkarah feat. Shaggy,Banana,S-Curve Records,1,92,2020-07-03,2020-07-09,2020,7
 93,Sarhad,Sinne,Fuchs,1,93,2020-07-03,2020-07-09,2020,7
 94,Shirin David,Hoes Up G's Down,Juicy Money Records,5,6,2020-07-03,2020-07-09,2020,7
@@ -97,5 +97,5 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 96,Megan Thee Stallion,Savage,300 Entertainment,14,33,2020-07-03,2020-07-09,2020,7
 97,Lewis Capaldi,Someone You Loved,Universal Domestic Vertigo,74,18,2020-07-03,2020-07-09,2020,7
 98,Marshmello & Halsey,Be Kind,Astralwerk,6,54,2020-07-03,2020-07-09,2020,7
-99,Gradur feat. Heuss L'EnfoirÃ©,Ne reviens pas,Capitol,1,99,2020-07-03,2020-07-09,2020,7
+99,Gradur feat. Heuss L'Enfoiré,Ne reviens pas,Capitol,1,99,2020-07-03,2020-07-09,2020,7
 100,Pashanim,Shababs botten,Recordjet,8,84,2020-07-03,2020-07-09,2020,7

@@ -1,5 +1,5 @@
 current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
-1,Shawn Mendes & Camila Cabello,SeÃ±orita,Island,8,1,2019-08-16,2019-08-22,2019,8
+1,Shawn Mendes & Camila Cabello,Señorita,Island,8,1,2019-08-16,2019-08-22,2019,8
 2,Loredana feat. Mozzik,Eiskalt,Loredana,2,2,2019-08-16,2019-08-22,2019,8
 3,DJ Snake & J Balvin feat. Tyga,Loco contigo,Geffen Records,9,3,2019-08-16,2019-08-22,2019,8
 4,Lil Nas X,Old Town Road,SME - Columbia,20,1,2019-08-16,2019-08-22,2019,8
@@ -11,7 +11,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 10,Billie Eilish,Bad Guy,Universal,20,4,2019-08-16,2019-08-22,2019,8
 11,Ed Sheeran & Justin Bieber,I Don't Care,Atlantic,14,2,2019-08-16,2019-08-22,2019,8
 12,Capital Bra x Samra,Tilidin,Universal Domestic Urban,8,1,2019-08-16,2019-08-22,2019,8
-13,Mero x Brado,OlÃ© OlÃ©,Groove Attack TraX,1,13,2019-08-16,2019-08-22,2019,8
+13,Mero x Brado,Olé Olé,Groove Attack TraX,1,13,2019-08-16,2019-08-22,2019,8
 14,Juju feat. Henning May,Vermissen,Jinx Music,15,1,2019-08-16,2019-08-22,2019,8
 15,Sarah Connor,Vincent,Universal Domestic Polydor,19,9,2019-08-16,2019-08-22,2019,8
 16,Loredana,Jetzt rufst du an,Loredana,6,2,2019-08-16,2019-08-22,2019,8
@@ -21,8 +21,8 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 20,Ufo361 feat. Data Luv,Shot,Stay High,7,4,2019-08-16,2019-08-22,2019,8
 21,Samra & Capital Bra,Wieder Lila,Universal Domestic Urban,13,1,2019-08-16,2019-08-22,2019,8
 22,Kygo x Whitney Houston,Higher Love,SME - RCA International,7,22,2019-08-16,2019-08-22,2019,8
-23,"Trettmann, KitschKrieg & Gzuz",Du weiÃŸt,Soulforce/BMG,2,15,2019-08-16,2019-08-22,2019,8
-24,Robin Schulz feat. HarlÅ“,All This Love,Warner Music Germany,14,24,2019-08-16,2019-08-22,2019,8
+23,"Trettmann, KitschKrieg & Gzuz",Du weißt,Soulforce/BMG,2,15,2019-08-16,2019-08-22,2019,8
+24,Robin Schulz feat. Harlœ,All This Love,Warner Music Germany,14,24,2019-08-16,2019-08-22,2019,8
 25,Post Malone feat. Young Thug,Goodbyes,Republic Records,6,16,2019-08-16,2019-08-22,2019,8
 26,OneRepublic,Rescue Me,Interscope,13,24,2019-08-16,2019-08-22,2019,8
 27,Summer Cem feat. Capital Bra,Diamonds,Banger Musik,9,3,2019-08-16,2019-08-22,2019,8
@@ -30,13 +30,13 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 29,Lewis Capaldi,Someone You Loved,Universal Domestic Vertigo,28,18,2019-08-16,2019-08-22,2019,8
 30,Ufo361 feat. Gunna,On Time,Stay High,4,10,2019-08-16,2019-08-22,2019,8
 31,KC Rebell & RAF Camora,Neptun,Rebell Army,4,2,2019-08-16,2019-08-22,2019,8
-32,Shirin David feat. MaÃ®tre Gims,On Off,Shirin David Music,7,3,2019-08-16,2019-08-22,2019,8
+32,Shirin David feat. Maître Gims,On Off,Shirin David Music,7,3,2019-08-16,2019-08-22,2019,8
 33,Pietro Lombardi,Macarena,Universal Domestic Polydor,2,3,2019-08-16,2019-08-22,2019,8
 34,Daddy Yankee feat. Snow,Con calma,Universal,26,6,2019-08-16,2019-08-22,2019,8
 35,Ariana Grande & Social House,Boyfriend,Republic Records,2,23,2019-08-16,2019-08-22,2019,8
 36,R3hab x A Touch Of Class,All Around The World (La La La),Virgin Records,11,29,2019-08-16,2019-08-22,2019,8
-37,Pedro CapÃ³,Calma,Sony Music,11,33,2019-08-16,2019-08-22,2019,8
-38,Olexesh feat. A Boogie Wit Da Hoodie,Ouh MÃ¤dchen,Universal Domestic Urban,1,38,2019-08-16,2019-08-22,2019,8
+37,Pedro Capó,Calma,Sony Music,11,33,2019-08-16,2019-08-22,2019,8
+38,Olexesh feat. A Boogie Wit Da Hoodie,Ouh Mädchen,Universal Domestic Urban,1,38,2019-08-16,2019-08-22,2019,8
 39,Tones And I,Dance Monkey,Bad Batch Records,1,39,2019-08-16,2019-08-22,2019,8
 40,Summer Cem x Gringo,Yallah Goodbye,Banger Musik,6,5,2019-08-16,2019-08-22,2019,8
 41,Martin Garrix feat. Macklemore & Patrick Stump of Fall Out Boy,Summer Days,SME - Epic,15,24,2019-08-16,2019-08-22,2019,8
@@ -85,7 +85,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 84,Shindy,Nautilus,SME - Friends With Money,14,2,2019-08-16,2019-08-22,2019,8
 85,Rammstein,Deutschland,Rammstein,20,1,2019-08-16,2019-08-22,2019,8
 86,Ava Max,Sweet But Psycho,Atlantic,43,1,2019-08-16,2019-08-22,2019,8
-87,Leon MachÃ¨re & Kay One feat. Tilly,Portofino,PMR Music,7,18,2019-08-16,2019-08-22,2019,8
+87,Leon Machère & Kay One feat. Tilly,Portofino,PMR Music,7,18,2019-08-16,2019-08-22,2019,8
 88,Shindy,Raffaello,SME - Friends With Money,5,4,2019-08-16,2019-08-22,2019,8
 89,C Arma,Yapma,C Arma,32,29,2019-08-16,2019-08-22,2019,8
 90,Dardan,Coco Mama,Universal Domestic Urban,19,4,2019-08-16,2019-08-22,2019,8

@@ -3,9 +3,9 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 2,Ed Sheeran,Perfect,Atlantic,29,1,2018-02-16,2018-02-22,2018,2
 3,Eminem feat. Ed Sheeran,River,Interscope,9,2,2018-02-16,2018-02-22,2018,2
 4,Liam Payne & Rita Ora,For You (Fifty Shades Freed),Republic Records,6,4,2018-02-16,2018-02-22,2018,2
-5,Gzuz,Â¿Was hast du gedacht?,187 Strassenbande,1,5,2018-02-16,2018-02-22,2018,2
+5,Gzuz,¿Was hast du gedacht?,187 Strassenbande,1,5,2018-02-16,2018-02-22,2018,2
 6,Nico Santos,Rooftop,Virgin Records,14,5,2018-02-16,2018-02-22,2018,2
-7,Luis Fonsi & Demi Lovato,Ã‰chame la culpa,Universal,13,6,2018-02-16,2018-02-22,2018,2
+7,Luis Fonsi & Demi Lovato,Échame la culpa,Universal,13,6,2018-02-16,2018-02-22,2018,2
 8,Camila Cabello feat. Young Thug,Havana,Epic,26,2,2018-02-16,2018-02-22,2018,2
 9,Drake,God's Plan,Motown,4,5,2018-02-16,2018-02-22,2018,2
 10,The Chainsmokers,Sick Boy,Columbia,4,10,2018-02-16,2018-02-22,2018,2
@@ -24,7 +24,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 23,Azet feat. RAF Camora,Qa bone,KMN Gang,8,12,2018-02-16,2018-02-22,2018,2
 24,The Weeknd & Kendrick Lamar,Pray For Me,Universal,2,24,2018-02-16,2018-02-22,2018,2
 25,Rita Ora,Anywhere,Atlantic,13,18,2018-02-16,2018-02-22,2018,2
-26,Justin Bieber + BloodPopÂ®,Friends,Republic Records,26,4,2018-02-16,2018-02-22,2018,2
+26,Justin Bieber + BloodPop®,Friends,Republic Records,26,4,2018-02-16,2018-02-22,2018,2
 27,Azet,Ketten Cartier,KMN Gang,1,27,2018-02-16,2018-02-22,2018,2
 28,Ingo ohne Flamingo,"Saufen, morgens, mittags, abends",Hitmix Party Music,8,28,2018-02-16,2018-02-22,2018,2
 29,Dua Lipa,IDGAF,Universal Domestic Urban,4,29,2018-02-16,2018-02-22,2018,2
@@ -42,7 +42,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 41,Axwell Λ Ingrosso,More Than You Know,Virgin Records,36,1,2018-02-16,2018-02-22,2018,2
 42,Axwell Λ Ingrosso,Dreamer,Virgin Records,7,39,2018-02-16,2018-02-22,2018,2
 43,Imagine Dragons,Whatever It Takes,Interscope,20,7,2018-02-16,2018-02-22,2018,2
-44,Kay One feat. Pietro Lombardi,SeÃ±orita,Princekayone GmbH,23,1,2018-02-16,2018-02-22,2018,2
+44,Kay One feat. Pietro Lombardi,Señorita,Princekayone GmbH,23,1,2018-02-16,2018-02-22,2018,2
 45,Zedd / Maren Morris / Grey,The Middle,Interscope,3,45,2018-02-16,2018-02-22,2018,2
 46,Zayn feat. Sia,Dusk Till Dawn,RCA International,23,3,2018-02-16,2018-02-22,2018,2
 47,Dua Lipa,New Rules,Universal Domestic Vertigo,29,9,2018-02-16,2018-02-22,2018,2
@@ -50,14 +50,14 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 49,Clean Bandit feat. Julia Michaels,I Miss You,Atlantic,14,49,2018-02-16,2018-02-22,2018,2
 50,RAF Camora,Primo,Indipendenza,25,6,2018-02-16,2018-02-22,2018,2
 51,Bruno Mars,Finesse,Atlantic,6,31,2018-02-16,2018-02-22,2018,2
-52,Niska,RÃ©seaux,Capitol,4,41,2018-02-16,2018-02-22,2018,2
-53,18 Karat feat. Farid Bang,Komm ins CafÃ© 2,Banger Musik,1,53,2018-02-16,2018-02-22,2018,2
+52,Niska,Réseaux,Capitol,4,41,2018-02-16,2018-02-22,2018,2
+53,18 Karat feat. Farid Bang,Komm ins Café 2,Banger Musik,1,53,2018-02-16,2018-02-22,2018,2
 54,Luis Fonsi feat. Daddy Yankee,Despacito,Universal,55,1,2018-02-16,2018-02-22,2018,2
 55,Kygo feat. Justin Jesso,Stargazing,B1 Recordings,21,14,2018-02-16,2018-02-22,2018,2
 56,RAF Camora,Sag nix,Indipendenza,10,6,2018-02-16,2018-02-22,2018,2
 57,RAF Camora,Gotham City,Indipendenza,9,9,2018-02-16,2018-02-22,2018,2
 58,Fard,Peter Pan 2,Ruhrpott Elite,1,58,2018-02-16,2018-02-22,2018,2
-59,Hailee Steinfeld x BloodPopÂ®,Capital Letters,Republic Records,1,59,2018-02-16,2018-02-22,2018,2
+59,Hailee Steinfeld x BloodPop®,Capital Letters,Republic Records,1,59,2018-02-16,2018-02-22,2018,2
 60,J Balvin & Willy William,Mi gente,B1 Recordings,33,3,2018-02-16,2018-02-22,2018,2
 61,Imagine Dragons,Thunder,Interscope,42,2,2018-02-16,2018-02-22,2018,2
 62,Bazzi,Mine,ZZZ Entertainment,1,62,2018-02-16,2018-02-22,2018,2
@@ -70,7 +70,7 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 69,Bebe Rexha feat. Florida Georgia Line,Meant To Be,Warner Music International,6,68,2018-02-16,2018-02-22,2018,2
 70,Bausa feat. Reezy,Belle etage 2.0,Warner Music Germany,1,70,2018-02-16,2018-02-22,2018,2
 71,Avicii feat. Rita Ora,Lonely Together,Virgin Records,22,24,2018-02-16,2018-02-22,2018,2
-72,Lorenz BÃ¼ffel,Johnny DÃ¤pp,Xtreme Sound Recordings,4,28,2018-02-16,2018-02-22,2018,2
+72,Lorenz Büffel,Johnny Däpp,Xtreme Sound Recordings,4,28,2018-02-16,2018-02-22,2018,2
 73,Bausa feat. Capital Bra,Unterwegs,Warner Music Germany,2,73,2018-02-16,2018-02-22,2018,2
 74,MC Fioti / Future / J Balvin / Stefflon Don / Juan Magan,Bum bum tam tam,Kontor Records,4,71,2018-02-16,2018-02-22,2018,2
 75,Bonez MC & RAF Camora feat. Maxwell,Ohne mein Team,Auf!Keinen!Fall!,76,7,2018-02-16,2018-02-22,2018,2
@@ -80,20 +80,20 @@ current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
 79,Charlie Puth,How Long,Artist Partner Group,19,42,2018-02-16,2018-02-22,2018,2
 80,Keala Settle & The Greatest Showman Ensemble,This Is Me,Atlantic,6,55,2018-02-16,2018-02-22,2018,2
 81,Felix Jaehn feat. Marc E. Bassy & Gucci Mane,Cool,Virgin Records,1,81,2018-02-16,2018-02-22,2018,2
-82,GestÃ¶rt aber GeiL feat. Lea,Wohin willst du,Kontor Records,36,11,2018-02-16,2018-02-22,2018,2
+82,Gestört aber GeiL feat. Lea,Wohin willst du,Kontor Records,36,11,2018-02-16,2018-02-22,2018,2
 83,CamelPhat & Elderbrook,Cola,Defected Records,5,83,2018-02-16,2018-02-22,2018,2
 84,Nimo,Heute mit mir,Universal Domestic Urban,36,10,2018-02-16,2018-02-22,2018,2
 85,Rea Garvey feat. Kool Savas,Is It Love?,Universal Domestic Island,3,62,2018-02-16,2018-02-22,2018,2
-86,Brings,KÃ¶lsche Jung,RhingtÃ¶n,12,26,2018-02-16,2018-02-22,2018,2
+86,Brings,Kölsche Jung,Rhingtön,12,26,2018-02-16,2018-02-22,2018,2
 87,Maroon 5 feat. SZA,What Lovers Do,A&M Records,24,17,2018-02-16,2018-02-22,2018,2
-88,Veysel,Kleiner CabrÃ³n,Bela Boyz,24,18,2018-02-16,2018-02-22,2018,2
+88,Veysel,Kleiner Cabrón,Bela Boyz,24,18,2018-02-16,2018-02-22,2018,2
 89,Lauv,I Like Me Better,Lauv,32,7,2018-02-16,2018-02-22,2018,2
-90,Brings,"Polka, Polka, Polka",RhingtÃ¶n,5,19,2018-02-16,2018-02-22,2018,2
+90,Brings,"Polka, Polka, Polka",Rhingtön,5,19,2018-02-16,2018-02-22,2018,2
 91,BlocBoy JB feat. Drake,Look Alive,OVO Sound,1,91,2018-02-16,2018-02-22,2018,2
-92,Querbeat,Guten Morgen Barbarossaplatz,RhingtÃ¶n,1,92,2018-02-16,2018-02-22,2018,2
+92,Querbeat,Guten Morgen Barbarossaplatz,Rhingtön,1,92,2018-02-16,2018-02-22,2018,2
 93,Imagine Dragons,Believer,Interscope,46,23,2018-02-16,2018-02-22,2018,2
 94,Miami Yacine,Bon voyage,KMN Gang,31,5,2018-02-16,2018-02-22,2018,2
-95,Querbeat,Nie mehr Fastelovend,RhingtÃ¶n,3,91,2018-02-16,2018-02-22,2018,2
+95,Querbeat,Nie mehr Fastelovend,Rhingtön,3,91,2018-02-16,2018-02-22,2018,2
 96,P!nk,What About Us,RCA International,27,3,2018-02-16,2018-02-22,2018,2
 97,Robin Schulz & Hugel,I Believe I'm Fine,Warner Music Germany,23,29,2018-02-16,2018-02-22,2018,2
 98,The Chainsmokers & Coldplay,Something Just Like This,Columbia,50,4,2018-02-16,2018-02-22,2018,2
