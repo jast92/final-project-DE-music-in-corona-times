@@ -1,0 +1,2237 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20203.20.1110.1623                               -->
+<workbook original-version='18.1' source-build='2020.3.3 (20203.20.1110.1623)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='audioanalysis_compl' inline='true' name='federated.1lpl43b0c4z8x91g7sjye03i8fbf' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='audioanalysis_compl' name='textscan.1qylkka1yeaqsu18oj7i31m8pyk3'>
+            <connection class='textscan' directory='C:/Users/janek/Desktop/Ironhack/Course/Project/final-DE-music-in-corona-times/analysis/general/csv' filename='audioanalysis_compl.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1qylkka1yeaqsu18oj7i31m8pyk3' name='audioanalysis_compl.csv' table='[audioanalysis_compl#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='integer' name='id' ordinal='1' />
+            <column datatype='string' name='artist' ordinal='2' />
+            <column datatype='string' name='title' ordinal='3' />
+            <column datatype='date' date-parse-format='yyyy' name='year' ordinal='4' />
+            <column datatype='integer' name='month' ordinal='5' />
+            <column datatype='integer' name='week' ordinal='6' />
+            <column datatype='integer' name='totalweeksincharts' ordinal='7' />
+            <column datatype='integer' name='total2018weeksincharts' ordinal='8' />
+            <column datatype='integer' name='total2019weeksincharts' ordinal='9' />
+            <column datatype='integer' name='total2020weeksincharts' ordinal='10' />
+            <column datatype='real' name='danceability' ordinal='11' />
+            <column datatype='real' name='energy' ordinal='12' />
+            <column datatype='integer' name='key' ordinal='13' />
+            <column datatype='real' name='loudness' ordinal='14' />
+            <column datatype='integer' name='mode' ordinal='15' />
+            <column datatype='real' name='speechiness' ordinal='16' />
+            <column datatype='real' name='acousticness' ordinal='17' />
+            <column datatype='real' name='instrumentalness' ordinal='18' />
+            <column datatype='real' name='liveness' ordinal='19' />
+            <column datatype='real' name='valence' ordinal='20' />
+            <column datatype='real' name='tempo' ordinal='21' />
+            <column datatype='integer' name='duration_ms' ordinal='22' />
+            <column datatype='integer' name='time_signature' ordinal='23' />
+            <column datatype='string' name='spotify-id' ordinal='24' />
+            <column datatype='string' name='track_href' ordinal='25' />
+            <column datatype='string' name='analysis_url' ordinal='26' />
+            <column datatype='string' name='uri' ordinal='27' />
+            <column datatype='string' name='genres' ordinal='28' />
+            <column datatype='date' name='release' ordinal='29' />
+            <column datatype='string' name='genre' ordinal='30' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.1qylkka1yeaqsu18oj7i31m8pyk3' name='audioanalysis_compl.csv' table='[audioanalysis_compl#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='integer' name='id' ordinal='1' />
+            <column datatype='string' name='artist' ordinal='2' />
+            <column datatype='string' name='title' ordinal='3' />
+            <column datatype='date' date-parse-format='yyyy' name='year' ordinal='4' />
+            <column datatype='integer' name='month' ordinal='5' />
+            <column datatype='integer' name='week' ordinal='6' />
+            <column datatype='integer' name='totalweeksincharts' ordinal='7' />
+            <column datatype='integer' name='total2018weeksincharts' ordinal='8' />
+            <column datatype='integer' name='total2019weeksincharts' ordinal='9' />
+            <column datatype='integer' name='total2020weeksincharts' ordinal='10' />
+            <column datatype='real' name='danceability' ordinal='11' />
+            <column datatype='real' name='energy' ordinal='12' />
+            <column datatype='integer' name='key' ordinal='13' />
+            <column datatype='real' name='loudness' ordinal='14' />
+            <column datatype='integer' name='mode' ordinal='15' />
+            <column datatype='real' name='speechiness' ordinal='16' />
+            <column datatype='real' name='acousticness' ordinal='17' />
+            <column datatype='real' name='instrumentalness' ordinal='18' />
+            <column datatype='real' name='liveness' ordinal='19' />
+            <column datatype='real' name='valence' ordinal='20' />
+            <column datatype='real' name='tempo' ordinal='21' />
+            <column datatype='integer' name='duration_ms' ordinal='22' />
+            <column datatype='integer' name='time_signature' ordinal='23' />
+            <column datatype='string' name='spotify-id' ordinal='24' />
+            <column datatype='string' name='track_href' ordinal='25' />
+            <column datatype='string' name='analysis_url' ordinal='26' />
+            <column datatype='string' name='uri' ordinal='27' />
+            <column datatype='string' name='genres' ordinal='28' />
+            <column datatype='date' name='release' ordinal='29' />
+            <column datatype='string' name='genre' ordinal='30' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[id]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>id</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>artist</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[artist]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>artist</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>title</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[title]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>title</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>year</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[year]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>year</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>month</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[month]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>month</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>week</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[week]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>week</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>totalweeksincharts</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[totalweeksincharts]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>totalweeksincharts</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>total2018weeksincharts</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[total2018weeksincharts]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>total2018weeksincharts</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>total2019weeksincharts</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[total2019weeksincharts]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>total2019weeksincharts</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>total2020weeksincharts</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[total2020weeksincharts]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>total2020weeksincharts</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>danceability</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[danceability]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>danceability</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>energy</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[energy]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>energy</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>key</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[key]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>key</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>loudness</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[loudness]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>loudness</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>mode</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[mode]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>mode</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>speechiness</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[speechiness]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>speechiness</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>acousticness</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[acousticness]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>acousticness</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>instrumentalness</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[instrumentalness]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>instrumentalness</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>liveness</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[liveness]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>liveness</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>valence</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[valence]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>valence</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>tempo</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[tempo]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>tempo</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>duration_ms</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[duration_ms]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>duration_ms</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>time_signature</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[time_signature]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>time_signature</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>spotify-id</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[spotify-id]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>spotify-id</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>track_href</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[track_href]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>track_href</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>analysis_url</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[analysis_url]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>analysis_url</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>uri</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[uri]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>uri</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>genres</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[genres]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>genres</remote-alias>
+            <ordinal>28</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>release</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[release]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>release</remote-alias>
+            <ordinal>29</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>genre</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[genre]</local-name>
+            <parent-name>[audioanalysis_compl.csv]</parent-name>
+            <remote-alias>genre</remote-alias>
+            <ordinal>30</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <_.fcp.ObjectModelTableType.true...column caption='audioanalysis_compl.csv' datatype='table' name='[__tableau_internal_object_id__].[audioanalysis_compl.csv_17B3C3673769459DB2DBD6DEE9D58F7C]' role='measure' type='quantitative' />
+      <column aggregation='CountD' datatype='string' name='[genre]' role='dimension' type='nominal' />
+      <column datatype='string' hidden='true' name='[genres]' role='dimension' type='nominal' />
+      <column aggregation='Sum' datatype='integer' name='[id]' role='dimension' type='ordinal' />
+      <column caption='time' datatype='string' name='[year (group)]' role='dimension' type='ordinal'>
+        <calculation class='categorical-bin' column='[year]' new-bin='true'>
+          <bin default-name='false' value='&quot;post-crisis&quot;'>
+            <value>#2020-01-01#</value>
+          </bin>
+          <bin default-name='false' value='&quot;pre-crisis&quot;'>
+            <value>#2018-01-01#</value>
+            <value>#2019-01-01#</value>
+          </bin>
+        </calculation>
+      </column>
+      <column datatype='date' name='[year]' role='dimension' type='quantitative' />
+      <column-instance column='[genre]' derivation='Attribute' name='[attr:genre:nk]' pivot='key' type='nominal' />
+      <column-instance column='[genre]' derivation='None' name='[none:genre:nk]' pivot='key' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:genre:nk]' type='palette'>
+            <map to='#499894'>
+              <bucket>&quot;alternative pop rock&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;brostep&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;danish pop&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;europop&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;glam rock&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;modern rock&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;schlager&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>%null%</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;8-bit&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;bedroom soul&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;comedy rap&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;dutch pop&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;german dance&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;k-pop&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;pop dance&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;albanian hip hop&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;boy band&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;contemporary country&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;electro house&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;german indie&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;latin pop&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;rap&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;atl hip hop&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;canadian hip hop&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;deep house&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;folk-pop&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;house&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;new french touch&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;uk hip hop&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;alternative r&amp;b&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;bubblegum dance&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;dark clubbing&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;eurovision&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;grime&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;musical advocacy&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;south african house&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;albanian pop&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;british soul&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;country rap&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;electropop&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;german oi&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;lithuanian electronic&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;reggaeton&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;beatlesque&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;cologne hip hop&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;discofox&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;german alternative rock&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;italian pop&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;permanent wave&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;a cappella&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;belgian dance&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;comic&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;dutch trance&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;german drill&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;karaoke&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;pop edm&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;baroque pop&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;classic rock&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;dfw rap&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;funk carioca&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;italian disco&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;ohio hip hop&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;album rock&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;broadway&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;czech pop&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;emo rap&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;german pop&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;melodic rap&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;sad rap&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;australian dance&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;canadian pop&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;deep tech house&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;francoton&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;houston rap&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;new wave pop&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;viral rap&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;australian pop&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;chicago rap&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;deep underground hip hop&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;frauenrap&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;indie anthem-folk&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;north carolina hip hop&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;volkspop&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;basshall&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;classic schlager&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;disco&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;german alternative rap&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;italian hip hop&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;partyschlager&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;bedroom pop&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;cologne indie&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;dutch house&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;german cloud rap&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;jawaiian&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;pop&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;antideutsche&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;cali rap&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;deep euro house&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;finnish pop&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;hip hop&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;neo-singer-songwriter&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;tropical house&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;alternative metal&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;brooklyn drill&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;dance pop&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;eurodance&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;german r&amp;b&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;metropopolis&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;scandipop&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;adult standards&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;belgian edm&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;complextro&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;east coast hip hop&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;german hip hop&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;karneval&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;pop rap&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;balkan hip hop&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;christlicher rap&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;detroit hip hop&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;funk&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;israeli pop&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;nz pop&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;art rock&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;canadian contemporary r&amp;b&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;deep german hip hop&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;florida rap&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;hip pop&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;neue deutsche harte&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;turkish hip hop&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;afroswing&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;big room&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;conscious hip hop&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;edm&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;german house&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;latin&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;r&amp;b en espanol&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[attr:genre:nk]' type='palette'>
+            <map to='#499894'>
+              <bucket>&quot;alternative pop rock&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;brostep&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;danish pop&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;europop&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;glam rock&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;modern rock&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;schlager&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>%null%</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;8-bit&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;bedroom soul&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;comedy rap&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;dutch pop&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;german dance&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;k-pop&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;pop dance&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;albanian hip hop&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;boy band&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;contemporary country&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;electro house&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;german indie&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;latin pop&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;rap&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;atl hip hop&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;canadian hip hop&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;deep house&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;folk-pop&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;house&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;new french touch&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;uk hip hop&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;alternative r&amp;b&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;bubblegum dance&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;dark clubbing&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;eurovision&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;grime&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;musical advocacy&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;south african house&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;albanian pop&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;british soul&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;country rap&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;electropop&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;german oi&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;lithuanian electronic&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;reggaeton&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;beatlesque&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;cologne hip hop&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;discofox&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;german alternative rock&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;italian pop&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;permanent wave&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;a cappella&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;belgian dance&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;comic&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;dutch trance&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;german drill&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;karaoke&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;pop edm&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;baroque pop&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;classic rock&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;dfw rap&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;funk carioca&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;italian disco&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;ohio hip hop&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;album rock&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;broadway&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;czech pop&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;emo rap&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;german pop&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;melodic rap&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;sad rap&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;australian dance&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;canadian pop&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;deep tech house&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;francoton&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;houston rap&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;new wave pop&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;viral rap&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;australian pop&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;chicago rap&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;deep underground hip hop&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;frauenrap&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;indie anthem-folk&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;north carolina hip hop&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;volkspop&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;basshall&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;classic schlager&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;disco&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;german alternative rap&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;italian hip hop&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;partyschlager&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;bedroom pop&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;cologne indie&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;dutch house&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;german cloud rap&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;jawaiian&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;pop&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;antideutsche&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;cali rap&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;deep euro house&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;finnish pop&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;hip hop&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;neo-singer-songwriter&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;tropical house&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;alternative metal&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;brooklyn drill&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;dance pop&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;eurodance&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;german r&amp;b&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;metropopolis&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;scandipop&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;adult standards&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;belgian edm&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;complextro&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;east coast hip hop&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;german hip hop&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;karneval&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;pop rap&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;balkan hip hop&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;christlicher rap&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;detroit hip hop&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;funk&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;israeli pop&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;nz pop&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;art rock&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;canadian contemporary r&amp;b&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;deep german hip hop&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;florida rap&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;hip pop&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;neue deutsche harte&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;turkish hip hop&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;afroswing&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;big room&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;conscious hip hop&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;edm&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;german house&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;latin&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;r&amp;b en espanol&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Germany&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='audioanalysis_compl.csv' id='audioanalysis_compl.csv_17B3C3673769459DB2DBD6DEE9D58F7C'>
+            <properties context=''>
+              <relation connection='textscan.1qylkka1yeaqsu18oj7i31m8pyk3' name='audioanalysis_compl.csv' table='[audioanalysis_compl#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='F1' ordinal='0' />
+                  <column datatype='integer' name='id' ordinal='1' />
+                  <column datatype='string' name='artist' ordinal='2' />
+                  <column datatype='string' name='title' ordinal='3' />
+                  <column datatype='date' date-parse-format='yyyy' name='year' ordinal='4' />
+                  <column datatype='integer' name='month' ordinal='5' />
+                  <column datatype='integer' name='week' ordinal='6' />
+                  <column datatype='integer' name='totalweeksincharts' ordinal='7' />
+                  <column datatype='integer' name='total2018weeksincharts' ordinal='8' />
+                  <column datatype='integer' name='total2019weeksincharts' ordinal='9' />
+                  <column datatype='integer' name='total2020weeksincharts' ordinal='10' />
+                  <column datatype='real' name='danceability' ordinal='11' />
+                  <column datatype='real' name='energy' ordinal='12' />
+                  <column datatype='integer' name='key' ordinal='13' />
+                  <column datatype='real' name='loudness' ordinal='14' />
+                  <column datatype='integer' name='mode' ordinal='15' />
+                  <column datatype='real' name='speechiness' ordinal='16' />
+                  <column datatype='real' name='acousticness' ordinal='17' />
+                  <column datatype='real' name='instrumentalness' ordinal='18' />
+                  <column datatype='real' name='liveness' ordinal='19' />
+                  <column datatype='real' name='valence' ordinal='20' />
+                  <column datatype='real' name='tempo' ordinal='21' />
+                  <column datatype='integer' name='duration_ms' ordinal='22' />
+                  <column datatype='integer' name='time_signature' ordinal='23' />
+                  <column datatype='string' name='spotify-id' ordinal='24' />
+                  <column datatype='string' name='track_href' ordinal='25' />
+                  <column datatype='string' name='analysis_url' ordinal='26' />
+                  <column datatype='string' name='uri' ordinal='27' />
+                  <column datatype='string' name='genres' ordinal='28' />
+                  <column datatype='date' name='release' ordinal='29' />
+                  <column datatype='string' name='genre' ordinal='30' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='post-crisis'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='audioanalysis_compl' name='federated.1lpl43b0c4z8x91g7sjye03i8fbf' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1lpl43b0c4z8x91g7sjye03i8fbf'>
+            <column aggregation='CountD' datatype='string' name='[genre]' role='dimension' type='nominal' />
+            <column-instance column='[genre]' derivation='None' name='[none:genre:nk]' pivot='key' type='nominal' />
+            <column-instance column='[genre]' derivation='Count' name='[pcto:cnt:genre:qk]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Columns' type='PctTotal' />
+            </column-instance>
+            <column caption='time' datatype='string' name='[year (group)]' role='dimension' type='ordinal'>
+              <calculation class='categorical-bin' column='[year]' new-bin='true'>
+                <bin default-name='false' value='&quot;post-crisis&quot;'>
+                  <value>#2020-01-01#</value>
+                </bin>
+                <bin default-name='false' value='&quot;pre-crisis&quot;'>
+                  <value>#2018-01-01#</value>
+                  <value>#2019-01-01#</value>
+                </bin>
+              </calculation>
+            </column>
+            <column datatype='date' name='[year]' role='dimension' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[none:genre:nk]'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:genre:nk]' />
+              <groupfilter function='member' level='[none:genre:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[none:genre:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;german hip hop&quot;</bucket>
+              <bucket>&quot;deep german hip hop&quot;</bucket>
+              <bucket>&quot;dance pop&quot;</bucket>
+              <bucket>&quot;german pop&quot;</bucket>
+              <bucket>&quot;german drill&quot;</bucket>
+              <bucket>&quot;albanian hip hop&quot;</bucket>
+              <bucket>&quot;german cloud rap&quot;</bucket>
+              <bucket>&quot;frauenrap&quot;</bucket>
+              <bucket>&quot;pop&quot;</bucket>
+              <bucket>&quot;electropop&quot;</bucket>
+              <bucket>&quot;christlicher rap&quot;</bucket>
+              <bucket>&quot;adult standards&quot;</bucket>
+              <bucket>&quot;canadian hip hop&quot;</bucket>
+              <bucket>&quot;dfw rap&quot;</bucket>
+              <bucket>&quot;big room&quot;</bucket>
+              <bucket>&quot;edm&quot;</bucket>
+              <bucket>&quot;detroit hip hop&quot;</bucket>
+              <bucket>&quot;alternative metal&quot;</bucket>
+              <bucket>&quot;emo rap&quot;</bucket>
+              <bucket>&quot;canadian pop&quot;</bucket>
+              <bucket>&quot;latin&quot;</bucket>
+              <bucket>&quot;eurovision&quot;</bucket>
+              <bucket>&quot;canadian contemporary r&amp;b&quot;</bucket>
+              <bucket>&quot;boy band&quot;</bucket>
+              <bucket>&quot;rap&quot;</bucket>
+              <bucket>&quot;brostep&quot;</bucket>
+              <bucket>&quot;german dance&quot;</bucket>
+              <bucket>&quot;australian pop&quot;</bucket>
+              <bucket>&quot;australian dance&quot;</bucket>
+              <bucket>&quot;alternative r&amp;b&quot;</bucket>
+              <bucket>&quot;partyschlager&quot;</bucket>
+              <bucket>&quot;melodic rap&quot;</bucket>
+              <bucket>&quot;k-pop&quot;</bucket>
+              <bucket>&quot;francoton&quot;</bucket>
+              <bucket>&quot;folk-pop&quot;</bucket>
+              <bucket>&quot;europop&quot;</bucket>
+              <bucket>&quot;deep euro house&quot;</bucket>
+              <bucket>&quot;conscious hip hop&quot;</bucket>
+              <bucket>&quot;chicago rap&quot;</bucket>
+              <bucket>&quot;atl hip hop&quot;</bucket>
+              <bucket>&quot;album rock&quot;</bucket>
+              <bucket>&quot;pop rap&quot;</bucket>
+              <bucket>&quot;permanent wave&quot;</bucket>
+              <bucket>&quot;modern rock&quot;</bucket>
+              <bucket>&quot;latin pop&quot;</bucket>
+              <bucket>&quot;house&quot;</bucket>
+              <bucket>&quot;hip hop&quot;</bucket>
+              <bucket>&quot;german alternative rock&quot;</bucket>
+              <bucket>&quot;electro house&quot;</bucket>
+              <bucket>&quot;discofox&quot;</bucket>
+              <bucket>&quot;country rap&quot;</bucket>
+              <bucket>&quot;complextro&quot;</bucket>
+              <bucket>&quot;cologne indie&quot;</bucket>
+              <bucket>&quot;classic rock&quot;</bucket>
+              <bucket>&quot;neue deutsche harte&quot;</bucket>
+              <bucket>&quot;neo-singer-songwriter&quot;</bucket>
+              <bucket>&quot;musical advocacy&quot;</bucket>
+              <bucket>&quot;karneval&quot;</bucket>
+              <bucket>&quot;karaoke&quot;</bucket>
+              <bucket>&quot;israeli pop&quot;</bucket>
+              <bucket>&quot;indie anthem-folk&quot;</bucket>
+              <bucket>&quot;german alternative rap&quot;</bucket>
+              <bucket>&quot;east coast hip hop&quot;</bucket>
+              <bucket>&quot;deep house&quot;</bucket>
+              <bucket>&quot;comedy rap&quot;</bucket>
+              <bucket>&quot;belgian edm&quot;</bucket>
+              <bucket>&quot;volkspop&quot;</bucket>
+              <bucket>&quot;turkish hip hop&quot;</bucket>
+              <bucket>&quot;schlager&quot;</bucket>
+              <bucket>&quot;new wave pop&quot;</bucket>
+              <bucket>&quot;metropopolis&quot;</bucket>
+              <bucket>&quot;lithuanian electronic&quot;</bucket>
+              <bucket>&quot;italian pop&quot;</bucket>
+              <bucket>&quot;italian disco&quot;</bucket>
+              <bucket>&quot;grime&quot;</bucket>
+              <bucket>&quot;glam rock&quot;</bucket>
+              <bucket>&quot;german r&amp;b&quot;</bucket>
+              <bucket>&quot;german oi&quot;</bucket>
+              <bucket>&quot;german indie&quot;</bucket>
+              <bucket>&quot;german house&quot;</bucket>
+              <bucket>&quot;funk carioca&quot;</bucket>
+              <bucket>&quot;florida rap&quot;</bucket>
+              <bucket>&quot;finnish pop&quot;</bucket>
+              <bucket>&quot;dutch trance&quot;</bucket>
+              <bucket>&quot;dutch pop&quot;</bucket>
+              <bucket>&quot;dutch house&quot;</bucket>
+              <bucket>&quot;disco&quot;</bucket>
+              <bucket>&quot;deep tech house&quot;</bucket>
+              <bucket>&quot;dark clubbing&quot;</bucket>
+              <bucket>&quot;danish pop&quot;</bucket>
+              <bucket>&quot;czech pop&quot;</bucket>
+              <bucket>&quot;contemporary country&quot;</bucket>
+              <bucket>&quot;comic&quot;</bucket>
+              <bucket>&quot;classic schlager&quot;</bucket>
+              <bucket>&quot;cali rap&quot;</bucket>
+              <bucket>&quot;broadway&quot;</bucket>
+              <bucket>&quot;british soul&quot;</bucket>
+              <bucket>&quot;belgian dance&quot;</bucket>
+              <bucket>&quot;beatlesque&quot;</bucket>
+              <bucket>&quot;basshall&quot;</bucket>
+              <bucket>&quot;baroque pop&quot;</bucket>
+              <bucket>&quot;balkan hip hop&quot;</bucket>
+              <bucket>&quot;art rock&quot;</bucket>
+              <bucket>&quot;antideutsche&quot;</bucket>
+              <bucket>&quot;alternative pop rock&quot;</bucket>
+              <bucket>&quot;albanian pop&quot;</bucket>
+              <bucket>&quot;afroswing&quot;</bucket>
+              <bucket>&quot;a cappella&quot;</bucket>
+              <bucket>&quot;8-bit&quot;</bucket>
+              <bucket>%all%</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[year (group)]'>
+            <groupfilter function='member' level='[year (group)]' member='&quot;post-crisis&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[none:genre:nk]</column>
+            <column>[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[year (group)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[none:genre:nk]</rows>
+        <cols>[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[pcto:cnt:genre:qk]</cols>
+      </table>
+      <simple-id uuid='{BFAAA23A-2F03-4251-91AA-58E7733014ED}' />
+    </worksheet>
+    <worksheet name='pre-crisis'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='audioanalysis_compl' name='federated.1lpl43b0c4z8x91g7sjye03i8fbf' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1lpl43b0c4z8x91g7sjye03i8fbf'>
+            <column aggregation='CountD' datatype='string' name='[genre]' role='dimension' type='nominal' />
+            <column-instance column='[genre]' derivation='None' name='[none:genre:nk]' pivot='key' type='nominal' />
+            <column-instance column='[genre]' derivation='Count' name='[pcto:cnt:genre:qk]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Columns' type='PctTotal' />
+            </column-instance>
+            <column caption='time' datatype='string' name='[year (group)]' role='dimension' type='ordinal'>
+              <calculation class='categorical-bin' column='[year]' new-bin='true'>
+                <bin default-name='false' value='&quot;post-crisis&quot;'>
+                  <value>#2020-01-01#</value>
+                </bin>
+                <bin default-name='false' value='&quot;pre-crisis&quot;'>
+                  <value>#2018-01-01#</value>
+                  <value>#2019-01-01#</value>
+                </bin>
+              </calculation>
+            </column>
+            <column datatype='date' name='[year]' role='dimension' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[none:genre:nk]'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:genre:nk]' />
+              <groupfilter function='member' level='[none:genre:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[none:genre:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;german hip hop&quot;</bucket>
+              <bucket>&quot;deep german hip hop&quot;</bucket>
+              <bucket>&quot;dance pop&quot;</bucket>
+              <bucket>&quot;german pop&quot;</bucket>
+              <bucket>&quot;german drill&quot;</bucket>
+              <bucket>&quot;albanian hip hop&quot;</bucket>
+              <bucket>&quot;german cloud rap&quot;</bucket>
+              <bucket>&quot;frauenrap&quot;</bucket>
+              <bucket>&quot;pop&quot;</bucket>
+              <bucket>&quot;electropop&quot;</bucket>
+              <bucket>&quot;christlicher rap&quot;</bucket>
+              <bucket>&quot;adult standards&quot;</bucket>
+              <bucket>&quot;canadian hip hop&quot;</bucket>
+              <bucket>&quot;dfw rap&quot;</bucket>
+              <bucket>&quot;big room&quot;</bucket>
+              <bucket>&quot;edm&quot;</bucket>
+              <bucket>&quot;detroit hip hop&quot;</bucket>
+              <bucket>&quot;alternative metal&quot;</bucket>
+              <bucket>&quot;emo rap&quot;</bucket>
+              <bucket>&quot;canadian pop&quot;</bucket>
+              <bucket>&quot;latin&quot;</bucket>
+              <bucket>&quot;eurovision&quot;</bucket>
+              <bucket>&quot;canadian contemporary r&amp;b&quot;</bucket>
+              <bucket>&quot;boy band&quot;</bucket>
+              <bucket>&quot;rap&quot;</bucket>
+              <bucket>&quot;brostep&quot;</bucket>
+              <bucket>&quot;german dance&quot;</bucket>
+              <bucket>&quot;australian pop&quot;</bucket>
+              <bucket>&quot;australian dance&quot;</bucket>
+              <bucket>&quot;alternative r&amp;b&quot;</bucket>
+              <bucket>&quot;partyschlager&quot;</bucket>
+              <bucket>&quot;melodic rap&quot;</bucket>
+              <bucket>&quot;k-pop&quot;</bucket>
+              <bucket>&quot;francoton&quot;</bucket>
+              <bucket>&quot;folk-pop&quot;</bucket>
+              <bucket>&quot;europop&quot;</bucket>
+              <bucket>&quot;deep euro house&quot;</bucket>
+              <bucket>&quot;conscious hip hop&quot;</bucket>
+              <bucket>&quot;chicago rap&quot;</bucket>
+              <bucket>&quot;atl hip hop&quot;</bucket>
+              <bucket>&quot;album rock&quot;</bucket>
+              <bucket>&quot;pop rap&quot;</bucket>
+              <bucket>&quot;permanent wave&quot;</bucket>
+              <bucket>&quot;modern rock&quot;</bucket>
+              <bucket>&quot;latin pop&quot;</bucket>
+              <bucket>&quot;house&quot;</bucket>
+              <bucket>&quot;hip hop&quot;</bucket>
+              <bucket>&quot;german alternative rock&quot;</bucket>
+              <bucket>&quot;electro house&quot;</bucket>
+              <bucket>&quot;discofox&quot;</bucket>
+              <bucket>&quot;country rap&quot;</bucket>
+              <bucket>&quot;complextro&quot;</bucket>
+              <bucket>&quot;cologne indie&quot;</bucket>
+              <bucket>&quot;classic rock&quot;</bucket>
+              <bucket>&quot;neue deutsche harte&quot;</bucket>
+              <bucket>&quot;neo-singer-songwriter&quot;</bucket>
+              <bucket>&quot;musical advocacy&quot;</bucket>
+              <bucket>&quot;karneval&quot;</bucket>
+              <bucket>&quot;karaoke&quot;</bucket>
+              <bucket>&quot;israeli pop&quot;</bucket>
+              <bucket>&quot;indie anthem-folk&quot;</bucket>
+              <bucket>&quot;german alternative rap&quot;</bucket>
+              <bucket>&quot;east coast hip hop&quot;</bucket>
+              <bucket>&quot;deep house&quot;</bucket>
+              <bucket>&quot;comedy rap&quot;</bucket>
+              <bucket>&quot;belgian edm&quot;</bucket>
+              <bucket>&quot;volkspop&quot;</bucket>
+              <bucket>&quot;turkish hip hop&quot;</bucket>
+              <bucket>&quot;schlager&quot;</bucket>
+              <bucket>&quot;new wave pop&quot;</bucket>
+              <bucket>&quot;metropopolis&quot;</bucket>
+              <bucket>&quot;lithuanian electronic&quot;</bucket>
+              <bucket>&quot;italian pop&quot;</bucket>
+              <bucket>&quot;italian disco&quot;</bucket>
+              <bucket>&quot;grime&quot;</bucket>
+              <bucket>&quot;glam rock&quot;</bucket>
+              <bucket>&quot;german r&amp;b&quot;</bucket>
+              <bucket>&quot;german oi&quot;</bucket>
+              <bucket>&quot;german indie&quot;</bucket>
+              <bucket>&quot;german house&quot;</bucket>
+              <bucket>&quot;funk carioca&quot;</bucket>
+              <bucket>&quot;florida rap&quot;</bucket>
+              <bucket>&quot;finnish pop&quot;</bucket>
+              <bucket>&quot;dutch trance&quot;</bucket>
+              <bucket>&quot;dutch pop&quot;</bucket>
+              <bucket>&quot;dutch house&quot;</bucket>
+              <bucket>&quot;disco&quot;</bucket>
+              <bucket>&quot;deep tech house&quot;</bucket>
+              <bucket>&quot;dark clubbing&quot;</bucket>
+              <bucket>&quot;danish pop&quot;</bucket>
+              <bucket>&quot;czech pop&quot;</bucket>
+              <bucket>&quot;contemporary country&quot;</bucket>
+              <bucket>&quot;comic&quot;</bucket>
+              <bucket>&quot;classic schlager&quot;</bucket>
+              <bucket>&quot;cali rap&quot;</bucket>
+              <bucket>&quot;broadway&quot;</bucket>
+              <bucket>&quot;british soul&quot;</bucket>
+              <bucket>&quot;belgian dance&quot;</bucket>
+              <bucket>&quot;beatlesque&quot;</bucket>
+              <bucket>&quot;basshall&quot;</bucket>
+              <bucket>&quot;baroque pop&quot;</bucket>
+              <bucket>&quot;balkan hip hop&quot;</bucket>
+              <bucket>&quot;art rock&quot;</bucket>
+              <bucket>&quot;antideutsche&quot;</bucket>
+              <bucket>&quot;alternative pop rock&quot;</bucket>
+              <bucket>&quot;albanian pop&quot;</bucket>
+              <bucket>&quot;afroswing&quot;</bucket>
+              <bucket>&quot;a cappella&quot;</bucket>
+              <bucket>&quot;8-bit&quot;</bucket>
+              <bucket>%all%</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[year (group)]'>
+            <groupfilter function='member' level='[year (group)]' member='&quot;pre-crisis&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[none:genre:nk]</column>
+            <column>[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[year (group)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[none:genre:nk]</rows>
+        <cols>[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[pcto:cnt:genre:qk]</cols>
+      </table>
+      <simple-id uuid='{5E35377D-0746-4B05-8C49-DBE508E61CBC}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' name='pre-crisis'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[none:genre:nk]</field>
+            <field>[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[none:id:ok]</field>
+            <field>[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[year (group)]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{6EFF3179-3DFD-4554-BF92-99BA8D963233}' />
+    </window>
+    <window class='worksheet' maximized='true' name='post-crisis'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[none:genre:nk]</field>
+            <field>[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[none:id:ok]</field>
+            <field>[federated.1lpl43b0c4z8x91g7sjye03i8fbf].[year (group)]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{9C970003-408E-4603-88D4-87AF76E760E0}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='post-crisis' width='192'>
+      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
+      iHea/x9/jLdpWwMaVgAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='192' name='pre-crisis' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>
