@@ -4,7 +4,7 @@ This is my final project for the "Data Analytics" Bootcamp of Ironhack Berlin in
 
 #### Project Status: [Completed]
 
-![Presentation of main findings](https://github.com/jast92/final-DE-music-in-corona-times)
+![Presentation of main findings](https://github.com/jast92/final-DE-music-in-corona-times/blob/main/presentation/presentation_impact_corona_mainstream_music_germany.pdf)
 
 ## Project Intro
 
