@@ -79,12 +79,12 @@ The data was collected from different data sources. I used information from www.
 1. The folder [**top100**](https://github.com/jast92/final-DE-music-in-corona-times/tree/main/top100) contains all the jupyter notebooks and raw files of all German Top 100 charts which were scraped from [www.offiziellecharts.de](https://www.offiziellecharts.de).
 2. In the folder [**analysis**](https://github.com/jast92/final-DE-music-in-corona-times/tree/main/analysis) you can find all the jupyter notebooks which I used to conduct my analysis.
 3. [**tableau**](https://github.com/jast92/final-DE-music-in-corona-times/tree/main/tableau) contains the Tableau files which I partly used for my analysis.
-4. The graphics created in the analysis using Matplotlib can be found in the folder [**graphics**](https://github.com/jast92/final-DE-music-in-corona-times/tree/main/graphics)
+4. The graphics created in the analysis using Matplotlib can be found in the folder [**graphics**](https://github.com/jast92/final-DE-music-in-corona-times/tree/main/graphics).
 5. All the files containing the dataframes can be found as CSV and PKL in the [**files**](https://github.com/jast92/final-DE-music-in-corona-times/tree/main/files) folder.
-6. The presentation with all my findings can you find [**here**](https://github.com/jast92/final-DE-music-in-corona-times/tree/main/presentation).
+6. If you want to find out what my findings where, I invite you to take a look at my [**presentation**](https://github.com/jast92/final-DE-music-in-corona-times/tree/main/presentation).
 
 
-## Optimization of models
+## Analysis optimization
 When you feel intrigued by my analysis and you want to collaborate to make this analysis even better, feel free to reach out to me (contact information see below)!
 
 
