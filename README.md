@@ -1,10 +1,10 @@
+[<img src="https://github.com/jast92/final-DE-music-in-corona-times/blob/main/graphics/presentation_impact_corona_mainstream_music_germany.png">](https://github.com/jast92/final-DE-music-in-corona-times/blob/main/presentation/presentation_impact_corona_mainstream_music_germany.pdf)
+
 # final-DE-music-in-corona-times
 
 This is my final project for the "Data Analytics" Bootcamp of Ironhack Berlin in 2020. If you are interested in other Data Science projects which I have worked on, feel free to browse my [GitHub profile](https://github.com/jast92/).
 
 #### Project Status: [Completed]
-
-![Presentation of main findings](https://github.com/jast92/final-DE-music-in-corona-times/blob/main/presentation/presentation_impact_corona_mainstream_music_germany.pdf)
 
 ## Project Intro
 
